@@ -18,8 +18,8 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Gemma Danks' open research lab book including tutorials, articles and tips
   for programming, data science, machine learning and the research lifecycle.
-twitter_username: username
-github_username: username
+twitter_username: gemmadanks
+github_username: gemmadanks
 minimal_mistakes_skin: "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
@@ -59,17 +59,17 @@ plugins:
 author:
   name   : "Gemma Danks"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Making sense of star stuff."
+  bio    : "Making sense of star stuff"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.gemmadanks.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/gemmadanks"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/gemmadanks"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/gbdanks"
@@ -78,10 +78,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/gemmadanks"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/gemmadanks"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/gbdanks"
