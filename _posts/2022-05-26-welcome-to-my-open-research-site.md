@@ -60,6 +60,9 @@ A full history of changes will be visible since I will place everything under ve
 ## Follow me
 For now I am still setting up this site and my next post will document how I did that. If you'd like to follow my journey you can find me on [Twitter][twitter-profile] where I will post links to new content. If you want to read more about me, my background and my previous research you can check out [my personal website][gemma-danks].
 
+## Share your thoughts
+Thank you for taking an interest in my site! If you have any thoughts on open research, or any other feedback you'd like to share, please leave a comment below.
+
 
 [twitter-profile]: https://twitter.com/gemmadanks
 [gemma-danks]: https://gemmadanks.com
