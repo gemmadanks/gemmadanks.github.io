@@ -4,13 +4,13 @@ date: 2022-09-08 T14:25:00+01:00
 categories:
   - posts
 tags:
-  - background
+  - background, process, planning
 excerpt_separator: <!--more-->
 ---
 
 For several years I worked as a consultant in a large engineering firm, building advanced machine learning models for predictive maintenance of their equipment. During this time I was often asked to formally document (or map) the processes I was following when developing and deploying models. 
 
-A process map is simply **a visual overview (flow chart)** of a set of activities - in this case, how to go from raw data to a model fit for real-world use. 
+A process map is simply **a visual overview (flow chart) of a set of activities** - in this case, how to go from raw data to a model fit for real-world use. 
 
 Creating these maps was time-consuming to start with but it had enormous benefits in the long run (more on that below) and I found it so valuable in the end that I also took this approach in other projects outside of engineering and I am now using it to map and optimise my research process. I recommend using it for any set of activities that is repeated and where efficiency or clarity is important.
 
