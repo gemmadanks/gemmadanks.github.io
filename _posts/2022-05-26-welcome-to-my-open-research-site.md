@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my open research site!"
-date: 2022-05-26 T19:12:30+01:00
+date: 2022-05-26 T19:12:30
 categories:
   - posts
 tags:

@@ -1,10 +1,12 @@
 ---
 title: "How to set up a GitHub pages website on a Mac"
-date: 2022-06-23 T14:54:30-04:00
+date: 2022-06-23 T14:54:30
 categories:
   - posts
 tags:
-  - setup, github, website
+  - setup
+  - github
+  - website
 excerpt_separator: <!--more-->
 ---
 
