@@ -22,8 +22,8 @@ This topic came out third in [my decision matrix][choosing-research-topic] for d
 1. [AI for translating unseen languages][ai-nonhuman-language]
 2. [Extraterrestrial technosignatures][technosignatures]
 3. **Recognising AI sentience**
-4. Biosignatures
-5. AI misuse: pathogenic DNA
+4. [Biosignatures][biosignatures]
+5. [AI misuse: pathogenic DNA][ai-misuse-pathogenic-dna]
    
 Here are my notes resulting from a day spent scratching the surface of the artificial sentience field.
 
@@ -63,9 +63,10 @@ This is a very neglected field of research and the impacts of failing to recogni
 
 One of the biggest challenges is that we do not understand our own sentience, and we are still struggling to recognise sentience in non-human animals. I would have to spend a lot longer reading up about it before I could pick a research question in this field. The [Sentience Institute][sentience-institute] has a lot of material for learning more and has ongoing work on the topic.
 
-
-[ai-nonhuman-language]: https://open-research.gemmadanks.com/posts/ai-for-decoding-non-human-languages/s
+[ai-misuse-pathogenic-dna]: https://open-research.gemmadanks.com/posts/ai-misuse-pathogenic-dna/
+[ai-nonhuman-language]: https://open-research.gemmadanks.com/posts/ai-for-decoding-non-human-languages/
 [animal-ethics]: https://www.animal-ethics.org/criteria-for-recognizing-sentience/
+[biosignatures]: https://open-research.gemmadanks.com/posts/exoplanet-biosignatures/
 [choosing-research-topic]: https://open-research.gemmadanks.com/posts/choosing-research-topic/
 [factory-farming]: https://80000hours.org/problem-profiles/factory-farming/
 [longtermism]: https://80000hours.org/articles/future-generations/

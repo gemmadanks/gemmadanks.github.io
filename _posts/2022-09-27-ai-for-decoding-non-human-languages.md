@@ -14,7 +14,15 @@ tags:
 
 A.I. has become incredibly powerful for translating human languages. Could it be used to glean information from non-human languages? The impact of understanding non-human animal communication would be enormous. We would have the knowledge and the additional motivation to reduce their suffering on a global scale and improve conservation efforts. We would also be better prepared for any extraterrestrial messages that we find.
 
-This topic came out top of [my decision matrix][choosing-research-topic] for deciding what to work on next based on impact and how well it matches my skills and interests. I am spending one day on each of my top 5 topics to learn a bit more before choosing which to focus on. Here are my notes resulting from a day spent learning about the current status of using A.I. to decode non-human languages.
+This topic came out top of [my decision matrix][choosing-research-topic] for deciding what to work on next based on impact and how well it matches my skills and interests. I am spending one day on each of my top 5 topics to learn a bit more before choosing which to focus on:
+
+1. **AI for translating unseen languages**
+2. [Extraterrestrial technosignatures][technosignatures]
+3. [Recognising AI sentience][ai-sentience]
+4. [Biosignatures][biosignatures]
+5. [AI misuse: pathogenic DNA][ai-misuse-pathogenic-dna]
+
+Here are my notes resulting from a day spent learning about the current status of using A.I. to decode non-human languages.
 
 ## Existing work
 Interest in this topic is high and several projects are already underway.
@@ -62,7 +70,9 @@ Meaning can be extracted from human languages as we have people who can translat
 - <div class="csl-entry">Artetxe, M., Labaka, G., Agirre, E., &#38; Cho, K. (2017). Unsupervised Neural Machine Translation. <i>6th International Conference on Learning Representations, ICLR 2018 - Conference Track Proceedings</i>. https://doi.org/10.48550/arxiv.1710.11041</div>
 - <div class="csl-entry">Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., &#38; Polosukhin, I. (2017). Attention Is All You Need. <i>Advances in Neural Information Processing Systems</i>, <i>2017-December</i>, 5999–6009. https://doi.org/10.48550/arxiv.1706.03762</div>
 
-
+[ai-misuse-pathogenic-dna]: https://open-research.gemmadanks.com/posts/ai-misuse-pathogenic-dna/
+[ai-sentience]: https://open-research.gemmadanks.com/posts/recognising-ai-sentience/
+[biosignatures]: https://open-research.gemmadanks.com/posts/exoplanet-biosignatures/
 [ceti]: https://www.projectceti.org/
 [choosing-research-topic]: https://open-research.gemmadanks.com/posts/choosing-research-topic/
 [esp]: https://www.earthspecies.org/
@@ -71,4 +81,5 @@ Meaning can be extracted from human languages as we have people who can translat
 [elephant-listening-project]: https://elephantlisteningproject.org/
 [google-ai-transformer-blog]: https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
 [hugging-face-transformers]: https://huggingface.co/docs/transformers/index
+[technosignatures]: https://open-research.gemmadanks.com/posts/technosignatures/
 [tensorflow-transformer-tutorial]: https://www.tensorflow.org/text/tutorials/transformer

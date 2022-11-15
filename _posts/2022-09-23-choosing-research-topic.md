@@ -215,11 +215,11 @@ The table below is the end result of my decision matrix (here is the [spreadshee
 ## My top 5
 Since I am somewhat uncertain about my scoring (there was a lot of guessing), my next step is to spend a day learning more about each of my top 5 topics before deciding which of these to make a start on:
 
-1. AI for translating unseen languages
-2. Extraterrestrial technosignatures
-3. Recognising AI sentience
-4. Biosignatures
-5. AI misuse: pathogenic DNA
+1. [AI for translating unseen languages][ai-nonhuman-language]
+2. [Extraterrestrial technosignatures][technosignatures]
+3. [Recognising AI sentience][ai-sentience]
+4. [Biosignatures][biosignatures]
+5. [AI misuse: pathogenic DNA][ai-misuse-pathogenic-dna]
 
 I am excited about all of these!
 
@@ -231,6 +231,10 @@ How do you decide what to work on? Do you have a favourite tool for making decis
 [80000-hours-framework]: https://80000hours.org/articles/problem-framework/
 [80000-hours-pressing-problems]: https://80000hours.org/career-guide/most-pressing-problems/
 [80000-hours-list-project-ideas]: https://80000hours.org/articles/research-questions-by-discipline/
+[ai-misuse-pathogenic-dna]: https://open-research.gemmadanks.com/posts/ai-misuse-pathogenic-dna/
+[ai-nonhuman-language]: https://open-research.gemmadanks.com/posts/ai-for-decoding-non-human-languages/
+[ai-sentience]: https://open-research.gemmadanks.com/posts/recognising-ai-sentience/
+[biosignatures]: https://open-research.gemmadanks.com/posts/exoplanet-biosignatures/
 [cell]: https://www.cell.com/
 [decision-matrix-template-excel]: https://github.com/gemmadanks/gemmadanks.github.io/blob/main/assets/docs/research-topic-decision-matrix-template.xlsx
 [decision-matrix-template-google-sheet]: https://docs.google.com/spreadsheets/d/1WH4RWyx4piWw38eiiRmEjXOeyoMy5lbwzzuMOSip1Zg/edit?usp=sharing
@@ -239,6 +243,7 @@ How do you decide what to work on? Do you have a favourite tool for making decis
 [nature]: https://www.nature.com/nature/research-articles
 [research-topic-decision-matrix-spreadsheet]: https://github.com/gemmadanks/gemmadanks.github.io/blob/main/assets/docs/research-topic-decision-matrix.xlsx
 [science]: https://www.science.org/toc/science/current
+[technosignatures]: https://open-research.gemmadanks.com/posts/technosignatures/
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>

@@ -22,7 +22,7 @@ This topic came out fourth in [my decision matrix][choosing-research-topic] for 
 2. [Extraterrestrial technosignatures][technosignatures]
 3. [Recognising AI sentience][ai-sentience]
 4. **Biosignatures**
-5. AI misuse: pathogenic DNA
+5. [AI misuse: pathogenic DNA][ai-misuse-pathogenic-dna]
    
 Here are my notes resulting from a couple of days reading up on biosignatures (in the context of detecting life on exoplanets, rather than life elsewhere in our solar system).
 
@@ -84,7 +84,8 @@ I find this a fascinating topic and one that I've wanted to work on for many yea
 
 I have one more topic to review before making a decision on what topic to pursue further but this is a strong contender.
 
-[ai-nonhuman-language]: https://open-research.gemmadanks.com/posts/ai-for-decoding-non-human-languages/s
+[ai-nonhuman-language]: https://open-research.gemmadanks.com/posts/ai-for-decoding-non-human-languages/
+[ai-misuse-pathogenic-dna]: https://open-research.gemmadanks.com/posts/ai-misuse-pathogenic-dna/
 [ai-sentience]: https://open-research.gemmadanks.com/posts/recognising-ai-sentience/
 [choosing-research-topic]: https://open-research.gemmadanks.com/posts/choosing-research-topic/
 [elt-gmt]: https://giantmagellan.org/

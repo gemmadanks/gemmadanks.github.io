@@ -21,9 +21,9 @@ This topic came out second in [my decision matrix][choosing-research-topic] for 
 
 1. [AI for translating unseen languages][ai-nonhuman-language]
 2. **Extraterrestrial technosignatures**
-3. Recognising AI sentience
-4. Biosignatures
-5. AI misuse: pathogenic DNA
+3. [Recognising AI sentience][ai-sentience]
+4. [Biosignatures][biosignatures]
+5. [AI misuse: pathogenic DNA][ai-misuse-pathogenic-dna]
    
 Here are my notes resulting from a day spent learning about the current status of the technosignatures and search for extaterrestrial intelligence (SETI) field.
 
@@ -100,7 +100,10 @@ Despite the challenges of finding extraterrestrial technosignatures, it seems li
 - [Protocol for post-detection][seti-detection-protocol]
 - [UK SETI Research Network (UKSRN)][uksrn]
 
+[ai-misuse-pathogenic-dna]: https://open-research.gemmadanks.com/posts/ai-misuse-pathogenic-dna/
 [ai-nonhuman-language]: https://open-research.gemmadanks.com/posts/ai-for-decoding-non-human-languages/
+[ai-sentience]: https://open-research.gemmadanks.com/posts/recognising-ai-sentience/
+[biosignatures]: https://open-research.gemmadanks.com/posts/exoplanet-biosignatures/
 [breakthrough-listen]: https://breakthroughinitiatives.org/initiative/1
 [breakthrough-listen-data]: https://breakthroughinitiatives.org/opendatasearch
 [breakthrough-listen-github]: https://github.com/UCBerkeleySETI/breakthrough

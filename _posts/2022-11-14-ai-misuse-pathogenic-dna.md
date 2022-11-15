@@ -31,7 +31,7 @@ This topic came out fifth in [my decision matrix][choosing-research-topic] for d
 Work in this field is an almost perfect match for my background (molecular biology, genomics and AI) but after reading up about it I have decided I am not comfortable with the potential misuse of my own research on this, given my focus on making all my output open and accessible to all!
 
 
-[ai-nonhuman-language]: https://open-research.gemmadanks.com/posts/ai-for-decoding-non-human-languages/s
+[ai-nonhuman-language]: https://open-research.gemmadanks.com/posts/ai-for-decoding-non-human-languages/
 [ai-sentience]: https://open-research.gemmadanks.com/posts/recognising-ai-sentience/
 [biosignatures]: https://open-research.gemmadanks.com/posts/exoplanet-biosignatures/
 [choosing-research-topic]: https://open-research.gemmadanks.com/posts/choosing-research-topic/
