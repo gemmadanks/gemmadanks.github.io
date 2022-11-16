@@ -1,0 +1,37 @@
+---
+layout: splash
+permalink: /
+hidden: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/header.jpeg
+  actions:
+    - label: "<i class='fa fa-book' aria-hidden='true'></i>  Read posts"
+      url: "/posts/"
+excerpt: >
+  Making sense of star stuff
+feature_row:
+  - image_path: /assets/images/bio-photo.jpg
+    alt: "about"
+    title: "Welcome to my open research site!"
+    excerpt: "My name is Gemma Danks and I have a background in artificial intelligence and genomics. This is the place where I organise, document and share my open research projects, how I work on them and what I learn in the process. It combines an open science lab book with a knowledge base of tutorials, tips and advice that I hope will be useful to others."
+    url: "/about/welcome-to-my-open-research-site/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/tech.jpeg
+    alt: "technology"
+    title: "Exoplanet technosignatures"
+    excerpt: "The discovery of a technologically advanced civilisation elsewhere in the universe would be monumental and the repercussions would extend millenia into the future as humanity (or its biological or technological descendants) embarks on interstellar travel. I have chosen this topic as my next research focus and I will be documenting my journey towards making a contribution to the field."
+    url: "/notes/technosignatures/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/process-research-crop.jpeg
+    alt: "research process"
+    title: "How to choose a research topic"
+    excerpt: "The main value of research comes from sharing it with others. I also want to share the process so I am documenting every step in the research cycle - starting with how I decide what to work on."
+    url: "/planning/choosing-research-topic/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+---
+
+{% include feature_row %}
