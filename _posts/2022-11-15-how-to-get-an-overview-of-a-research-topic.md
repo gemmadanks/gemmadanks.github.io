@@ -2,11 +2,12 @@
 title: "How to get an overview of a research topic in two days"
 date: 2022-11-15 T13:10:00
 categories:
-  - posts
+  - tutorials
 tags:
   - planning
   - research
   - decisions
+  - process
 ---
 
 I have spent about seven working days learning about five different topics that came out top in the [decision matrix][research-topic-decision-matrix-spreadsheet] that resulted from [my process for choosing a focus for my research][my-research-process] going forward. You can read my notes about each topic here:
@@ -73,14 +74,14 @@ Remember that two days is not enough time to cover everything and don't get side
 
 
 
-[ai-misuse-pathogenic-dna]: https://open-research.gemmadanks.com/posts/ai-misuse-pathogenic-dna/
-[ai-nonhuman-language]: https://open-research.gemmadanks.com/posts/ai-for-decoding-non-human-languages/
-[ai-sentience]: https://open-research.gemmadanks.com/posts/recognising-ai-sentience/
+[ai-misuse-pathogenic-dna]: https://open-research.gemmadanks.com/notes/ai-misuse-pathogenic-dna/
+[ai-nonhuman-language]: https://open-research.gemmadanks.com/notes/ai-for-decoding-non-human-languages/
+[ai-sentience]: https://open-research.gemmadanks.com/notes/recognising-ai-sentience/
 [arxiv]: https://arxiv.org/
 [biorxiv]: https://www.biorxiv.org/
-[biosignatures]: https://open-research.gemmadanks.com/posts/exoplanet-biosignatures/
+[biosignatures]: https://open-research.gemmadanks.com/notes/exoplanet-biosignatures/
 [mendeley]: https://www.mendeley.com/
-[my-research-process]: https://open-research.gemmadanks.com/posts/my-research-process/
+[my-research-process]: https://open-research.gemmadanks.com/planning/my-research-process/
 [research-gate]: https://www.researchgate.net/
 [research-topic-decision-matrix-spreadsheet]: https://github.com/gemmadanks/gemmadanks.github.io/blob/main/assets/docs/research-topic-decision-matrix.xlsx
-[technosignatures]: https://open-research.gemmadanks.com/posts/technosignatures/
+[technosignatures]: https://open-research.gemmadanks.com/notes/technosignatures/

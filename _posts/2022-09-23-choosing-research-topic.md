@@ -2,13 +2,12 @@
 title: "How to choose a research topic"
 date: 2022-09-23 T13:10:00
 categories:
-  - posts
+  - planning
 tags:
   - planning
   - research
   - tools
   - decisions
-  
 ---
 
 For most of my academic career, my choice of research topic was driven by curiosity, some sort of "gut feeling", and a desire to make a difference, discover something new and make a contribution towards human knowledge. In practice though, it was also heavily influenced by chance, availability of jobs and the research interests of my supervisors and collaborators. 
@@ -231,19 +230,19 @@ How do you decide what to work on? Do you have a favourite tool for making decis
 [80000-hours-framework]: https://80000hours.org/articles/problem-framework/
 [80000-hours-pressing-problems]: https://80000hours.org/career-guide/most-pressing-problems/
 [80000-hours-list-project-ideas]: https://80000hours.org/articles/research-questions-by-discipline/
-[ai-misuse-pathogenic-dna]: https://open-research.gemmadanks.com/posts/ai-misuse-pathogenic-dna/
-[ai-nonhuman-language]: https://open-research.gemmadanks.com/posts/ai-for-decoding-non-human-languages/
-[ai-sentience]: https://open-research.gemmadanks.com/posts/recognising-ai-sentience/
-[biosignatures]: https://open-research.gemmadanks.com/posts/exoplanet-biosignatures/
+[ai-misuse-pathogenic-dna]: https://open-research.gemmadanks.com/notes/ai-misuse-pathogenic-dna/
+[ai-nonhuman-language]: https://open-research.gemmadanks.com/notes/ai-for-decoding-non-human-languages/
+[ai-sentience]: https://open-research.gemmadanks.com/notes/recognising-ai-sentience/
+[biosignatures]: https://open-research.gemmadanks.com/notes/exoplanet-biosignatures/
 [cell]: https://www.cell.com/
 [decision-matrix-template-excel]: https://github.com/gemmadanks/gemmadanks.github.io/blob/main/assets/docs/research-topic-decision-matrix-template.xlsx
 [decision-matrix-template-google-sheet]: https://docs.google.com/spreadsheets/d/1WH4RWyx4piWw38eiiRmEjXOeyoMy5lbwzzuMOSip1Zg/edit?usp=sharing
 [ea-forum-directory-open-questions]: https://forum.effectivealtruism.org/posts/MsNpJBzv5YhdfNHc9/a-central-directory-for-open-research-questions
-[my-research-process]: https://open-research.gemmadanks.com/posts/my-research-process/
+[my-research-process]: https://open-research.gemmadanks.com/planning/my-research-process/
 [nature]: https://www.nature.com/nature/research-articles
 [research-topic-decision-matrix-spreadsheet]: https://github.com/gemmadanks/gemmadanks.github.io/blob/main/assets/docs/research-topic-decision-matrix.xlsx
 [science]: https://www.science.org/toc/science/current
-[technosignatures]: https://open-research.gemmadanks.com/posts/technosignatures/
+[technosignatures]: https://open-research.gemmadanks.com/notes/technosignatures/
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>

@@ -2,7 +2,7 @@
 title: "How to set up a Bluehost subdomain for a GitHub pages site"
 date: 2022-09-12 T12:27:30
 categories:
-  - posts
+  - tutorials
 tags:
   - setup
   - github
@@ -72,7 +72,7 @@ dig your-subdomain +nostats +nocomments +nocmd
 [bluehost-add-cname]: https://www.bluehost.com/hosting/help/cname
 [bluehost-subdomains]: https://www.bluehost.com/help/article/subdomains
 [github-pages-custom-domain]: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages
-[github-pages-setup]: https://open-research.gemmadanks.com/posts/how-to-set-up-github-pages-website/
+[github-pages-setup]: https://open-research.gemmadanks.com/tutorials/how-to-set-up-github-pages-website/
 [github-pages-url]: https://gemmadanks.github.io
 [previous-research]: https://gemmadanks.com/research
 [personal-website]: https://gemmadanks.com

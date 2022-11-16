@@ -2,10 +2,9 @@
 title: "Recognising AI sentience"
 date: 2022-10-07 T15:50:00
 categories:
-  - posts
+  - notes
 tags:
   - planning
-  - research
   - ai
   - decisions
   - sentience
@@ -63,15 +62,15 @@ This is a very neglected field of research and the impacts of failing to recogni
 
 One of the biggest challenges is that we do not understand our own sentience, and we are still struggling to recognise sentience in non-human animals. I would have to spend a lot longer reading up about it before I could pick a research question in this field. The [Sentience Institute][sentience-institute] has a lot of material for learning more and has ongoing work on the topic.
 
-[ai-misuse-pathogenic-dna]: https://open-research.gemmadanks.com/posts/ai-misuse-pathogenic-dna/
-[ai-nonhuman-language]: https://open-research.gemmadanks.com/posts/ai-for-decoding-non-human-languages/
+[ai-misuse-pathogenic-dna]: https://open-research.gemmadanks.com/notes/ai-misuse-pathogenic-dna/
+[ai-nonhuman-language]: https://open-research.gemmadanks.com/notes/ai-for-decoding-non-human-languages/
 [animal-ethics]: https://www.animal-ethics.org/criteria-for-recognizing-sentience/
-[biosignatures]: https://open-research.gemmadanks.com/posts/exoplanet-biosignatures/
-[choosing-research-topic]: https://open-research.gemmadanks.com/posts/choosing-research-topic/
+[biosignatures]: https://open-research.gemmadanks.com/notes/exoplanet-biosignatures/
+[choosing-research-topic]: https://open-research.gemmadanks.com/planning/choosing-research-topic/
 [factory-farming]: https://80000hours.org/problem-profiles/factory-farming/
 [longtermism]: https://80000hours.org/articles/future-generations/
 [moral-circle]: https://www.sciencedirect.com/science/article/pii/S0016328721000641
 [sentience-institute]: https://www.sentienceinstitute.org/blog/the-importance-of-artificial-sentience
 [sentience-institute-criteria]: https://www.sentienceinstitute.org/blog/assessing-sentience-in-artificial-entities
-[technosignatures]: https://open-research.gemmadanks.com/posts/technosignatures/
+[technosignatures]: https://open-research.gemmadanks.com/notes/technosignatures/
 [wild-animals]: https://80000hours.org/problem-profiles/wild-animal-welfare/

@@ -2,10 +2,9 @@
 title: "Exoplanet biosignatures"
 date: 2022-11-07 T10:13:00
 categories:
-  - posts
+  - notes
 tags:
   - planning
-  - research
   - astrobiology
   - decisions
   - biosignatures
@@ -84,10 +83,10 @@ I find this a fascinating topic and one that I've wanted to work on for many yea
 
 I have one more topic to review before making a decision on what topic to pursue further but this is a strong contender.
 
-[ai-nonhuman-language]: https://open-research.gemmadanks.com/posts/ai-for-decoding-non-human-languages/
-[ai-misuse-pathogenic-dna]: https://open-research.gemmadanks.com/posts/ai-misuse-pathogenic-dna/
-[ai-sentience]: https://open-research.gemmadanks.com/posts/recognising-ai-sentience/
-[choosing-research-topic]: https://open-research.gemmadanks.com/posts/choosing-research-topic/
+[ai-nonhuman-language]: https://open-research.gemmadanks.com/notes/ai-for-decoding-non-human-languages/
+[ai-misuse-pathogenic-dna]: https://open-research.gemmadanks.com/notes/ai-misuse-pathogenic-dna/
+[ai-sentience]: https://open-research.gemmadanks.com/notes/recognising-ai-sentience/
+[choosing-research-topic]: https://open-research.gemmadanks.com/planning/choosing-research-topic/
 [elt-gmt]: https://giantmagellan.org/
 [elt-elt]: https://elt.eso.org/
 [jwst]: https://webb.nasa.gov/index.html
@@ -95,5 +94,5 @@ I have one more topic to review before making a decision on what topic to pursue
 [nasa-astrobiology-strategy-2015]: https://astrobiology.nasa.gov/nai/media/medialibrary/2016/04/NASA_Astrobiology_Strategy_2015_FINAL_041216.pdf
 [nasa-astrobiology-roadmap-2008]: https://astrobiology.nasa.gov/nai/media/medialibrary/2013/09/AB_roadmap_2008.pdf
 [schweiterman-2018]: https://www.liebertpub.com/doi/10.1089/ast.2017.1729
-[technosignatures]: https://open-research.gemmadanks.com/posts/technosignatures/
+[technosignatures]: https://open-research.gemmadanks.com/notes/technosignatures/
 [tess]: https://www.nasa.gov/tess-transiting-exoplanet-survey-satellite

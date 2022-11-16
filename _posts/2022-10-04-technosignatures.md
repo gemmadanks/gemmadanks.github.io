@@ -2,14 +2,13 @@
 title: "Technosignatures"
 date: 2022-10-04 T11:00:00
 categories:
-  - posts
+  - notes
 tags:
   - planning
-  - research
-  - ai
   - decisions
   - astrobiology
   - technosignatures
+  - exoplanets
 ---
 
 
@@ -100,16 +99,16 @@ Despite the challenges of finding extraterrestrial technosignatures, it seems li
 - [Protocol for post-detection][seti-detection-protocol]
 - [UK SETI Research Network (UKSRN)][uksrn]
 
-[ai-misuse-pathogenic-dna]: https://open-research.gemmadanks.com/posts/ai-misuse-pathogenic-dna/
-[ai-nonhuman-language]: https://open-research.gemmadanks.com/posts/ai-for-decoding-non-human-languages/
-[ai-sentience]: https://open-research.gemmadanks.com/posts/recognising-ai-sentience/
-[biosignatures]: https://open-research.gemmadanks.com/posts/exoplanet-biosignatures/
+[ai-misuse-pathogenic-dna]: https://open-research.gemmadanks.com/notes/ai-misuse-pathogenic-dna/
+[ai-nonhuman-language]: https://open-research.gemmadanks.com/notes/ai-for-decoding-non-human-languages/
+[ai-sentience]: https://open-research.gemmadanks.com/notes/recognising-ai-sentience/
+[biosignatures]: https://open-research.gemmadanks.com/notes/exoplanet-biosignatures/
 [breakthrough-listen]: https://breakthroughinitiatives.org/initiative/1
 [breakthrough-listen-data]: https://breakthroughinitiatives.org/opendatasearch
 [breakthrough-listen-github]: https://github.com/UCBerkeleySETI/breakthrough
 [breakthrough-listen-kaggle]: https://www.kaggle.com/c/seti-breakthrough-listen
 [breakthrough-listen-verification]: http://seti.berkeley.edu/blc1/flowchart.html
-[choosing-research-topic]: https://open-research.gemmadanks.com/posts/choosing-research-topic/
+[choosing-research-topic]: https://open-research.gemmadanks.com/planning/choosing-research-topic/
 [dyson-sphere]: https://en.wikipedia.org/wiki/Dyson_sphere
 [eaarocibo]: http://www.eaaro.org.uk/projects.php
 [jwst]: https://webb.nasa.gov/index.html

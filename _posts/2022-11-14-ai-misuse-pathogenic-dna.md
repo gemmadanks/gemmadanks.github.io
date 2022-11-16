@@ -2,10 +2,9 @@
 title: "AI misuse: pathogenic DNA"
 date: 2022-11-14 T10:13:00
 categories:
-  - posts
+  - notes
 tags:
   - planning
-  - research
   - ai
   - decisions
   - genomics
@@ -31,11 +30,11 @@ This topic came out fifth in [my decision matrix][choosing-research-topic] for d
 Work in this field is an almost perfect match for my background (molecular biology, genomics and AI) but after reading up about it I have decided I am not comfortable with the potential misuse of my own research on this, given my focus on making all my output open and accessible to all!
 
 
-[ai-nonhuman-language]: https://open-research.gemmadanks.com/posts/ai-for-decoding-non-human-languages/
-[ai-sentience]: https://open-research.gemmadanks.com/posts/recognising-ai-sentience/
-[biosignatures]: https://open-research.gemmadanks.com/posts/exoplanet-biosignatures/
-[choosing-research-topic]: https://open-research.gemmadanks.com/posts/choosing-research-topic/
+[ai-nonhuman-language]: https://open-research.gemmadanks.com/notes/ai-for-decoding-non-human-languages/
+[ai-sentience]: https://open-research.gemmadanks.com/notes/recognising-ai-sentience/
+[biosignatures]: https://open-research.gemmadanks.com/notes/exoplanet-biosignatures/
+[choosing-research-topic]: https://open-research.gemmadanks.com/planning/choosing-research-topic/
 [cloud-lab]: https://www.rsb.org.uk/biologist-features/the-biologist-s-guide-to-cloud-labs
 [durc]: https://www.who.int/news-room/questions-and-answers/item/what-is-dual-use-research-of-concern
 [gcbr]: https://80000hours.org/problem-profiles/preventing-catastrophic-pandemics/
-[technosignatures]: https://open-research.gemmadanks.com/posts/technosignatures/
+[technosignatures]: https://open-research.gemmadanks.com/notes/technosignatures/

@@ -2,9 +2,9 @@
 title: "The benefits of process mapping and my research process"
 date: 2022-09-08 T14:25:00
 categories:
-  - posts
+  - planning
 tags:
-  - background
+  - about
   - process
   - planning
 excerpt_separator: <!--more-->
