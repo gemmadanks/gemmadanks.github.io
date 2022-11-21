@@ -1,0 +1,801 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>The benefits of process mapping and my research process - Gemma’s Open Research</title>
+<meta name="description" content="For several years I worked as a consultant in a large engineering firm, building advanced machine learning models for predictive maintenance of their equipment. During this time I was often asked to formally document (or map) the processes I was following when developing and deploying models.  A process map is simply a visual overview (flow chart) of a set of activities - in this case, how to go from raw data to a model fit for real-world use.  Creating these maps was time-consuming to start with but it had enormous benefits in the long run (more on that below) and I found it so valuable in the end that I also took this approach in other projects outside of engineering and I am now using it to map and optimise my research process. I recommend using it for any set of activities that is repeated and where efficiency or clarity is important.  How to map a process    Identify all events, activities, tasks, decision points, inputs, outputs, resources and people involved   Order and connect activities and decision points into a sequence   Group tasks into sub-processes where appropriate   Draw up and annotate a flow chart (or several if sub-processess are involved) - use standardised symbols for ease of sharing with others (I am using the Business Process Model and Notation (BPMN)):            Circles = events       Rectangles = activity (dashed outline if this is a subprocess)       Diamonds = decision points           Identify any gaps or unclear tasks and fill these in   Share with stakeholders and respond to feedback   Regularly review, improve and update the process   Benefits of process mapping    Complex processes can be communicated to stakeholders in a format that is easy to understand (e.g. how do you go from raw data to a model that alerts engineers of a problem) - this was critical in my engineering projects   Important decision points are documented and easily referenced (e.g. is this model good enough to deploy?)   A process map provides a framework for discussion with domain experts (e.g. what model outputs are the most useful for an engineer)   New team members can be onboarded quickly (the map puts the project as well as the source code in context)   It is easier to spot bottlenecks, activities that don’t add value and areas with room for improvement or simplification (e.g. this step takes time because it requires detailed validation by a domain expert)   The order of activities is standardised, which improves efficiency (e.g. do not optimise the model architecture until you have agreed on the outputs with the engineers)   All team members gain a clear understanding of the entire process even if they are only working on one task   Rabbit holes and time spent on unnecessary incremental improvements are avoided (e.g. if the error is below this threshold it is good enough to deploy now, since this provides more value than waiting for a better model) - this was the biggest difference in mindset I experienced working in industry vs. academia   My research process  Here is the result of a morning spent mapping my research process - a flow diagram that starts with the event ‘field of research chosen’ and ends with the event ‘publication accepted’ and iterates for endless opportunites for discovery!  I have coloured the arrows to show the shortest path (green), the paths involving additional learning or growth (blue) and the paths that lead to delays and should be avoided if possible (red).  Over time, I will return to this diagram and revise it. I will also create maps for the sub-processes (activities with dashed outlines) as I go along.    This is essentially the process I settled into when I was a senior postdoc, managing my own projects. It is based on my own experience in molecular biology and bioinformatics. Overall, it is a fairly standard way of conducting academic research but my process has evolved somewhat over the course of my career leading to two main tweaks compared to how I started.  Hypothesis-driven research only  At the beginning of my research career (PhD and first postdoc) I did a lot of exploratory research and only later focussed on formulating and testing specific hypotheses (which emerged from the exploratory work). I much prefer the hypothesis-driven appproach - diving into data looking for patterns quickly becomes (for me at least) overwhelming and frustrating without a specific question to answer and it can lead to a lot of wasted effort.  From now on, I will only move forward if I have a specific question in mind.  Start at the end The biggest shift in how I worked happened during my second postdoc when I also had my second child. Juggling a baby, a toddler and my research meant I needed to be much more efficient. I decided to eliminate all activities that would not lead to the end goal, which in academia is always publications - as many as possible in journals with as high an impact as possible. This is how researchers are judged - ‘publish or perish’ is the reality.  So I started at the end goal - outlining the paper. I already had a hypothesis I wanted to test so I started with what results (figures and statistics) would allow me (and the scientific community) to accept or reject my hypothesis. Then I worked backwards:    What data would I need to obtain these results?   What experiments would give me this data?   What resources (people, time, skills, equipment, reagents) would I need for these experiments?   I then sketched the figures and wrote an outline for the methods and results sections. I listed the important background topics in the introduction.  The gaps in this paper outline, and only the gaps, formed the tasks for me to complete. This included literature reviews and designing and conducting experiments and analyses (both wet and dry lab).  This saved a lot of time and made my work much more efficient and focussed. It turned out that the final step - getting the paper published - was the main bottleneck, which is not uncommon in the research process! You can see the final result (open access) here.  For my open research I will use the same paper-driven approach since I do think a paper is a good tool for focussing my efforts as well as providing a good summary of the research (with the benefit of hindsight), giving others the shortest path to my results. The main difference will be that I also publish my output at each step along the way towards publication.  Share your thoughts Do you have any thoughts on mapping processes or the research process? Let me know in the comments below!">
+
+
+  <meta name="author" content="Gemma Danks">
+  
+  <meta property="article:author" content="Gemma Danks">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Gemma's Open Research">
+<meta property="og:title" content="The benefits of process mapping and my research process">
+<meta property="og:url" content="https://open-research.gemmadanks.com//pages/gemmadanks/planning/my-research-process/">
+
+
+  <meta property="og:description" content="For several years I worked as a consultant in a large engineering firm, building advanced machine learning models for predictive maintenance of their equipment. During this time I was often asked to formally document (or map) the processes I was following when developing and deploying models.  A process map is simply a visual overview (flow chart) of a set of activities - in this case, how to go from raw data to a model fit for real-world use.  Creating these maps was time-consuming to start with but it had enormous benefits in the long run (more on that below) and I found it so valuable in the end that I also took this approach in other projects outside of engineering and I am now using it to map and optimise my research process. I recommend using it for any set of activities that is repeated and where efficiency or clarity is important.  How to map a process    Identify all events, activities, tasks, decision points, inputs, outputs, resources and people involved   Order and connect activities and decision points into a sequence   Group tasks into sub-processes where appropriate   Draw up and annotate a flow chart (or several if sub-processess are involved) - use standardised symbols for ease of sharing with others (I am using the Business Process Model and Notation (BPMN)):            Circles = events       Rectangles = activity (dashed outline if this is a subprocess)       Diamonds = decision points           Identify any gaps or unclear tasks and fill these in   Share with stakeholders and respond to feedback   Regularly review, improve and update the process   Benefits of process mapping    Complex processes can be communicated to stakeholders in a format that is easy to understand (e.g. how do you go from raw data to a model that alerts engineers of a problem) - this was critical in my engineering projects   Important decision points are documented and easily referenced (e.g. is this model good enough to deploy?)   A process map provides a framework for discussion with domain experts (e.g. what model outputs are the most useful for an engineer)   New team members can be onboarded quickly (the map puts the project as well as the source code in context)   It is easier to spot bottlenecks, activities that don’t add value and areas with room for improvement or simplification (e.g. this step takes time because it requires detailed validation by a domain expert)   The order of activities is standardised, which improves efficiency (e.g. do not optimise the model architecture until you have agreed on the outputs with the engineers)   All team members gain a clear understanding of the entire process even if they are only working on one task   Rabbit holes and time spent on unnecessary incremental improvements are avoided (e.g. if the error is below this threshold it is good enough to deploy now, since this provides more value than waiting for a better model) - this was the biggest difference in mindset I experienced working in industry vs. academia   My research process  Here is the result of a morning spent mapping my research process - a flow diagram that starts with the event ‘field of research chosen’ and ends with the event ‘publication accepted’ and iterates for endless opportunites for discovery!  I have coloured the arrows to show the shortest path (green), the paths involving additional learning or growth (blue) and the paths that lead to delays and should be avoided if possible (red).  Over time, I will return to this diagram and revise it. I will also create maps for the sub-processes (activities with dashed outlines) as I go along.    This is essentially the process I settled into when I was a senior postdoc, managing my own projects. It is based on my own experience in molecular biology and bioinformatics. Overall, it is a fairly standard way of conducting academic research but my process has evolved somewhat over the course of my career leading to two main tweaks compared to how I started.  Hypothesis-driven research only  At the beginning of my research career (PhD and first postdoc) I did a lot of exploratory research and only later focussed on formulating and testing specific hypotheses (which emerged from the exploratory work). I much prefer the hypothesis-driven appproach - diving into data looking for patterns quickly becomes (for me at least) overwhelming and frustrating without a specific question to answer and it can lead to a lot of wasted effort.  From now on, I will only move forward if I have a specific question in mind.  Start at the end The biggest shift in how I worked happened during my second postdoc when I also had my second child. Juggling a baby, a toddler and my research meant I needed to be much more efficient. I decided to eliminate all activities that would not lead to the end goal, which in academia is always publications - as many as possible in journals with as high an impact as possible. This is how researchers are judged - ‘publish or perish’ is the reality.  So I started at the end goal - outlining the paper. I already had a hypothesis I wanted to test so I started with what results (figures and statistics) would allow me (and the scientific community) to accept or reject my hypothesis. Then I worked backwards:    What data would I need to obtain these results?   What experiments would give me this data?   What resources (people, time, skills, equipment, reagents) would I need for these experiments?   I then sketched the figures and wrote an outline for the methods and results sections. I listed the important background topics in the introduction.  The gaps in this paper outline, and only the gaps, formed the tasks for me to complete. This included literature reviews and designing and conducting experiments and analyses (both wet and dry lab).  This saved a lot of time and made my work much more efficient and focussed. It turned out that the final step - getting the paper published - was the main bottleneck, which is not uncommon in the research process! You can see the final result (open access) here.  For my open research I will use the same paper-driven approach since I do think a paper is a good tool for focussing my efforts as well as providing a good summary of the research (with the benefit of hindsight), giving others the shortest path to my results. The main difference will be that I also publish my output at each step along the way towards publication.  Share your thoughts Do you have any thoughts on mapping processes or the research process? Let me know in the comments below!">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2022-09-08T14:25:00+01:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://open-research.gemmadanks.com//pages/gemmadanks/planning/my-research-process/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "https://open-research.gemmadanks.com//pages/gemmadanks/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/pages/gemmadanks/feed.xml" type="application/atom+xml" rel="alternate" title="Gemma's Open Research Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/pages/gemmadanks/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/pages/gemmadanks/">
+          Gemma's Open Research
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/pages/gemmadanks/posts/">Posts</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pages/gemmadanks/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pages/gemmadanks/tags/">Tags</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pages/gemmadanks/archive/">Archive</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pages/gemmadanks/about/welcome-to-my-open-research-site/">About</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+  
+    
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/pages/gemmadanks/" itemprop="item"><span itemprop="name">Home</span></a>
+
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep">/</span>
+      
+      
+        
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/pages/gemmadanks/categories/#planning" itemprop="item"><span itemprop="name">Planning</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        <span class="sep">/</span>
+      
+    
+      
+      
+        <li class="current">The benefits of process mapping and my research process</li>
+      
+    
+  </ol>
+</nav>
+
+  
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
+
+  
+    <div class="author__avatar">
+      <a href="https://open-research.gemmadanks.com//pages/gemmadanks/">
+        <img src="/pages/gemmadanks/assets/images/bio-photo.jpg" alt="Gemma Danks" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="https://open-research.gemmadanks.com//pages/gemmadanks/" itemprop="url">Gemma Danks</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>Making sense of star stuff</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+        
+          
+            <li><a href="https://www.gemmadanks.com" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">Website</span></a></li>
+          
+        
+          
+            <li><a href="https://twitter.com/gemmadanks" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a></li>
+          
+        
+          
+            <li><a href="https://github.com/gemmadanks" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+          
+        
+          
+            <li><a href="https://www.linkedin.com/in/gemmadanks/" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
+          
+        
+          
+            <li><a href="https://instagram.com/gbdanks" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="The benefits of process mapping and my research process">
+    <meta itemprop="description" content="For several years I worked as a consultant in a large engineering firm, building advanced machine learning models for predictive maintenance of their equipment. During this time I was often asked to formally document (or map) the processes I was following when developing and deploying models.A process map is simply a visual overview (flow chart) of a set of activities - in this case, how to go from raw data to a model fit for real-world use.Creating these maps was time-consuming to start with but it had enormous benefits in the long run (more on that below) and I found it so valuable in the end that I also took this approach in other projects outside of engineering and I am now using it to map and optimise my research process. I recommend using it for any set of activities that is repeated and where efficiency or clarity is important.How to map a process  Identify all events, activities, tasks, decision points, inputs, outputs, resources and people involved  Order and connect activities and decision points into a sequence  Group tasks into sub-processes where appropriate  Draw up and annotate a flow chart (or several if sub-processess are involved) - use standardised symbols for ease of sharing with others (I am using the Business Process Model and Notation (BPMN)):          Circles = events      Rectangles = activity (dashed outline if this is a subprocess)      Diamonds = decision points        Identify any gaps or unclear tasks and fill these in  Share with stakeholders and respond to feedback  Regularly review, improve and update the processBenefits of process mapping  Complex processes can be communicated to stakeholders in a format that is easy to understand (e.g. how do you go from raw data to a model that alerts engineers of a problem) - this was critical in my engineering projects  Important decision points are documented and easily referenced (e.g. is this model good enough to deploy?)  A process map provides a framework for discussion with domain experts (e.g. what model outputs are the most useful for an engineer)  New team members can be onboarded quickly (the map puts the project as well as the source code in context)  It is easier to spot bottlenecks, activities that don’t add value and areas with room for improvement or simplification (e.g. this step takes time because it requires detailed validation by a domain expert)  The order of activities is standardised, which improves efficiency (e.g. do not optimise the model architecture until you have agreed on the outputs with the engineers)  All team members gain a clear understanding of the entire process even if they are only working on one task  Rabbit holes and time spent on unnecessary incremental improvements are avoided (e.g. if the error is below this threshold it is good enough to deploy now, since this provides more value than waiting for a better model) - this was the biggest difference in mindset I experienced working in industry vs. academiaMy research processHere is the result of a morning spent mapping my research process - a flow diagram that starts with the event ‘field of research chosen’ and ends with the event ‘publication accepted’ and iterates for endless opportunites for discovery!I have coloured the arrows to show the shortest path (green), the paths involving additional learning or growth (blue) and the paths that lead to delays and should be avoided if possible (red).Over time, I will return to this diagram and revise it. I will also create maps for the sub-processes (activities with dashed outlines) as I go along.This is essentially the process I settled into when I was a senior postdoc, managing my own projects. It is based on my own experience in molecular biology and bioinformatics. Overall, it is a fairly standard way of conducting academic research but my process has evolved somewhat over the course of my career leading to two main tweaks compared to how I started.Hypothesis-driven research onlyAt the beginning of my research career (PhD and first postdoc) I did a lot of exploratory research and only later focussed on formulating and testing specific hypotheses (which emerged from the exploratory work). I much prefer the hypothesis-driven appproach - diving into data looking for patterns quickly becomes (for me at least) overwhelming and frustrating without a specific question to answer and it can lead to a lot of wasted effort.From now on, I will only move forward if I have a specific question in mind.Start at the endThe biggest shift in how I worked happened during my second postdoc when I also had my second child. Juggling a baby, a toddler and my research meant I needed to be much more efficient. I decided to eliminate all activities that would not lead to the end goal, which in academia is always publications - as many as possible in journals with as high an impact as possible. This is how researchers are judged - ‘publish or perish’ is the reality.So I started at the end goal - outlining the paper. I already had a hypothesis I wanted to test so I started with what results (figures and statistics) would allow me (and the scientific community) to accept or reject my hypothesis. Then I worked backwards:  What data would I need to obtain these results?  What experiments would give me this data?  What resources (people, time, skills, equipment, reagents) would I need for these experiments?I then sketched the figures and wrote an outline for the methods and results sections. I listed the important background topics in the introduction.The gaps in this paper outline, and only the gaps, formed the tasks for me to complete. This included literature reviews and designing and conducting experiments and analyses (both wet and dry lab).This saved a lot of time and made my work much more efficient and focussed. It turned out that the final step - getting the paper published - was the main bottleneck, which is not uncommon in the research process! You can see the final result (open access) here.For my open research I will use the same paper-driven approach since I do think a paper is a good tool for focussing my efforts as well as providing a good summary of the research (with the benefit of hindsight), giving others the shortest path to my results. The main difference will be that I also publish my output at each step along the way towards publication.Share your thoughtsDo you have any thoughts on mapping processes or the research process? Let me know in the comments below!">
+    <meta itemprop="datePublished" content="2022-09-08T14:25:00+01:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://open-research.gemmadanks.com//pages/gemmadanks/planning/my-research-process/" class="u-url" itemprop="url">The benefits of process mapping and my research process
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-09-08T14:25:00+01:00">September 8, 2022</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          5 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+        <p>For several years I worked as a consultant in a large engineering firm, building advanced machine learning models for predictive maintenance of their equipment. During this time I was often asked to formally document (or map) the processes I was following when developing and deploying models.</p>
+
+<p>A process map is simply <strong>a visual overview (flow chart) of a set of activities</strong> - in this case, how to go from raw data to a model fit for real-world use.</p>
+
+<p>Creating these maps was time-consuming to start with but it had enormous benefits in the long run (more on that below) and I found it so valuable in the end that I also took this approach in other projects outside of engineering and I am now using it to map and optimise my research process. I recommend using it for any set of activities that is repeated and where efficiency or clarity is important.</p>
+
+<h2 id="how-to-map-a-process">How to map a process</h2>
+<ol>
+  <li>Identify all events, activities, tasks, decision points, inputs, outputs, resources and people involved</li>
+  <li>Order and connect activities and decision points into a sequence</li>
+  <li>Group tasks into sub-processes where appropriate</li>
+  <li>Draw up and annotate a flow chart (or several if sub-processess are involved) - use standardised symbols for ease of sharing with others (I am using the <a href="https://www.bpmnquickguide.com/view-bpmn-quick-guide/">Business Process Model and Notation (BPMN)</a>):
+    <ul>
+      <li>Circles = events</li>
+      <li>Rectangles = activity (dashed outline if this is a subprocess)</li>
+      <li>Diamonds = decision points</li>
+    </ul>
+  </li>
+  <li>Identify any gaps or unclear tasks and fill these in</li>
+  <li>Share with stakeholders and respond to feedback</li>
+  <li>Regularly review, improve and update the process</li>
+</ol>
+
+<h2 id="benefits-of-process-mapping">Benefits of process mapping</h2>
+<ul>
+  <li>Complex processes can be communicated to stakeholders in a format that is easy to understand (e.g. how do you go from raw data to a model that alerts engineers of a problem) - this was critical in my engineering projects</li>
+  <li>Important decision points are documented and easily referenced (e.g. is this model good enough to deploy?)</li>
+  <li>A process map provides a framework for discussion with domain experts (e.g. what model outputs are the most useful for an engineer)</li>
+  <li>New team members can be onboarded quickly (the map puts the project as well as the source code in context)</li>
+  <li>It is easier to spot bottlenecks, activities that don’t add value and areas with room for improvement or simplification (e.g. this step takes time because it requires detailed validation by a domain expert)</li>
+  <li>The order of activities is standardised, which improves efficiency (e.g. do not optimise the model architecture until you have agreed on the outputs with the engineers)</li>
+  <li>All team members gain a clear understanding of the entire process even if they are only working on one task</li>
+  <li>Rabbit holes and time spent on unnecessary incremental improvements are avoided (e.g. if the error is below this threshold it is good enough to deploy now, since this provides more value than waiting for a better model) - this was the biggest difference in mindset I experienced working in industry vs. academia</li>
+</ul>
+
+<h2 id="my-research-process">My research process</h2>
+
+<p>Here is the result of a morning spent mapping my research process - a flow diagram that starts with the event ‘field of research chosen’ and ends with the event ‘publication accepted’ and iterates for endless opportunites for discovery!</p>
+
+<p>I have coloured the arrows to show the shortest path (green), the paths involving additional learning or growth (blue) and the paths that lead to delays and should be avoided if possible (red).</p>
+
+<p>Over time, I will return to this diagram and revise it. I will also create maps for the sub-processes (activities with dashed outlines) as I go along.</p>
+
+<p><img src="/assets/images/process-research.jpg" alt="My research process" /></p>
+
+<p>This is essentially the process I settled into when I was a senior postdoc, managing my own projects. It is based on my own experience in molecular biology and bioinformatics. Overall, it is a fairly standard way of conducting academic research but my process has evolved somewhat over the course of my career leading to two main tweaks compared to how I started.</p>
+
+<h3 id="hypothesis-driven-research-only">Hypothesis-driven research only</h3>
+
+<p>At the beginning of my research career (PhD and first postdoc) I did a lot of exploratory research and only later focussed on formulating and testing specific hypotheses (which emerged from the exploratory work). I much prefer the hypothesis-driven appproach - diving into data looking for patterns quickly becomes (for me at least) overwhelming and frustrating without a specific question to answer and it can lead to a lot of wasted effort.</p>
+
+<p>From now on, I will only move forward if I have a specific question in mind.</p>
+
+<h3 id="start-at-the-end">Start at the end</h3>
+<p>The biggest shift in how I worked happened during my second postdoc when I also had my second child. Juggling a baby, a toddler and my research meant I needed to be much more efficient. I decided to eliminate all activities that would not lead to the end goal, which in academia is always publications - as many as possible in journals with as high an impact as possible. This is how researchers are judged - ‘publish or perish’ is the reality.</p>
+
+<p>So I started at the end goal - outlining the paper. I already had a hypothesis I wanted to test so I started with what results (figures and statistics) would allow me (and the scientific community) to accept or reject my hypothesis. Then I worked backwards:</p>
+<ul>
+  <li>What data would I need to obtain these results?</li>
+  <li>What experiments would give me this data?</li>
+  <li>What resources (people, time, skills, equipment, reagents) would I need for these experiments?</li>
+</ul>
+
+<p>I then sketched the figures and wrote an outline for the methods and results sections. I listed the important background topics in the introduction.</p>
+
+<p>The gaps in this paper outline, and only the gaps, formed the tasks for me to complete. This included literature reviews and designing and conducting experiments and analyses (both wet and dry lab).</p>
+
+<p>This saved a lot of time and made my work much more efficient and focussed. It turned out that the final step - getting the paper published - was the main bottleneck, which is not uncommon in the research process! You can see the final result (open access) <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6277-x">here</a>.</p>
+
+<p>For my open research I will use the same paper-driven approach since I do think a paper is a good tool for focussing my efforts as well as providing a good summary of the research (with the benefit of hindsight), giving others the shortest path to my results. The main difference will be that I also publish my output at each step along the way towards publication.</p>
+
+<h2 id="share-your-thoughts">Share your thoughts</h2>
+<p>Do you have any thoughts on mapping processes or the research process? Let me know in the comments below!</p>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/pages/gemmadanks/tags/#about" class="page__taxonomy-item p-category" rel="tag">about</a><span class="sep">, </span>
+    
+      <a href="/pages/gemmadanks/tags/#planning" class="page__taxonomy-item p-category" rel="tag">planning</a><span class="sep">, </span>
+    
+      <a href="/pages/gemmadanks/tags/#process" class="page__taxonomy-item p-category" rel="tag">process</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/pages/gemmadanks/categories/#planning" class="page__taxonomy-item p-category" rel="tag">planning</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2022-09-08T14:25:00+01:00">September 8, 2022</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+
+  <a href="https://twitter.com/intent/tweet?text=The+benefits+of+process+mapping+and+my+research+process%20https%3A%2F%2Fopen-research.gemmadanks.com%2F%2Fpages%2Fgemmadanks%2Fplanning%2Fmy-research-process%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fopen-research.gemmadanks.com%2F%2Fpages%2Fgemmadanks%2Fplanning%2Fmy-research-process%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fopen-research.gemmadanks.com%2F%2Fpages%2Fgemmadanks%2Fplanning%2Fmy-research-process%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/pages/gemmadanks/tutorials/how-to-set-up-github-pages-website/" class="pagination--pager" title="How to set up a GitHub pages website on a Mac
+">Previous</a>
+    
+    
+      <a href="/pages/gemmadanks/tutorials/how-to-set-up-a-bluehost-subdomain-for-github-pages/" class="pagination--pager" title="How to set up a Bluehost subdomain for a GitHub pages site
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <h4 class="page__comments-title">Comments</h4>
+      <section id="disqus_thread"></section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">You May Also Enjoy</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/pages/gemmadanks/planning/my-next-research-topic-technosignatures/" rel="permalink">Why I’m choosing technosignatures as my next research topic
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-11-17T11:00:00+00:00">November 17, 2022</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">The first step in any research cycle is to choose a topic. This time around, I used a decision matrix to rank a list of topics by their impact, neglectedness...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/pages/gemmadanks/tutorials/how-to-get-an-overview-of-a-research-topic/" rel="permalink">How to get an overview of a research topic in two days
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-11-15T13:10:00+00:00">November 15, 2022</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          4 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">I have spent about seven working days learning about five different topics that came out top in the decision matrix that resulted from my process for choosin...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/pages/gemmadanks/notes/ai-misuse-pathogenic-dna/" rel="permalink">AI misuse: pathogenic DNA
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-11-14T10:13:00+00:00">November 14, 2022</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Biotechnology has now advanced to the stage where it is not only possible to synthesise a DNA sequence of your choice in the lab, but to mail-order it from c...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/pages/gemmadanks/notes/exoplanet-biosignatures/" rel="permalink">Exoplanet biosignatures
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-11-07T10:13:00+00:00">November 7, 2022</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          6 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">In the last few decades we have discovered that Earth-like planets are common around other stars and many of these planets are likely to be habitable, i.e. o...</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="https://twitter.com/gemmadanks" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/gemmadanks" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+          <li><a href="https://www.linkedin.com/in/gemmadanks/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        
+      
+        
+          <li><a href="https://instagram.com/gbdanks" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+        
+      
+    
+
+    
+      <li><a href="/pages/gemmadanks/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2022 Gemma's Open Research. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/pages/gemmadanks/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/pages/gemmadanks/assets/js/lunr/lunr.min.js"></script>
+<script src="/pages/gemmadanks/assets/js/lunr/lunr-store.js"></script>
+<script src="/pages/gemmadanks/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+    
+  <script>
+    var disqus_config = function () {
+      this.page.url = "https://open-research.gemmadanks.com//pages/gemmadanks/planning/my-research-process/";  /* Replace PAGE_URL with your page's canonical URL variable */
+      this.page.identifier = "/planning/my-research-process"; /* Replace PAGE_IDENTIFIER with your page's unique identifier variable */
+    };
+    (function() { /* DON'T EDIT BELOW THIS LINE */
+      var d = document, s = d.createElement('script');
+      s.src = 'https://gemmadanks-github-io.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+  
+
+
+
+
+
+  </body>
+</html>

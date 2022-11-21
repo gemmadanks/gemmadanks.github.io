@@ -1,0 +1,821 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>How to set up a GitHub pages website on a Mac - Gemma’s Open Research</title>
+<meta name="description" content="First things first. Getting started with open research involves choosing and setting up a way to share your work.  I have previously created several websites (my personal website, my “astrobiology for kids” blog and my company website). For all of these I used WordPress. WordPress gives you a lot of choice when it comes to how the site looks, and is great if you don’t want to edit any source code or run anything on the command line. But it can be slow, clunky and cumbersome.  GitHub pages combined with jekyll looks to be a better solution for documenting open research and sharing source code more easily - and it’s free. It didn’t take long to set up (although changing the theme was some additional work). Here’s how I did it (on MacOS Monterey).  Pre-requisites    A GitHub account. I already had a github account but if you don’t then set one up first as this is required to use github pages (and an essential tool for open research if source code is involved).   A source code editor - there are lots to choose from. I am using VScode for this project.   A command line interface (I am using iTerm2).   1. Install dependencies         Install ruby, chruby (a package that manages ruby versions) and jekyll.      Follow the instructions here.           Install bundler to manage ruby gem dependencies      gem install bundler           2. Set up your GitHub pages repo  Note that from this step onwards it would probably have been much quicker if I had used a template repo from the theme I eventually chose (see below).          Create a new repository on GitHub      Follow step 1 in the instructions from Github pages to create your new repo.      Call your new repo username.github.io where username is your GitHub username (mine is gemmadanks.github.io)      You will be asked if you want to add a licence for your repo. I chose an MIT licence for my source code which allows people to share it freely (choosealicence.com is a useful site for deciding what licence to use.)      If you do not want your private email address to be associated with git commits, follow the instructions here.           Clone your new repo to your local machine      Open a terminal, navigate to the directory you want to hold your github pages and clone your newly created repo.     git clone https://github.com/username/username.github.io.git           3. Set up your jekyll site    Follow the instructions from GitHub here to set up a new jekyll site.   Test site locally     bundle exec jekyll serve           4. Customise your jekyll theme This step can take some time! You can choose a theme here. I am using minimal-mistakes to start with as it provides all the layouts I need at the moment.  At this stage I discovered that it may have been quicker to use the minimal-mistakes starter template when creating the github pages repo. But the following is how I actually did it since I had already set up my repo.     Follow the instructions for the remote theme method (this works well with GitHub pages).   I also had to add webrick:     bundle add webrick           Copy essential template files from starter repo.   That’s it!  From here you can customise and create posts.  5. Test changes Each time you push changes to git it will regenerate the site. I recommend testing locally first. You can use the following command, copy and paste the local address into your browser and refresh the page with each change:      bundle exec jekyll serve   Also, be sure to update github-pages regularly:      bundle update github-pages   Leave a comment below  Do you use GitHub pages? Do you have a favourite theme? Or is there an alternative platform you recommend for open research? Anything you tried that didn’t work? Leave a comment below!">
+
+
+  <meta name="author" content="Gemma Danks">
+  
+  <meta property="article:author" content="Gemma Danks">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Gemma's Open Research">
+<meta property="og:title" content="How to set up a GitHub pages website on a Mac">
+<meta property="og:url" content="https://open-research.gemmadanks.com//pages/gemmadanks/tutorials/how-to-set-up-github-pages-website/">
+
+
+  <meta property="og:description" content="First things first. Getting started with open research involves choosing and setting up a way to share your work.  I have previously created several websites (my personal website, my “astrobiology for kids” blog and my company website). For all of these I used WordPress. WordPress gives you a lot of choice when it comes to how the site looks, and is great if you don’t want to edit any source code or run anything on the command line. But it can be slow, clunky and cumbersome.  GitHub pages combined with jekyll looks to be a better solution for documenting open research and sharing source code more easily - and it’s free. It didn’t take long to set up (although changing the theme was some additional work). Here’s how I did it (on MacOS Monterey).  Pre-requisites    A GitHub account. I already had a github account but if you don’t then set one up first as this is required to use github pages (and an essential tool for open research if source code is involved).   A source code editor - there are lots to choose from. I am using VScode for this project.   A command line interface (I am using iTerm2).   1. Install dependencies         Install ruby, chruby (a package that manages ruby versions) and jekyll.      Follow the instructions here.           Install bundler to manage ruby gem dependencies      gem install bundler           2. Set up your GitHub pages repo  Note that from this step onwards it would probably have been much quicker if I had used a template repo from the theme I eventually chose (see below).          Create a new repository on GitHub      Follow step 1 in the instructions from Github pages to create your new repo.      Call your new repo username.github.io where username is your GitHub username (mine is gemmadanks.github.io)      You will be asked if you want to add a licence for your repo. I chose an MIT licence for my source code which allows people to share it freely (choosealicence.com is a useful site for deciding what licence to use.)      If you do not want your private email address to be associated with git commits, follow the instructions here.           Clone your new repo to your local machine      Open a terminal, navigate to the directory you want to hold your github pages and clone your newly created repo.     git clone https://github.com/username/username.github.io.git           3. Set up your jekyll site    Follow the instructions from GitHub here to set up a new jekyll site.   Test site locally     bundle exec jekyll serve           4. Customise your jekyll theme This step can take some time! You can choose a theme here. I am using minimal-mistakes to start with as it provides all the layouts I need at the moment.  At this stage I discovered that it may have been quicker to use the minimal-mistakes starter template when creating the github pages repo. But the following is how I actually did it since I had already set up my repo.     Follow the instructions for the remote theme method (this works well with GitHub pages).   I also had to add webrick:     bundle add webrick           Copy essential template files from starter repo.   That’s it!  From here you can customise and create posts.  5. Test changes Each time you push changes to git it will regenerate the site. I recommend testing locally first. You can use the following command, copy and paste the local address into your browser and refresh the page with each change:      bundle exec jekyll serve   Also, be sure to update github-pages regularly:      bundle update github-pages   Leave a comment below  Do you use GitHub pages? Do you have a favourite theme? Or is there an alternative platform you recommend for open research? Anything you tried that didn’t work? Leave a comment below!">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2022-06-23T14:54:30+01:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://open-research.gemmadanks.com//pages/gemmadanks/tutorials/how-to-set-up-github-pages-website/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "https://open-research.gemmadanks.com//pages/gemmadanks/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/pages/gemmadanks/feed.xml" type="application/atom+xml" rel="alternate" title="Gemma's Open Research Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/pages/gemmadanks/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/pages/gemmadanks/">
+          Gemma's Open Research
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/pages/gemmadanks/posts/">Posts</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pages/gemmadanks/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pages/gemmadanks/tags/">Tags</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pages/gemmadanks/archive/">Archive</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pages/gemmadanks/about/welcome-to-my-open-research-site/">About</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+  
+    
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/pages/gemmadanks/" itemprop="item"><span itemprop="name">Home</span></a>
+
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep">/</span>
+      
+      
+        
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/pages/gemmadanks/categories/#tutorials" itemprop="item"><span itemprop="name">Tutorials</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        <span class="sep">/</span>
+      
+    
+      
+      
+        <li class="current">How to set up a GitHub pages website on a Mac</li>
+      
+    
+  </ol>
+</nav>
+
+  
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
+
+  
+    <div class="author__avatar">
+      <a href="https://open-research.gemmadanks.com//pages/gemmadanks/">
+        <img src="/pages/gemmadanks/assets/images/bio-photo.jpg" alt="Gemma Danks" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="https://open-research.gemmadanks.com//pages/gemmadanks/" itemprop="url">Gemma Danks</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>Making sense of star stuff</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+        
+          
+            <li><a href="https://www.gemmadanks.com" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">Website</span></a></li>
+          
+        
+          
+            <li><a href="https://twitter.com/gemmadanks" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a></li>
+          
+        
+          
+            <li><a href="https://github.com/gemmadanks" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+          
+        
+          
+            <li><a href="https://www.linkedin.com/in/gemmadanks/" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
+          
+        
+          
+            <li><a href="https://instagram.com/gbdanks" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="How to set up a GitHub pages website on a Mac">
+    <meta itemprop="description" content="First things first. Getting started with open research involves choosing and setting up a way to share your work.I have previously created several websites (my personal website, my “astrobiology for kids” blog and my company website). For all of these I used WordPress. WordPress gives you a lot of choice when it comes to how the site looks, and is great if you don’t want to edit any source code or run anything on the command line. But it can be slow, clunky and cumbersome.GitHub pages combined with jekyll looks to be a better solution for documenting open research and sharing source code more easily - and it’s free. It didn’t take long to set up (although changing the theme was some additional work). Here’s how I did it (on MacOS Monterey).Pre-requisites  A GitHub account. I already had a github account but if you don’t then set one up first as this is required to use github pages (and an essential tool for open research if source code is involved).  A source code editor - there are lots to choose from. I am using VScode for this project.  A command line interface (I am using iTerm2).1. Install dependencies      Install ruby, chruby (a package that manages ruby versions) and jekyll.    Follow the instructions here.        Install bundler to manage ruby gem dependencies     gem install bundler      2. Set up your GitHub pages repoNote that from this step onwards it would probably have been much quicker if I had used a template repo from the theme I eventually chose (see below).      Create a new repository on GitHub    Follow step 1 in the instructions from Github pages to create your new repo.    Call your new repo username.github.io where username is your GitHub username (mine is gemmadanks.github.io)    You will be asked if you want to add a licence for your repo. I chose an MIT licence for my source code which allows people to share it freely (choosealicence.com is a useful site for deciding what licence to use.)    If you do not want your private email address to be associated with git commits, follow the instructions here.        Clone your new repo to your local machine    Open a terminal, navigate to the directory you want to hold your github pages and clone your newly created repo.    git clone https://github.com/username/username.github.io.git      3. Set up your jekyll site  Follow the instructions from GitHub here to set up a new jekyll site.  Test site locally    bundle exec jekyll serve      4. Customise your jekyll themeThis step can take some time! You can choose a theme here. I am using minimal-mistakes to start with as it provides all the layouts I need at the moment.At this stage I discovered that it may have been quicker to use the minimal-mistakes starter template when creating the github pages repo. But the following is how I actually did it since I had already set up my repo.  Follow the instructions for the remote theme method (this works well with GitHub pages).  I also had to add webrick:    bundle add webrick        Copy essential template files from starter repo.That’s it!From here you can customise and create posts.5. Test changesEach time you push changes to git it will regenerate the site. I recommend testing locally first. You can use the following command, copy and paste the local address into your browser and refresh the page with each change:     bundle exec jekyll serveAlso, be sure to update github-pages regularly:     bundle update github-pagesLeave a comment belowDo you use GitHub pages? Do you have a favourite theme? Or is there an alternative platform you recommend for open research? Anything you tried that didn’t work? Leave a comment below!">
+    <meta itemprop="datePublished" content="2022-06-23T14:54:30+01:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://open-research.gemmadanks.com//pages/gemmadanks/tutorials/how-to-set-up-github-pages-website/" class="u-url" itemprop="url">How to set up a GitHub pages website on a Mac
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-06-23T14:54:30+01:00">June 23, 2022</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+        <p>First things first. Getting started with open research involves choosing and setting up a way to share your work.</p>
+
+<p>I have previously created several websites (my <a href="https://www.gemmadanks.com">personal website</a>, my <a href="https://www.palebluemarbles.com">“astrobiology for kids” blog</a> and my <a href="https://www.octofox.ai">company website</a>). For all of these I used <a href="https://wordpress.com/">WordPress</a>. WordPress gives you a lot of choice when it comes to how the site looks, and is great if you don’t want to edit any source code or run anything on the command line. But it can be slow, clunky and cumbersome.</p>
+
+<p><a href="https://pages.github.com/">GitHub pages</a> combined with <a href="https://jekyllrb.com/">jekyll</a> looks to be a better solution for documenting open research and sharing source code more easily - and it’s free. It didn’t take long to set up (although changing the theme was some additional work). Here’s how I did it (on MacOS Monterey).</p>
+
+<h2 id="pre-requisites">Pre-requisites</h2>
+<ul>
+  <li>A GitHub account. I already had a <a href="https://github.com/gemmadanks">github account</a> but if you don’t then <a href="https://github.com/">set one up first</a> as this is required to use github pages (and an essential tool for open research if source code is involved).</li>
+  <li>A source code editor - there are lots to choose from. I am using <a href="https://code.visualstudio.com/">VScode</a> for this project.</li>
+  <li>A command line interface (I am using <a href="https://iterm2.com/">iTerm2</a>).</li>
+</ul>
+
+<h2 id="1-install-dependencies">1. Install dependencies</h2>
+<ol>
+  <li>
+    <p>Install <a href="https://www.ruby-lang.org/en/">ruby</a>, <a href="https://github.com/postmodern/chruby">chruby</a> (a package that manages ruby versions) and <a href="https://jekyllrb.com/">jekyll</a>.</p>
+
+    <p>Follow the instructions <a href="https://jekyllrb.com/docs/installation/macos/">here</a>.</p>
+  </li>
+  <li>
+    <p>Install <a href="https://bundler.io/">bundler</a> to manage ruby gem dependencies</p>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> gem install bundler
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<h2 id="2-set-up-your-github-pages-repo">2. Set up your GitHub pages repo</h2>
+
+<p>Note that from this step onwards it would probably have been much quicker if I had used a template repo from the theme I eventually chose (<a href="#4-customise-jekyll-theme">see below</a>).</p>
+
+<ol>
+  <li>
+    <p><strong>Create a new repository on GitHub</strong></p>
+
+    <p>Follow step 1 in the <a href="https://pages.github.com/">instructions</a> from Github pages to <a href="https://github.com/new">create your new repo</a>.</p>
+
+    <p>Call your new repo <code class="language-plaintext highlighter-rouge">username.github.io</code> where username is your GitHub username (mine is <a href="https://github.com/gemmadanks/gemmadanks.github.io"><code class="language-plaintext highlighter-rouge">gemmadanks.github.io</code></a>)</p>
+
+    <p>You will be asked if you want to add a licence for your repo. I chose an <a href="https://github.com/gemmadanks/gemmadanks.github.io/blob/main/LICENSE">MIT licence</a> for my source code which allows people to share it freely (<a href="https://choosealicense.com/">choosealicence.com</a> is a useful site for deciding what licence to use.)</p>
+
+    <p>If you do not want your private email address to be associated with git commits, follow the instructions <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address">here</a>.</p>
+  </li>
+  <li>
+    <p><strong>Clone your new repo to your local machine</strong></p>
+
+    <p>Open a terminal, navigate to the directory you want to hold your github pages and clone your newly created repo.</p>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/username/username.github.io.git
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<h2 id="3-set-up-your-jekyll-site">3. Set up your jekyll site</h2>
+<ol>
+  <li>Follow the instructions from GitHub <a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-sites">here</a> to set up a new jekyll site.</li>
+  <li>Test site locally
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle exec jekyll serve
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<h2 id="4-customise-your-jekyll-theme">4. Customise your jekyll theme</h2>
+<p>This step can take some time! You can <a href="http://jekyllrb.com/docs/themes/">choose a theme here</a>. I am using <code class="language-plaintext highlighter-rouge">minimal-mistakes</code> to start with as it provides all the layouts I need at the moment.</p>
+
+<p>At this stage I discovered that it may have been quicker to use the <a href="https://github.com/mmistakes/mm-github-pages-starter/generate"><code class="language-plaintext highlighter-rouge">minimal-mistakes</code> starter template</a> when creating the github pages repo. But the following is how I actually did it since I had already set up my repo.</p>
+
+<ol>
+  <li>Follow the instructions for the <a href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#remote-theme-method">remote theme method</a> (this works well with GitHub pages).</li>
+  <li>I also had to add <code class="language-plaintext highlighter-rouge">webrick</code>:
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle add webrick
+</code></pre></div>    </div>
+  </li>
+  <li>Copy essential template files from <a href="https://github.com/mmistakes/minimal-mistakes">starter repo</a>.</li>
+</ol>
+
+<p>That’s it!</p>
+
+<p>From here you can customise and create posts.</p>
+
+<h2 id="5-test-changes">5. Test changes</h2>
+<p>Each time you push changes to git it will regenerate the site. I recommend testing locally first. You can use the following command, copy and paste the local address into your browser and refresh the page with each change:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>     bundle exec jekyll serve
+</code></pre></div></div>
+
+<p>Also, be sure to update <code class="language-plaintext highlighter-rouge">github-pages</code> regularly:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>     bundle update github-pages
+</code></pre></div></div>
+
+<h2 id="leave-a-comment-below">Leave a comment below</h2>
+
+<p>Do you use GitHub pages? Do you have a favourite theme? Or is there an alternative platform you recommend for open research? Anything you tried that didn’t work? Leave a comment below!</p>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/pages/gemmadanks/tags/#github" class="page__taxonomy-item p-category" rel="tag">github</a><span class="sep">, </span>
+    
+      <a href="/pages/gemmadanks/tags/#jekyll" class="page__taxonomy-item p-category" rel="tag">jekyll</a><span class="sep">, </span>
+    
+      <a href="/pages/gemmadanks/tags/#setup" class="page__taxonomy-item p-category" rel="tag">setup</a><span class="sep">, </span>
+    
+      <a href="/pages/gemmadanks/tags/#website" class="page__taxonomy-item p-category" rel="tag">website</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/pages/gemmadanks/categories/#tutorials" class="page__taxonomy-item p-category" rel="tag">tutorials</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2022-06-23T14:54:30+01:00">June 23, 2022</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+
+  <a href="https://twitter.com/intent/tweet?text=How+to+set+up+a+GitHub+pages+website+on+a+Mac%20https%3A%2F%2Fopen-research.gemmadanks.com%2F%2Fpages%2Fgemmadanks%2Ftutorials%2Fhow-to-set-up-github-pages-website%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fopen-research.gemmadanks.com%2F%2Fpages%2Fgemmadanks%2Ftutorials%2Fhow-to-set-up-github-pages-website%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fopen-research.gemmadanks.com%2F%2Fpages%2Fgemmadanks%2Ftutorials%2Fhow-to-set-up-github-pages-website%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/pages/gemmadanks/about/welcome-to-my-open-research-site/" class="pagination--pager" title="Welcome to my open research site!
+">Previous</a>
+    
+    
+      <a href="/pages/gemmadanks/planning/my-research-process/" class="pagination--pager" title="The benefits of process mapping and my research process
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <h4 class="page__comments-title">Comments</h4>
+      <section id="disqus_thread"></section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">You May Also Enjoy</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/pages/gemmadanks/planning/my-next-research-topic-technosignatures/" rel="permalink">Why I’m choosing technosignatures as my next research topic
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-11-17T11:00:00+00:00">November 17, 2022</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">The first step in any research cycle is to choose a topic. This time around, I used a decision matrix to rank a list of topics by their impact, neglectedness...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/pages/gemmadanks/tutorials/how-to-get-an-overview-of-a-research-topic/" rel="permalink">How to get an overview of a research topic in two days
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-11-15T13:10:00+00:00">November 15, 2022</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          4 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">I have spent about seven working days learning about five different topics that came out top in the decision matrix that resulted from my process for choosin...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/pages/gemmadanks/notes/ai-misuse-pathogenic-dna/" rel="permalink">AI misuse: pathogenic DNA
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-11-14T10:13:00+00:00">November 14, 2022</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Biotechnology has now advanced to the stage where it is not only possible to synthesise a DNA sequence of your choice in the lab, but to mail-order it from c...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/pages/gemmadanks/notes/exoplanet-biosignatures/" rel="permalink">Exoplanet biosignatures
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-11-07T10:13:00+00:00">November 7, 2022</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          6 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">In the last few decades we have discovered that Earth-like planets are common around other stars and many of these planets are likely to be habitable, i.e. o...</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="https://twitter.com/gemmadanks" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/gemmadanks" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+          <li><a href="https://www.linkedin.com/in/gemmadanks/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        
+      
+        
+          <li><a href="https://instagram.com/gbdanks" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+        
+      
+    
+
+    
+      <li><a href="/pages/gemmadanks/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2022 Gemma's Open Research. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/pages/gemmadanks/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/pages/gemmadanks/assets/js/lunr/lunr.min.js"></script>
+<script src="/pages/gemmadanks/assets/js/lunr/lunr-store.js"></script>
+<script src="/pages/gemmadanks/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+    
+  <script>
+    var disqus_config = function () {
+      this.page.url = "https://open-research.gemmadanks.com//pages/gemmadanks/tutorials/how-to-set-up-github-pages-website/";  /* Replace PAGE_URL with your page's canonical URL variable */
+      this.page.identifier = "/tutorials/how-to-set-up-github-pages-website"; /* Replace PAGE_IDENTIFIER with your page's unique identifier variable */
+    };
+    (function() { /* DON'T EDIT BELOW THIS LINE */
+      var d = document, s = d.createElement('script');
+      s.src = 'https://gemmadanks-github-io.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+  
+
+
+
+
+
+  </body>
+</html>

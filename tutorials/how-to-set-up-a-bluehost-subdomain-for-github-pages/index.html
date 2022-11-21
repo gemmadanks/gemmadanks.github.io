@@ -1,0 +1,795 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>How to set up a Bluehost subdomain for a GitHub pages site - Gemma’s Open Research</title>
+<meta name="description" content="I already have a personal website with a page about my previous research, so I decided to point my open research GitHub pages to a subdomain there rather than use the default GitHub pages url gemmadanks.github.io. This also means it will be easier to move my site if I ever need to since I own the subdomain.  My website is hosted at Bluehost. A lot of people online recommend Bluehost and seem to like it (a lot of these people also use affiliate links for Bluehost so they make money from this recommendation). I found it to be very slow, especially for new sites, but I haven’t found a better solution yet and it is cheap and fairly straightforward to manage domains there so that is what I am working with for now.  Adding a subdomain in the Bluehost portal was easy but getting it to point to another url was not well documented so I list the steps I took below for future reference and in case others also struggle to figure it out!  How to set up a custom subdomain for a GitHub pages site  Requirements    A Bluehost account with a primary domain already set up   A GitHub pages site already set up (read how I set mine up here)   24-48 hours to wait for the subdomain to propagate   1. Create a Bluehost subdomain     Log in to Bluehost   Navigate to Domains then Subdomains in the menu (to the left in my Bluehost portal page)   Click on the Add subdomain button to the top right   Fill in the boxes with the name of your subdomain and select your existing domain in the dropdown menu. This is how mine looked:        Click add subdomain   Wait 24-48 hours for this to propagate   2. Point a Bluehost subdomain to your GitHub pages site  This was the poorly documented part. You will need to add a CNAME record that points your subdomain to your GitHub pages site. How to add a CNAME record in Bluehost is well documented but what it does not mention is that first you have to remove the A records and TXT records Bluehost already added for your subdomain since it won’t allow you to create a CNAME record with the same name (and you will get the error message There was an issue adding the zone records. New Record was not inserted.)     Log in to Bluehost   Navigate to Domains   Find your primary domain in the list and click on Manage. This should take you to the DNS manager.   Scroll to the list of A records and find the one associated with your new subdomain (for me this was called open-research: you may need to click Show all). Remove it by clicking on the three dots to the right and selecting remove.   Scroll to the list of TXT records and find the one associated with your new subdomain (for me this was called open-research: you may need to click Show all). Remove it by clicking on the three dots to the right and selecting remove.   Scroll to the list of CNAME records. Click Add record and fill in the Host record field with your subdomain name and the Points to field with your GitHub Pages url. Select the minimum TTL (4 hours) from the drop down menu. Click Save. Mine looked like this:     3. Configure GitHub pages to use your custom subdomain    Navigate to your GitHub pages repo   Select the Settings tab   Click on Pages in the menu to the left under Code and automation   Scroll down to the Custom Domain section and add your custom domain name (mine is now open-research.gemmadanks.com)   Wait for the DNS check - if this is unsuccessful it could be that you need to wait longer for your subdomain to propagate.   To make your site more secure, make sure the box Enforce HTTPS is checked   Wait for the GitHub action to redeploy your site   Scroll back to the top of the page and check that your site now points to your custom domain (visit the site to verify)   Your GitHub pages site should now be live at your custom subdomain! Make sure you pull the changes that were made by GitHub (adding a CNAME file) to your local machine.  Troubleshooting I found the following command helpful when troubleshooting. It will tell you what your subdomain is pointing to and what type of record it is using. You should see the CNAME pointing to GitHub pages listed. Open a Terminal window and paste in the following:  dig your-subdomain +nostats +nocomments +nocmd">
+
+
+  <meta name="author" content="Gemma Danks">
+  
+  <meta property="article:author" content="Gemma Danks">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Gemma's Open Research">
+<meta property="og:title" content="How to set up a Bluehost subdomain for a GitHub pages site">
+<meta property="og:url" content="https://open-research.gemmadanks.com//pages/gemmadanks/tutorials/how-to-set-up-a-bluehost-subdomain-for-github-pages/">
+
+
+  <meta property="og:description" content="I already have a personal website with a page about my previous research, so I decided to point my open research GitHub pages to a subdomain there rather than use the default GitHub pages url gemmadanks.github.io. This also means it will be easier to move my site if I ever need to since I own the subdomain.  My website is hosted at Bluehost. A lot of people online recommend Bluehost and seem to like it (a lot of these people also use affiliate links for Bluehost so they make money from this recommendation). I found it to be very slow, especially for new sites, but I haven’t found a better solution yet and it is cheap and fairly straightforward to manage domains there so that is what I am working with for now.  Adding a subdomain in the Bluehost portal was easy but getting it to point to another url was not well documented so I list the steps I took below for future reference and in case others also struggle to figure it out!  How to set up a custom subdomain for a GitHub pages site  Requirements    A Bluehost account with a primary domain already set up   A GitHub pages site already set up (read how I set mine up here)   24-48 hours to wait for the subdomain to propagate   1. Create a Bluehost subdomain     Log in to Bluehost   Navigate to Domains then Subdomains in the menu (to the left in my Bluehost portal page)   Click on the Add subdomain button to the top right   Fill in the boxes with the name of your subdomain and select your existing domain in the dropdown menu. This is how mine looked:        Click add subdomain   Wait 24-48 hours for this to propagate   2. Point a Bluehost subdomain to your GitHub pages site  This was the poorly documented part. You will need to add a CNAME record that points your subdomain to your GitHub pages site. How to add a CNAME record in Bluehost is well documented but what it does not mention is that first you have to remove the A records and TXT records Bluehost already added for your subdomain since it won’t allow you to create a CNAME record with the same name (and you will get the error message There was an issue adding the zone records. New Record was not inserted.)     Log in to Bluehost   Navigate to Domains   Find your primary domain in the list and click on Manage. This should take you to the DNS manager.   Scroll to the list of A records and find the one associated with your new subdomain (for me this was called open-research: you may need to click Show all). Remove it by clicking on the three dots to the right and selecting remove.   Scroll to the list of TXT records and find the one associated with your new subdomain (for me this was called open-research: you may need to click Show all). Remove it by clicking on the three dots to the right and selecting remove.   Scroll to the list of CNAME records. Click Add record and fill in the Host record field with your subdomain name and the Points to field with your GitHub Pages url. Select the minimum TTL (4 hours) from the drop down menu. Click Save. Mine looked like this:     3. Configure GitHub pages to use your custom subdomain    Navigate to your GitHub pages repo   Select the Settings tab   Click on Pages in the menu to the left under Code and automation   Scroll down to the Custom Domain section and add your custom domain name (mine is now open-research.gemmadanks.com)   Wait for the DNS check - if this is unsuccessful it could be that you need to wait longer for your subdomain to propagate.   To make your site more secure, make sure the box Enforce HTTPS is checked   Wait for the GitHub action to redeploy your site   Scroll back to the top of the page and check that your site now points to your custom domain (visit the site to verify)   Your GitHub pages site should now be live at your custom subdomain! Make sure you pull the changes that were made by GitHub (adding a CNAME file) to your local machine.  Troubleshooting I found the following command helpful when troubleshooting. It will tell you what your subdomain is pointing to and what type of record it is using. You should see the CNAME pointing to GitHub pages listed. Open a Terminal window and paste in the following:  dig your-subdomain +nostats +nocomments +nocmd">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2022-09-12T12:27:30+01:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://open-research.gemmadanks.com//pages/gemmadanks/tutorials/how-to-set-up-a-bluehost-subdomain-for-github-pages/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "https://open-research.gemmadanks.com//pages/gemmadanks/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/pages/gemmadanks/feed.xml" type="application/atom+xml" rel="alternate" title="Gemma's Open Research Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/pages/gemmadanks/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/pages/gemmadanks/">
+          Gemma's Open Research
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/pages/gemmadanks/posts/">Posts</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pages/gemmadanks/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pages/gemmadanks/tags/">Tags</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pages/gemmadanks/archive/">Archive</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pages/gemmadanks/about/welcome-to-my-open-research-site/">About</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+  
+    
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/pages/gemmadanks/" itemprop="item"><span itemprop="name">Home</span></a>
+
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep">/</span>
+      
+      
+        
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/pages/gemmadanks/categories/#tutorials" itemprop="item"><span itemprop="name">Tutorials</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        <span class="sep">/</span>
+      
+    
+      
+      
+        <li class="current">How to set up a Bluehost subdomain for a GitHub pages site</li>
+      
+    
+  </ol>
+</nav>
+
+  
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
+
+  
+    <div class="author__avatar">
+      <a href="https://open-research.gemmadanks.com//pages/gemmadanks/">
+        <img src="/pages/gemmadanks/assets/images/bio-photo.jpg" alt="Gemma Danks" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="https://open-research.gemmadanks.com//pages/gemmadanks/" itemprop="url">Gemma Danks</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>Making sense of star stuff</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+        
+          
+            <li><a href="https://www.gemmadanks.com" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">Website</span></a></li>
+          
+        
+          
+            <li><a href="https://twitter.com/gemmadanks" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a></li>
+          
+        
+          
+            <li><a href="https://github.com/gemmadanks" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+          
+        
+          
+            <li><a href="https://www.linkedin.com/in/gemmadanks/" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
+          
+        
+          
+            <li><a href="https://instagram.com/gbdanks" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="How to set up a Bluehost subdomain for a GitHub pages site">
+    <meta itemprop="description" content="I already have a personal website with a page about my previous research, so I decided to point my open research GitHub pages to a subdomain there rather than use the default GitHub pages url gemmadanks.github.io. This also means it will be easier to move my site if I ever need to since I own the subdomain.My website is hosted at Bluehost. A lot of people online recommend Bluehost and seem to like it (a lot of these people also use affiliate links for Bluehost so they make money from this recommendation). I found it to be very slow, especially for new sites, but I haven’t found a better solution yet and it is cheap and fairly straightforward to manage domains there so that is what I am working with for now.Adding a subdomain in the Bluehost portal was easy but getting it to point to another url was not well documented so I list the steps I took below for future reference and in case others also struggle to figure it out!How to set up a custom subdomain for a GitHub pages siteRequirements  A Bluehost account with a primary domain already set up  A GitHub pages site already set up (read how I set mine up here)  24-48 hours to wait for the subdomain to propagate1. Create a Bluehost subdomain  Log in to Bluehost  Navigate to Domains then Subdomains in the menu (to the left in my Bluehost portal page)  Click on the Add subdomain button to the top right  Fill in the boxes with the name of your subdomain and select your existing domain in the dropdown menu. This is how mine looked:  Click add subdomain  Wait 24-48 hours for this to propagate2. Point a Bluehost subdomain to your GitHub pages siteThis was the poorly documented part. You will need to add a CNAME record that points your subdomain to your GitHub pages site. How to add a CNAME record in Bluehost is well documented but what it does not mention is that first you have to remove the A records and TXT records Bluehost already added for your subdomain since it won’t allow you to create a CNAME record with the same name (and you will get the error message There was an issue adding the zone records. New Record was not inserted.)  Log in to Bluehost  Navigate to Domains  Find your primary domain in the list and click on Manage. This should take you to the DNS manager.  Scroll to the list of A records and find the one associated with your new subdomain (for me this was called open-research: you may need to click Show all). Remove it by clicking on the three dots to the right and selecting remove.  Scroll to the list of TXT records and find the one associated with your new subdomain (for me this was called open-research: you may need to click Show all). Remove it by clicking on the three dots to the right and selecting remove.  Scroll to the list of CNAME records. Click Add record and fill in the Host record field with your subdomain name and the Points to field with your GitHub Pages url. Select the minimum TTL (4 hours) from the drop down menu. Click Save. Mine looked like this:3. Configure GitHub pages to use your custom subdomain  Navigate to your GitHub pages repo  Select the Settings tab  Click on Pages in the menu to the left under Code and automation  Scroll down to the Custom Domain section and add your custom domain name (mine is now open-research.gemmadanks.com)  Wait for the DNS check - if this is unsuccessful it could be that you need to wait longer for your subdomain to propagate.  To make your site more secure, make sure the box Enforce HTTPS is checked  Wait for the GitHub action to redeploy your site  Scroll back to the top of the page and check that your site now points to your custom domain (visit the site to verify)Your GitHub pages site should now be live at your custom subdomain! Make sure you pull the changes that were made by GitHub (adding a CNAME file) to your local machine.TroubleshootingI found the following command helpful when troubleshooting. It will tell you what your subdomain is pointing to and what type of record it is using. You should see the CNAME pointing to GitHub pages listed. Open a Terminal window and paste in the following:dig your-subdomain +nostats +nocomments +nocmd">
+    <meta itemprop="datePublished" content="2022-09-12T12:27:30+01:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://open-research.gemmadanks.com//pages/gemmadanks/tutorials/how-to-set-up-a-bluehost-subdomain-for-github-pages/" class="u-url" itemprop="url">How to set up a Bluehost subdomain for a GitHub pages site
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-09-12T12:27:30+01:00">September 12, 2022</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+        <p>I already have a <a href="https://gemmadanks.com">personal website</a> with a page about my <a href="https://gemmadanks.com/research">previous research</a>, so I decided to point my open research <a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages">GitHub pages to a subdomain</a> there rather than use the default GitHub pages url <a href="https://gemmadanks.github.io">gemmadanks.github.io</a>. This also means it will be easier to move my site if I ever need to since I own the subdomain.</p>
+
+<p>My website is hosted at <a href="https://www.bluehost.com/">Bluehost</a>. A lot of people online recommend Bluehost and seem to like it (a lot of these people also use affiliate links for Bluehost so they make money from this recommendation). I found it to be very slow, especially for new sites, but I haven’t found a better solution yet and it is cheap and fairly straightforward to manage domains there so that is what I am working with for now.</p>
+
+<p><a href="https://www.bluehost.com/help/article/subdomains">Adding a subdomain in the Bluehost portal</a> was easy but getting it to point to another url was not well documented so I list the steps I took below for future reference and in case others also struggle to figure it out!</p>
+
+<h2 id="how-to-set-up-a-custom-subdomain-for-a-github-pages-site">How to set up a custom subdomain for a GitHub pages site</h2>
+
+<h3 id="requirements">Requirements</h3>
+<ul>
+  <li>A Bluehost account with a primary domain already set up</li>
+  <li>A GitHub pages site already set up (read how I set mine up <a href="https://open-research.gemmadanks.com/tutorials/how-to-set-up-github-pages-website/">here</a>)</li>
+  <li>24-48 hours to wait for the subdomain to propagate</li>
+</ul>
+
+<h3 id="1-create-a-bluehost-subdomain">1. Create a Bluehost subdomain</h3>
+
+<ol>
+  <li>Log in to <a href="https://www.bluehost.com/">Bluehost</a></li>
+  <li>Navigate to <code class="language-plaintext highlighter-rouge">Domains</code> then <code class="language-plaintext highlighter-rouge">Subdomains</code> in the menu (to the left in my Bluehost portal page)</li>
+  <li>Click on the <code class="language-plaintext highlighter-rouge">Add subdomain</code> button to the top right</li>
+  <li>Fill in the boxes with the name of your subdomain and select your existing domain in the dropdown menu. This is how mine looked:</li>
+</ol>
+
+<p><img src="/assets/images/bluehost-subdomain.png" alt="Creating a subdomain on Bluehost" /></p>
+
+<ol>
+  <li>Click add subdomain</li>
+  <li>Wait 24-48 hours for this to propagate</li>
+</ol>
+
+<h3 id="2-point-a-bluehost-subdomain-to-your-github-pages-site">2. Point a Bluehost subdomain to your GitHub pages site</h3>
+
+<p>This was the poorly documented part. You will need to <a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages">add a CNAME record that points your subdomain to your GitHub pages site</a>. How to <a href="https://www.bluehost.com/hosting/help/cname">add a CNAME record in Bluehost</a> is well documented but what it does not mention is that first you have to remove the A records and TXT records Bluehost already added for your subdomain since it won’t allow you to create a CNAME record with the same name (and you will get the error message <code class="language-plaintext highlighter-rouge">There was an issue adding the zone records. New Record was not inserted.</code>)</p>
+
+<ol>
+  <li>Log in to <a href="https://www.bluehost.com/">Bluehost</a></li>
+  <li>Navigate to <code class="language-plaintext highlighter-rouge">Domains</code></li>
+  <li>Find your primary domain in the list and click on <code class="language-plaintext highlighter-rouge">Manage</code>. This should take you to the DNS manager.</li>
+  <li>Scroll to the list of A records and find the one associated with your new subdomain (for me this was called <code class="language-plaintext highlighter-rouge">open-research</code>: you may need to click <code class="language-plaintext highlighter-rouge">Show all</code>). Remove it by clicking on the three dots to the right and selecting <code class="language-plaintext highlighter-rouge">remove</code>.</li>
+  <li>Scroll to the list of TXT records and find the one associated with your new subdomain (for me this was called <code class="language-plaintext highlighter-rouge">open-research</code>: you may need to click <code class="language-plaintext highlighter-rouge">Show all</code>). Remove it by clicking on the three dots to the right and selecting <code class="language-plaintext highlighter-rouge">remove</code>.</li>
+  <li>Scroll to the list of CNAME records. Click <code class="language-plaintext highlighter-rouge">Add record</code> and fill in the <code class="language-plaintext highlighter-rouge">Host record</code> field with your subdomain name and the <code class="language-plaintext highlighter-rouge">Points to</code> field with your GitHub Pages url. Select the minimum TTL (4 hours) from the drop down menu. Click <code class="language-plaintext highlighter-rouge">Save</code>. Mine looked like this:</li>
+</ol>
+
+<p><img src="/assets/images/bluehost-cname.png" alt="Creating a CNAME record on Bluehost" /></p>
+
+<h3 id="3-configure-github-pages-to-use-your-custom-subdomain">3. Configure GitHub pages to use your custom subdomain</h3>
+<ol>
+  <li>Navigate to your GitHub pages repo</li>
+  <li>Select the <code class="language-plaintext highlighter-rouge">Settings</code> tab</li>
+  <li>Click on <code class="language-plaintext highlighter-rouge">Pages</code> in the menu to the left under <code class="language-plaintext highlighter-rouge">Code and automation</code></li>
+  <li>Scroll down to the <code class="language-plaintext highlighter-rouge">Custom Domain</code> section and add your custom domain name (mine is now <code class="language-plaintext highlighter-rouge">open-research.gemmadanks.com</code>)</li>
+  <li>Wait for the DNS check - if this is unsuccessful it could be that you need to wait longer for your subdomain to propagate.</li>
+  <li>To make your site more secure, make sure the box <code class="language-plaintext highlighter-rouge">Enforce HTTPS</code> is checked</li>
+  <li>Wait for the GitHub action to redeploy your site</li>
+  <li>Scroll back to the top of the page and check that your site now points to your custom domain (visit the site to verify)</li>
+</ol>
+
+<p>Your GitHub pages site should now be live at your custom subdomain! Make sure you pull the changes that were made by GitHub (adding a CNAME file) to your local machine.</p>
+
+<h4 id="troubleshooting">Troubleshooting</h4>
+<p>I found the following command helpful when troubleshooting. It will tell you what your subdomain is pointing to and what type of record it is using. You should see the CNAME pointing to GitHub pages listed. Open a Terminal window and paste in the following:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>dig your-subdomain +nostats +nocomments +nocmd
+</code></pre></div></div>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/pages/gemmadanks/tags/#bluehost" class="page__taxonomy-item p-category" rel="tag">bluehost</a><span class="sep">, </span>
+    
+      <a href="/pages/gemmadanks/tags/#github" class="page__taxonomy-item p-category" rel="tag">github</a><span class="sep">, </span>
+    
+      <a href="/pages/gemmadanks/tags/#setup" class="page__taxonomy-item p-category" rel="tag">setup</a><span class="sep">, </span>
+    
+      <a href="/pages/gemmadanks/tags/#website" class="page__taxonomy-item p-category" rel="tag">website</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/pages/gemmadanks/categories/#tutorials" class="page__taxonomy-item p-category" rel="tag">tutorials</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2022-09-12T12:27:30+01:00">September 12, 2022</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+
+  <a href="https://twitter.com/intent/tweet?text=How+to+set+up+a+Bluehost+subdomain+for+a+GitHub+pages+site%20https%3A%2F%2Fopen-research.gemmadanks.com%2F%2Fpages%2Fgemmadanks%2Ftutorials%2Fhow-to-set-up-a-bluehost-subdomain-for-github-pages%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fopen-research.gemmadanks.com%2F%2Fpages%2Fgemmadanks%2Ftutorials%2Fhow-to-set-up-a-bluehost-subdomain-for-github-pages%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fopen-research.gemmadanks.com%2F%2Fpages%2Fgemmadanks%2Ftutorials%2Fhow-to-set-up-a-bluehost-subdomain-for-github-pages%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/pages/gemmadanks/planning/my-research-process/" class="pagination--pager" title="The benefits of process mapping and my research process
+">Previous</a>
+    
+    
+      <a href="/pages/gemmadanks/planning/choosing-research-topic/" class="pagination--pager" title="How to choose a research topic
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <h4 class="page__comments-title">Comments</h4>
+      <section id="disqus_thread"></section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">You May Also Enjoy</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/pages/gemmadanks/planning/my-next-research-topic-technosignatures/" rel="permalink">Why I’m choosing technosignatures as my next research topic
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-11-17T11:00:00+00:00">November 17, 2022</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">The first step in any research cycle is to choose a topic. This time around, I used a decision matrix to rank a list of topics by their impact, neglectedness...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/pages/gemmadanks/tutorials/how-to-get-an-overview-of-a-research-topic/" rel="permalink">How to get an overview of a research topic in two days
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-11-15T13:10:00+00:00">November 15, 2022</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          4 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">I have spent about seven working days learning about five different topics that came out top in the decision matrix that resulted from my process for choosin...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/pages/gemmadanks/notes/ai-misuse-pathogenic-dna/" rel="permalink">AI misuse: pathogenic DNA
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-11-14T10:13:00+00:00">November 14, 2022</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Biotechnology has now advanced to the stage where it is not only possible to synthesise a DNA sequence of your choice in the lab, but to mail-order it from c...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/pages/gemmadanks/notes/exoplanet-biosignatures/" rel="permalink">Exoplanet biosignatures
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-11-07T10:13:00+00:00">November 7, 2022</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          6 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">In the last few decades we have discovered that Earth-like planets are common around other stars and many of these planets are likely to be habitable, i.e. o...</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="https://twitter.com/gemmadanks" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/gemmadanks" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+          <li><a href="https://www.linkedin.com/in/gemmadanks/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        
+      
+        
+          <li><a href="https://instagram.com/gbdanks" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+        
+      
+    
+
+    
+      <li><a href="/pages/gemmadanks/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2022 Gemma's Open Research. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/pages/gemmadanks/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/pages/gemmadanks/assets/js/lunr/lunr.min.js"></script>
+<script src="/pages/gemmadanks/assets/js/lunr/lunr-store.js"></script>
+<script src="/pages/gemmadanks/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+    
+  <script>
+    var disqus_config = function () {
+      this.page.url = "https://open-research.gemmadanks.com//pages/gemmadanks/tutorials/how-to-set-up-a-bluehost-subdomain-for-github-pages/";  /* Replace PAGE_URL with your page's canonical URL variable */
+      this.page.identifier = "/tutorials/how-to-set-up-a-bluehost-subdomain-for-github-pages"; /* Replace PAGE_IDENTIFIER with your page's unique identifier variable */
+    };
+    (function() { /* DON'T EDIT BELOW THIS LINE */
+      var d = document, s = d.createElement('script');
+      s.src = 'https://gemmadanks-github-io.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+  
+
+
+
+
+
+  </body>
+</html>

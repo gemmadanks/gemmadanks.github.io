@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://open-research.gemmadanks.com//pages/gemmadanks/feed.xml" rel="self" type="application/atom+xml" /><link href="https://open-research.gemmadanks.com//pages/gemmadanks/" rel="alternate" type="text/html" /><updated>2022-11-21T14:45:44+00:00</updated><id>https://open-research.gemmadanks.com//pages/gemmadanks/feed.xml</id><title type="html">Gemma’s Open Research</title><subtitle>Gemma Danks' open research lab book including tutorials, articles and tips for programming, data science, machine learning and the research lifecycle.</subtitle><author><name>Gemma Danks</name></author><entry><title type="html">Why I’m choosing technosignatures as my next research topic</title><link href="https://open-research.gemmadanks.com//pages/gemmadanks/planning/my-next-research-topic-technosignatures/" rel="alternate" type="text/html" title="Why I’m choosing technosignatures as my next research topic" /><published>2022-11-17T11:00:00+00:00</published><updated>2022-11-17T11:00:00+00:00</updated><id>https://open-research.gemmadanks.com//pages/gemmadanks/planning/my-next-research-topic-technosignatures</id><content type="html" xml:base="https://open-research.gemmadanks.com//pages/gemmadanks/planning/my-next-research-topic-technosignatures/">&lt;p&gt;The first step in &lt;a href=&quot;https://open-research.gemmadanks.com/planning/my-research-process/&quot;&gt;any research cycle&lt;/a&gt; is to &lt;a href=&quot;https://open-research.gemmadanks.com/planning/choosing-research-topic/&quot;&gt;choose a topic&lt;/a&gt;. This time around, I used a decision matrix to rank a list of topics by their impact, neglectedness, feasibility and how well they fit my interests, skills and lifestyle.&lt;/p&gt;
+
+&lt;p&gt;Since I was unsure of some of the scores I used in my matrix, I took my top five topics and spent &lt;a href=&quot;https://open-research.gemmadanks.com/tutorials/how-to-get-an-overview-of-a-research-topic/&quot;&gt;a day or two learning more&lt;/a&gt; about each one.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/ai-for-decoding-non-human-languages/&quot;&gt;AI for translating unseen languages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/technosignatures/&quot;&gt;Extraterrestrial technosignatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/recognising-ai-sentience/&quot;&gt;Recognising AI sentience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/exoplanet-biosignatures/&quot;&gt;Biosignatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/ai-misuse-pathogenic-dna/&quot;&gt;AI misuse: pathogenic DNA&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This process helped me to see where I could contribute the most with the time, skills and resources I have available.&lt;/p&gt;
+
+&lt;p&gt;Using machine learning and the scientific method to solve an important problem is what I am aiming for.&lt;/p&gt;
+
+&lt;h1 id=&quot;evaluating-research-topics&quot;&gt;Evaluating research topics&lt;/h1&gt;
+&lt;p&gt;The topic that best matched my background (biology and machine learning) was &lt;a href=&quot;https://open-research.gemmadanks.com/notes/ai-misuse-pathogenic-dna/&quot;&gt;preventing the misuse of AI for generating pathogenic DNA&lt;/a&gt;. I ruled this topic out, however, since I want all my work to be open and in this case that would probably do more harm than good.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/ai-for-decoding-non-human-languages/&quot;&gt;AI for translating unseen languages&lt;/a&gt; came out top in my decision matrix, partially due to the impact it would have on non-human animals, which I place high value on. There is not yet enough data available for me to make a contribution to this field using machine learning.&lt;/p&gt;
+
+&lt;p&gt;I enjoyed learning about &lt;a href=&quot;https://open-research.gemmadanks.com/notes/recognising-ai-sentience/&quot;&gt;artificial sentience&lt;/a&gt; and still think that it is a very important topic, given how much suffering not recognising it would incur, but I could not see any concrete problems for me to tackle right now.&lt;/p&gt;
+
+&lt;p&gt;The topic that best matched my interests was &lt;a href=&quot;https://open-research.gemmadanks.com/notes/exoplanet-biosignatures/&quot;&gt;exoplanet biosignatures&lt;/a&gt;. I have always wanted to work on finding and modelling life on other worlds and studied astrophysics initially before switching to biology, hoping to move into astrobiology at some later point in time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/technosignatures/&quot;&gt;Technosignatures&lt;/a&gt; are related to biosignatures. Whereas different biosignatures are generated by different forms of life, different technosignatures are generated by different forms of civilisation. Technosignatures may be controlled and/or used intentionally (e.g. for communication with other civilisations) – i.e. they require intelligence – whereas biosignatures are a by-product of any living process. The search for exoplanet technosignatures is therefore the search for signs of intelligent life elsewhere in the universe.&lt;/p&gt;
+
+&lt;h1 id=&quot;focus-on-technosignatures&quot;&gt;Focus on technosignatures&lt;/h1&gt;
+&lt;p&gt;I have decided to focus my research efforts on technosignatures initially and here’s why:&lt;/p&gt;
+
+&lt;h2 id=&quot;technosignatures-is-a-neglected-topic&quot;&gt;Technosignatures is a neglected topic&lt;/h2&gt;
+&lt;p&gt;From my limited reading around the topics, the technosignature field appears to be much more neglected than biosignatures. These days it is mainly funded by private individuals. Biosignatures and finding habitable planets have much broader support from space agencies. This gives technosignatures higher priority in my decision matrix.&lt;/p&gt;
+
+&lt;h2 id=&quot;finding-intelligent-life-elsewhere-would-be-high-impact&quot;&gt;Finding intelligent life elsewhere would be high impact&lt;/h2&gt;
+&lt;p&gt;Detecting any life elsewhere would have enormous consequences for how we see life on our own planet and may change the course of our longterm future as a spacefaring species looking for new planets to settle on. Finding intelligent life would have an even bigger impact. Communication with another civilisation would be an incredible milestone in human history.&lt;/p&gt;
+
+&lt;h2 id=&quot;radio-signals-are-available-for-analysis-now&quot;&gt;Radio signals are available for analysis now&lt;/h2&gt;
+&lt;p&gt;Data for detecting biosignatures will come soon and there is a lot of groundwork that can be done before that, but technosignatures (in particular narrow band radio signals) could be hidden in existing data and machine learning could help uncover them.&lt;/p&gt;
+
+&lt;h2 id=&quot;detecting-technosignatures-is-a-great-problem-for-machine-learning&quot;&gt;Detecting technosignatures is a great problem for machine learning&lt;/h2&gt;
+&lt;p&gt;Finding anomalies and classifying signals in large data sets is something machine learning algorithms are very successful at and I spent several years developing deep learning models to do just that on other types of data. So this topic is a great match for my current area of expertise.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-discoveries-and-learning-opportunities-are-possible&quot;&gt;Other discoveries and learning opportunities are possible&lt;/h2&gt;
+&lt;p&gt;Due to the overlap, work on technosignatures may also help with the hunt for biosignatures and habitable planets. In addition, any anomalies detected that are not technosignatures might lead to the discovery of other astronomical phenomena. All of these areas might be future research topics for me and I plan to learn as much as possible about them while working on technosignatures.&lt;/p&gt;
+
+&lt;h2 id=&quot;astrobiology-sparks-joy&quot;&gt;Astrobiology sparks joy&lt;/h2&gt;
+&lt;p&gt;Finally, curiosity and passion are key for success in research and astrobiology is a field I’ve wanted to work in for many years. I am looking forward to getting started!&lt;/p&gt;
+
+&lt;h1 id=&quot;next-steps&quot;&gt;Next steps&lt;/h1&gt;
+&lt;p&gt;A proper literature review of the topic is the next step in &lt;a href=&quot;https://open-research.gemmadanks.com/planning/my-research-process/&quot;&gt;my research process&lt;/a&gt;. I will spend several weeks on this and will post updates as I go along.&lt;/p&gt;</content><author><name>Gemma Danks</name></author><category term="planning" /><category term="planning" /><category term="decisions" /><category term="astrobiology" /><category term="technosignatures" /><category term="exoplanets" /><summary type="html">The first step in any research cycle is to choose a topic. This time around, I used a decision matrix to rank a list of topics by their impact, neglectedness, feasibility and how well they fit my interests, skills and lifestyle.</summary></entry><entry><title type="html">How to get an overview of a research topic in two days</title><link href="https://open-research.gemmadanks.com//pages/gemmadanks/tutorials/how-to-get-an-overview-of-a-research-topic/" rel="alternate" type="text/html" title="How to get an overview of a research topic in two days" /><published>2022-11-15T13:10:00+00:00</published><updated>2022-11-15T13:10:00+00:00</updated><id>https://open-research.gemmadanks.com//pages/gemmadanks/tutorials/how-to-get-an-overview-of-a-research-topic</id><content type="html" xml:base="https://open-research.gemmadanks.com//pages/gemmadanks/tutorials/how-to-get-an-overview-of-a-research-topic/">&lt;p&gt;I have spent about seven working days learning about five different topics that came out top in the &lt;a href=&quot;https://github.com/gemmadanks/gemmadanks.github.io/blob/main/assets/docs/research-topic-decision-matrix.xlsx&quot;&gt;decision matrix&lt;/a&gt; that resulted from &lt;a href=&quot;https://open-research.gemmadanks.com/planning/my-research-process/&quot;&gt;my process for choosing a focus for my research&lt;/a&gt; going forward. You can read my notes about each topic here:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/ai-for-decoding-non-human-languages/&quot;&gt;AI for translating unseen languages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/technosignatures/&quot;&gt;Extraterrestrial technosignatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/recognising-ai-sentience/&quot;&gt;Recognising AI sentience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/exoplanet-biosignatures/&quot;&gt;Exoplanet biosignatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/ai-misuse-pathogenic-dna/&quot;&gt;AI misuse: pathogenic DNA&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This time has given me a decent overview of the state of each field before I choose one to dive into in more depth (doing a proper literature review is the next step of &lt;a href=&quot;https://open-research.gemmadanks.com/planning/my-research-process/&quot;&gt;my research process&lt;/a&gt;). I planned to spend one day on each topic, and in most cases that is fine for scratching the surface, but I found that two days was better for a proper overview.&lt;/p&gt;
+
+&lt;p&gt;Here’s my process for a two day review of a research topic.&lt;/p&gt;
+
+&lt;h1 id=&quot;day-1-gather-learning-resources-and-get-an-introduction&quot;&gt;Day 1. Gather learning resources and get an introduction&lt;/h1&gt;
+&lt;p&gt;Spend the first day gathering and ranking resources to learn from, filling holes in your basic knowledge and getting an introduction to the field.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-find-popular-reading-material&quot;&gt;1. Find popular reading material&lt;/h2&gt;
+&lt;p&gt;Type a few different search terms into Google. If a field is completely new to me I will search for popular terms first (popular science articles will contain these both for ease of reading and for search engine optimisation) in order to identify the more technical terminology used in a field and then search again for those. For example, when searching for information on &lt;a href=&quot;https://open-research.gemmadanks.com/notes/recognising-ai-sentience/&quot;&gt;recognising AI sentience&lt;/a&gt;, I found that a common term in use was ‘artificial sentience’ and so used that as my next search term.&lt;/p&gt;
+
+&lt;p&gt;Open the top hits and check the source is reputable and trustworthy (i.e. is it a well-known science institution, website, blog, magazine or textbook - if not check the about page for credentials).&lt;/p&gt;
+
+&lt;p&gt;Scan the webpages and close any that are not relevant or too shallow.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-collect-recent-review-articles&quot;&gt;2. Collect recent review articles&lt;/h2&gt;
+&lt;p&gt;A recently published review article is one of the best ways to get an in depth overview of a topic.&lt;/p&gt;
+
+&lt;p&gt;Follow the trail of citations (check the cited by and the reference list) to gather more papers. To start with, I will use only open access and later, if necessary, I will try to get the PDFs of the ones behind a paywall (many are posted as pre-prints on &lt;a href=&quot;https://arxiv.org/&quot;&gt;arxiv&lt;/a&gt;, &lt;a href=&quot;https://www.biorxiv.org/&quot;&gt;biorxiv&lt;/a&gt; or on one of the author’s webpages or &lt;a href=&quot;https://www.researchgate.net/&quot;&gt;research gate&lt;/a&gt; profiles).&lt;/p&gt;
+
+&lt;p&gt;I use &lt;a href=&quot;https://www.mendeley.com/&quot;&gt;Mendeley&lt;/a&gt; to organise and read papers online - it has a useful chrome plug-in that lets you import (and find more) papers.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-make-a-playlist-of-educational-videos&quot;&gt;3. Make a playlist of educational videos&lt;/h2&gt;
+&lt;p&gt;YouTube is a great resource: most topics will have some educational videos on there. A lot of conferences post talks on YouTube which can be invaluable for learning about the latest research and opinions in a field that have not made it into publications yet. You can also find seminars and lectures that are great for an introduction. Again, check the sources.&lt;/p&gt;
+
+&lt;p&gt;Make a playlist of any relevant videos you find.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-start-broad-to-assess-and-refresh-current-knowledge&quot;&gt;4. Start broad to assess and refresh current knowledge&lt;/h2&gt;
+&lt;p&gt;I usually start with a popular science article or Wikipedia, even if I think I know the field. It often puts the topic into a broader perspective and they are usually quick to read.&lt;/p&gt;
+
+&lt;p&gt;Identify any gaps in your basic knowledge and fill them as you go along with the help of Google and/or Wikipedia.&lt;/p&gt;
+
+&lt;p&gt;Watch a seminar or two on the topic. Make notes of any key ideas, terms, questions, people and institutions.&lt;/p&gt;
+
+&lt;p&gt;Look up any relevant institutions, experiments, facilities, existing data or source code repositories.&lt;/p&gt;
+
+&lt;h1 id=&quot;day-2-deepen-and-summarise-knowledge&quot;&gt;Day 2. Deepen and summarise knowledge&lt;/h1&gt;
+&lt;p&gt;Dedicate the second day to diving deeper into a topic using review papers and writing down what you have learnt.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-read-papers&quot;&gt;1. Read papers&lt;/h2&gt;
+&lt;p&gt;Scan the latest review article and read the introduction and any sections that will deepen your knowledge without overwhelming you with technical details. Highlight any key ideas or references. If there is a future perspectives section also read that. If the review builds on an older review or a complements any other review articles (sometimes these will be together in a special issue of a journal) add these to your library and read them in the same way. Look up any unfamiliar terms.&lt;/p&gt;
+
+&lt;p&gt;Don’t waste time reading very technical papers or detailed studies at this stage - save that for the in depth literature review if you decide to pursue the topic. The introductions of these papers can, however, be valuable to get additional background and/or to find other review articles.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-write-a-summary&quot;&gt;2. Write a summary&lt;/h2&gt;
+&lt;p&gt;Summarise all your knowledge on the topic by writing it down.&lt;/p&gt;
+
+&lt;p&gt;Make a list of key references, resources and further reading. This will be useful if you pursue the topic further or come back to it later. Consider both what is known and what is currently unknown.&lt;/p&gt;
+
+&lt;p&gt;List any challenges (e.g. lack of data) that might affect whether or not you can make a contribution to the field.&lt;/p&gt;
+
+&lt;p&gt;You will notice as you write that you have missed something so go back and search or read a bit more to fill any gaps.&lt;/p&gt;
+
+&lt;p&gt;Remember that two days is not enough time to cover everything and don’t get side-tracked by off-topic or overly technical papers.&lt;/p&gt;</content><author><name>Gemma Danks</name></author><category term="tutorials" /><category term="planning" /><category term="research" /><category term="decisions" /><category term="process" /><summary type="html">I have spent about seven working days learning about five different topics that came out top in the decision matrix that resulted from my process for choosing a focus for my research going forward. You can read my notes about each topic here:</summary></entry><entry><title type="html">AI misuse: pathogenic DNA</title><link href="https://open-research.gemmadanks.com//pages/gemmadanks/notes/ai-misuse-pathogenic-dna/" rel="alternate" type="text/html" title="AI misuse: pathogenic DNA" /><published>2022-11-14T10:13:00+00:00</published><updated>2022-11-14T10:13:00+00:00</updated><id>https://open-research.gemmadanks.com//pages/gemmadanks/notes/ai-misuse-pathogenic-dna</id><content type="html" xml:base="https://open-research.gemmadanks.com//pages/gemmadanks/notes/ai-misuse-pathogenic-dna/">&lt;p&gt;Biotechnology has now advanced to the stage where it is not only possible to synthesise a DNA sequence of your choice in the lab, but to mail-order it from commercial DNA synthesis companies. This has huge benefits for research in the life sciences but it has also raised &lt;a href=&quot;https://www.who.int/news-room/questions-and-answers/item/what-is-dual-use-research-of-concern&quot;&gt;concerns about misuse&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Researchers have already recreated viruses such as polio, horsepox, Spanish flu and SARS. With the rise of &lt;a href=&quot;https://www.rsb.org.uk/biologist-features/the-biologist-s-guide-to-cloud-labs&quot;&gt;cloud laboratories&lt;/a&gt;, it is also possible for someone without a lab of their own to conduct experiments to help design and test DNA sequences.&lt;/p&gt;
+
+&lt;p&gt;Previously, a barrier for the misuse of synthetic DNA has been the biological knowledge required to design it but advances in the field of artificial intelligence means that this knowledge may not be necessary for much longer. There have already been some publications in this direction.&lt;/p&gt;
+
+&lt;p&gt;The world is still hurting from the COVID-19 pandemic. Another pandemic engineered via the use of AI to be more virulent and transmissable would be devastating and may even pose a &lt;a href=&quot;https://80000hours.org/problem-profiles/preventing-catastrophic-pandemics/&quot;&gt;global catastrophic biological risk&lt;/a&gt;. How to prevent this happening is an important problem.&lt;/p&gt;
+
+&lt;p&gt;This topic came out fifth in &lt;a href=&quot;https://open-research.gemmadanks.com/planning/choosing-research-topic/&quot;&gt;my decision matrix&lt;/a&gt; for deciding what to work on next based on impact and how well it matches my skills and interests. I am spending one day on each of my top 5 topics to learn a bit more before choosing which to focus on:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/ai-for-decoding-non-human-languages/&quot;&gt;AI for translating unseen languages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/technosignatures/&quot;&gt;Extraterrestrial technosignatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/recognising-ai-sentience/&quot;&gt;Recognising AI sentience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/exoplanet-biosignatures/&quot;&gt;Exoplanet biosignatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;AI misuse: pathogenic DNA&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Work in this field is an almost perfect match for my background (molecular biology, genomics and AI) but after reading up about it I have decided I am not comfortable with the potential misuse of my own research on this, given my focus on making all my output open and accessible to all!&lt;/p&gt;</content><author><name>Gemma Danks</name></author><category term="notes" /><category term="planning" /><category term="ai" /><category term="decisions" /><category term="genomics" /><category term="biosecurity" /><summary type="html">Biotechnology has now advanced to the stage where it is not only possible to synthesise a DNA sequence of your choice in the lab, but to mail-order it from commercial DNA synthesis companies. This has huge benefits for research in the life sciences but it has also raised concerns about misuse.</summary></entry><entry><title type="html">Exoplanet biosignatures</title><link href="https://open-research.gemmadanks.com//pages/gemmadanks/notes/exoplanet-biosignatures/" rel="alternate" type="text/html" title="Exoplanet biosignatures" /><published>2022-11-07T10:13:00+00:00</published><updated>2022-11-07T10:13:00+00:00</updated><id>https://open-research.gemmadanks.com//pages/gemmadanks/notes/exoplanet-biosignatures</id><content type="html" xml:base="https://open-research.gemmadanks.com//pages/gemmadanks/notes/exoplanet-biosignatures/">&lt;p&gt;In the last few decades we have discovered that Earth-like planets are common around other stars and many of these planets are likely to be habitable, i.e. one or more environments on the planet can sustain life.&lt;/p&gt;
+
+&lt;p&gt;A major focus of astrobiology research is on how to detect life existing elsewhere in the universe. The latest and future telescope missions have or will provide the most detailed data yet on exoplanets but how to define and find the signatures of life (‘biosignatures’) in these data is still an open question.&lt;/p&gt;
+
+&lt;p&gt;This topic came out fourth in &lt;a href=&quot;https://open-research.gemmadanks.com/planning/choosing-research-topic/&quot;&gt;my decision matrix&lt;/a&gt; for deciding what to work on next based on impact and how well it matches my skills and interests. I am spending one day on each of my top 5 topics to learn a bit more before choosing which to focus on:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/ai-for-decoding-non-human-languages/&quot;&gt;AI for translating unseen languages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/technosignatures/&quot;&gt;Extraterrestrial technosignatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/recognising-ai-sentience/&quot;&gt;Recognising AI sentience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Biosignatures&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/ai-misuse-pathogenic-dna/&quot;&gt;AI misuse: pathogenic DNA&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Here are my notes resulting from a couple of days reading up on biosignatures (in the context of detecting life on exoplanets, rather than life elsewhere in our solar system).&lt;/p&gt;
+
+&lt;h2 id=&quot;habitability-and-biosignatures&quot;&gt;Habitability and biosignatures&lt;/h2&gt;
+&lt;p&gt;Research on biosignatures and habitability is one of NASA’s key topics in its &lt;a href=&quot;https://astrobiology.nasa.gov/about/astrobiology-strategy/&quot;&gt;astrobiology research strategy&lt;/a&gt;. There are many questions focussed on what environments can support life and what kind of life might survive in different environments. Since all life on Earth requires liquid water, this is one criteria that is being applied to find potentially habitable exoplanets. This helps to narrow the search for life. One aim is to generate a ‘habitability profile’ for each planet to guide our search for life. This profile would take into account various planetary and stellar featuress.&lt;/p&gt;
+
+&lt;p&gt;Just because a planet is habitable, however, does not necessarily mean life will exist there. Life on Earth took billions of years to evolve and exoplanets orbitting short-lived stars may not have enough time. We also don’t know how likely it is for life to originate, even under optimal conditions (this is a whole other research topic). So to find planets that host life elsewhere in the universe, we need to detect evidence of life itself, i.e. biosignatures.&lt;/p&gt;
+
+&lt;h2 id=&quot;types-of-biosignature&quot;&gt;Types of biosignature&lt;/h2&gt;
+&lt;p&gt;NASA defines a biosignature as “an object, substance, and/or pattern whose origin specifically requires a biological agent”. There are three main categories of &lt;a href=&quot;https://www.liebertpub.com/doi/10.1089/ast.2017.1729&quot;&gt;potential exoplanet biosignatures&lt;/a&gt; in the literature: gaseous, surface and temporal biosignatures.&lt;/p&gt;
+
+&lt;h3 id=&quot;gaseous-biosignatures&quot;&gt;Gaseous biosignatures&lt;/h3&gt;
+&lt;p&gt;These are gases in the atmosphere of a planet that are produced directly or indirectly by living organisms. This category forms the main focus of biosignature research since they are detectable with current and near-future methods and technology. Examples based on life on Earth include:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;O&lt;sub&gt;2&lt;/sub&gt; (oxygen): almost entirely generated by photosynthesis&lt;/li&gt;
+  &lt;li&gt;O&lt;sub&gt;3&lt;/sub&gt; (ozone): produced by reactions that split O&lt;sub&gt;2&lt;/sub&gt; and is therefore an indirect product of life&lt;/li&gt;
+  &lt;li&gt;CH&lt;sub&gt;4&lt;/sub&gt; (methane): produced by anaerobic microbial metabolism (by methanogens)&lt;/li&gt;
+  &lt;li&gt;N&lt;sub&gt;2&lt;/sub&gt;O (nitrous oxide): via incomplete denitrification of nitrate by microorganisms&lt;/li&gt;
+  &lt;li&gt;Sulfur gases: from microbial mats&lt;/li&gt;
+  &lt;li&gt;CH&lt;sub&gt;3&lt;/sub&gt;Cl (methyl chloride): from various organisms but not well characterised&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;surface-biosignatures&quot;&gt;Surface biosignatures&lt;/h3&gt;
+&lt;p&gt;Features on the surface of a planet that are produced by life may be detectable as biosignatures with future technology. For example, the reflection of light by pigments in living organisms (e.g. the pigments used for photosynthesis absorbs most visible light but reflects infrared giving vegetation a ‘red edge’) or bioluminescence.&lt;/p&gt;
+
+&lt;h3 id=&quot;temporal-biosignatures&quot;&gt;Temporal biosignatures&lt;/h3&gt;
+&lt;p&gt;Signals that change over time due to living organisms (e.g. seasonal fluctuations in CO&lt;sub&gt;2&lt;/sub&gt; on Earth with a decrease in the northern hemisphere in spring when CO&lt;sub&gt;2&lt;/sub&gt; is used for new plant growth and an increase in autumn when growth reduces and plant matter decays). These require consideration of a planet’s orbit and axial tilt.&lt;/p&gt;
+
+&lt;h1 id=&quot;detecting-biosignatures&quot;&gt;Detecting biosignatures&lt;/h1&gt;
+&lt;p&gt;Exoplanet research relies on increasingly detailed observations of planetary systems outside our solar system. Major advances in the capabilities of space and ground-based telescopes brings new possibilities of exoplanet investigation.&lt;/p&gt;
+
+&lt;p&gt;Detection and astrophysical characterisation of exoplanets (size, mass, density, composition, orbital properties) is ongoing. Initially this was restricted to large hot planets but telescopes such as &lt;a href=&quot;https://www.nasa.gov/tess-transiting-exoplanet-survey-satellite&quot;&gt;TESS&lt;/a&gt; are now identifying thousands of smaller, cooler worlds in their habitable zones (the region around a star that allows liquid water).&lt;/p&gt;
+
+&lt;p&gt;New and future telescopes (e.g. the &lt;a href=&quot;https://webb.nasa.gov/index.html&quot;&gt;JWST&lt;/a&gt;, the &lt;a href=&quot;https://giantmagellan.org/&quot;&gt;Giant Magellan Telescope&lt;/a&gt; and the &lt;a href=&quot;https://elt.eso.org/&quot;&gt;Extremely Large Telescope&lt;/a&gt;) will provide enough data to analyse the atmospheres of exoplanets using their spectra, possibly allowing the detection of some biosignatures.&lt;/p&gt;
+
+&lt;p&gt;The spectrum of an exoplanet is the measurement of electromagenetic radiation that either comes from the planet itself (thermal emission) or from its host star after passing through its atmosphere or reflecting from its surface or atmosphere. The planet’s composition, surface features and/or atmosphere affect what wavelengths are present or absent in the spectrum. These spectra can therefore be used to detect known absorption lines of some biosignatures (e.g. oxygen, ozone and methane).&lt;/p&gt;
+
+&lt;p&gt;Future missions will also include direct imaging of habitable exoplanets, possibly revealing surface features that indicate the presence of life.&lt;/p&gt;
+
+&lt;h2 id=&quot;challenges-for-detecting-biosignatures&quot;&gt;Challenges for detecting biosignatures&lt;/h2&gt;
+
+&lt;h3 id=&quot;lack-of-data&quot;&gt;Lack of data&lt;/h3&gt;
+&lt;p&gt;Spectra of terrestrial exoplanets are not yet available and when they will be, the number of planets surveyed will initially be small. This means most current biosignature research is focusssed on modelling and method development using synthetic data or limited data from Earth or extrasolar hot gas giants.&lt;/p&gt;
+
+&lt;h3 id=&quot;unknown-unknowns&quot;&gt;Unknown unknowns&lt;/h3&gt;
+&lt;p&gt;The full range of life’s chemical processes is unknown on Earth, let alone on alien worlds. This limits our search to what we know about terrestrial life and/or how well we can hypothesise or model new biological processes.&lt;/p&gt;
+
+&lt;h3 id=&quot;weak-or-noisy-signals&quot;&gt;Weak or noisy signals&lt;/h3&gt;
+&lt;p&gt;Some biosignatures will be too weak to detect with current and near-future technology and signatures of early life may be missed (it took billions of years for oxygen to become abundant in Earth’s atmosphere following the evolution of photosynthesis).&lt;/p&gt;
+
+&lt;p&gt;Noise from space or from instruments reduce the ability to detect biosignatures and high resolution spectroscopy may be required.&lt;/p&gt;
+
+&lt;h3 id=&quot;false-positives&quot;&gt;False positives&lt;/h3&gt;
+&lt;p&gt;Some biosignatures (e.g. methane) can also be generated abiotically (i.e. through processes that do not involve living organisms). These may lead to false positives in the search for life elsewhere, particularly as many of these abiotic processes on exoplanets are unknown. Biosignatures, therefore, must be considered in the context of the environments they come from - taking into account both planetary and stellar properties and the interaction between them.&lt;/p&gt;
+
+&lt;h3 id=&quot;time-required-to-collect-data&quot;&gt;Time required to collect data&lt;/h3&gt;
+&lt;p&gt;Current telescopes require tens to hundreds of hours to collect enough data for characterising exoplanet atmospheres. This limits the number of candidates that can be observed and means pre-selection is a necessary pre-requisite. A lot of ongoing work is focussed on finding strong candidates - i.e. questions around how to assess the habitability of an exoplanet.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;I find this a fascinating topic and one that I’ve wanted to work on for many years. It is distinct but related to the topic of &lt;a href=&quot;https://open-research.gemmadanks.com/notes/technosignatures/&quot;&gt;technosignatures&lt;/a&gt;. There are many challenges in the field but the technology is not yet advanced enough to answer the big questions. On the other hand, there is a lot of groundwork to be done before these discoveries can be made. We can learn a lot about how to look for and recognise biosignatures before we analyse the data from future missions and this work will also inform what data and instruments are required for detection.&lt;/p&gt;
+
+&lt;p&gt;I have one more topic to review before making a decision on what topic to pursue further but this is a strong contender.&lt;/p&gt;</content><author><name>Gemma Danks</name></author><category term="notes" /><category term="planning" /><category term="astrobiology" /><category term="decisions" /><category term="biosignatures" /><category term="exoplanets" /><summary type="html">In the last few decades we have discovered that Earth-like planets are common around other stars and many of these planets are likely to be habitable, i.e. one or more environments on the planet can sustain life.</summary></entry><entry><title type="html">Recognising AI sentience</title><link href="https://open-research.gemmadanks.com//pages/gemmadanks/notes/recognising-ai-sentience/" rel="alternate" type="text/html" title="Recognising AI sentience" /><published>2022-10-07T15:50:00+01:00</published><updated>2022-10-07T15:50:00+01:00</updated><id>https://open-research.gemmadanks.com//pages/gemmadanks/notes/recognising-ai-sentience</id><content type="html" xml:base="https://open-research.gemmadanks.com//pages/gemmadanks/notes/recognising-ai-sentience/">&lt;p&gt;Right now the most advanced artificial intelligence is unaware of its existence and has no capacity to feel anything. It is based purely on a series of matrix multiplications with weights that are tuned to perform a task that we design. These tasks, however, are getting more and more complex and more and more generalised and eventually the complexity of the algorithm might allow it to become sentient. While we can treat existing computer programs without concern for their well-being (since they have no such thing), it would be immoral and perhaps even dangerous to ignore the well-being of a sentient program.&lt;/p&gt;
+
+&lt;p&gt;Humanity has a long history of mistreating other sentient beings, including each other. Over time we have &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0016328721000641&quot;&gt;expanded our moral circle&lt;/a&gt; in some cases and tried to make amends for past misdeeds but it would be better to broaden this circle &lt;em&gt;before&lt;/em&gt; we do any damage, rather than after. This could reduce future suffering on a huge scale since the number of sentient beings that will &lt;a href=&quot;https://80000hours.org/articles/future-generations/&quot;&gt;exist in the future&lt;/a&gt; far exceeds those that have existed so far. It is possible that the majority of future sentient beings will be artificial.&lt;/p&gt;
+
+&lt;p&gt;Aside from the issue that we still mistreat billions of sentient animals (&lt;a href=&quot;https://80000hours.org/problem-profiles/factory-farming/&quot;&gt;factory farming&lt;/a&gt;) and ignore the well-being of many others (&lt;a href=&quot;https://80000hours.org/problem-profiles/wild-animal-welfare/&quot;&gt;wild animals&lt;/a&gt;), a major problem is that we currently struggle to recognise sentience in biological life. So how to recognise sentience in artificial life is a huge outstanding question.&lt;/p&gt;
+
+&lt;p&gt;This topic came out third in &lt;a href=&quot;https://open-research.gemmadanks.com/planning/choosing-research-topic/&quot;&gt;my decision matrix&lt;/a&gt; for deciding what to work on next based on impact and how well it matches my skills and interests. I am spending one day on each of my top 5 topics to learn a bit more before choosing which to focus on:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/ai-for-decoding-non-human-languages/&quot;&gt;AI for translating unseen languages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/technosignatures/&quot;&gt;Extraterrestrial technosignatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Recognising AI sentience&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/exoplanet-biosignatures/&quot;&gt;Biosignatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/ai-misuse-pathogenic-dna/&quot;&gt;AI misuse: pathogenic DNA&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Here are my notes resulting from a day spent scratching the surface of the artificial sentience field.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-sentience&quot;&gt;What is sentience?&lt;/h2&gt;
+&lt;p&gt;Sentience is the ability to have positive and negative experiences. A sentient being can feel pleasure and it can suffer.&lt;/p&gt;
+
+&lt;h2 id=&quot;sentience-vs-consciousness&quot;&gt;Sentience vs. consciousness&lt;/h2&gt;
+&lt;p&gt;Sentience and consciousness are sometimes used interchangeably and, while the definition of sentience is more consistent, consciousness seems to have many definitions. For now, I will distinguish sentience from consciousness by defining consciousness as an awareness of what is happening externally or internally without caring what the outcome is – a passive spectator – and sentience as having feelings about what the outcome should be and a desire to influence it – an active participant. By these definitions, all sentient beings are conscious but consciousness does not require sentience.&lt;/p&gt;
+
+&lt;h2 id=&quot;biological-basis-of-sentience&quot;&gt;Biological basis of sentience&lt;/h2&gt;
+&lt;p&gt;Sentience in biological life emerges from a centralised nervous system. In animals, signals carrying information about the external or internal world (e.g. tissue damage, light, sound, temperature, or thoughts) are integrated and prioritised by a processing centre (i.e. the brain), which then generates a neurophysiological state that the animal experiences as a feeling (e.g. fear). This state generation can adapt to changing circumstances and it is remembered, at least temporarily. Exactly how this all works at the molecular and neurological levels, and how it evolved, is still unknown.&lt;/p&gt;
+
+&lt;h2 id=&quot;recognising-sentience&quot;&gt;Recognising sentience&lt;/h2&gt;
+&lt;p&gt;How to measure sentience is still an open question since we still don’t understand the mechanisms behind it. For now, we have to infer sentience using a set of criteria.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.animal-ethics.org/criteria-for-recognizing-sentience/&quot;&gt;Animal Ethics&lt;/a&gt; define three general areas for considering whether or not an animal is sentient: behavioural (do they behave as if they are experiencing pain and/or pleasure), evolutionary (would sentience confer a survival advantage and/or are there related animals that are clearly sentient), and physiological (do they possess physical structures - neurons and receptors - that process inputs from the environment). They consider most animals to be sentient based on these criteria:  animals that lack a nervous system (sponges) or have nervous systems that are not centralised (echinoderms and cnidarians) are not considered to be sentient.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sentienceinstitute.org/blog/assessing-sentience-in-artificial-entities&quot;&gt;The Sentience Institute&lt;/a&gt; has an expanded list of features for assessing artificial sentience, gathered from the literature. These include the ability to detect harmful stimuli, reinforcement learning, goal directed behaviour and an internal self-model.&lt;/p&gt;
+
+&lt;p&gt;Sentience does not require the ability to solve difficult problems (i.e. ‘intelligence’) and there is no clear reason why the structures responsible for transmitting signals and producing state changes have to be biological.&lt;/p&gt;
+
+&lt;h3 id=&quot;could-ai-be-sentient&quot;&gt;Could A.I. be sentient?&lt;/h3&gt;
+&lt;p&gt;While we now recognise many animals as sentient, this has not always been the case and our ideas about sentience are still restricted by our own human-specific experiences and biases. This makes it hard for us to accept the idea of artificial sentience but most experts agree that there is no reason to believe it is impossible.&lt;/p&gt;
+
+&lt;p&gt;The most complex A.I. are based on algorithms called neural networks. These are inspired by biological nervous systems and are just a lot of matrix multiplication. They recieve inputs and perform various transformations on these, integrating them to produce an output. The transformations adapt during a training process that teaches the network how to generate the correct output using either a lot of examples (supervised learning) or, in the case of reinforcement learning, a reward/punishment function.&lt;/p&gt;
+
+&lt;p&gt;The output of an A.I. can be used to generate a response. An example of this is a self-driving car. The steering adjusts to keep the car in lane using the output of an A.I. that receives (visual) inputs from cameras. Another example is a chatbot that will generate human language. Both of these are trained specifically for these two tasks. There is no way that the A.I. of a self-driving car can start to have a conversation with you and there is no way a chatbot can drive a car. We do not have general artificial intelligence (yet).&lt;/p&gt;
+
+&lt;p&gt;Current A.I., therefore, fulfils many criteria for sentience (e.g. transmission, integration and prioritisation of signals), but there are no emotional states involved – they are not yet capable of experiencing pleasure or suffering.&lt;/p&gt;
+
+&lt;p&gt;This does not mean that we won’t develop new algorithms or adapt existing ones that can generate and update in silico states analagous to the feelings of biological sentience. We don’t know how to do this yet (or if we should), but a few years ago we also did not know how to develop algorithms that can drive a car.&lt;/p&gt;
+
+&lt;p&gt;It is also possible that we might create an A.I. that can give itself sentience by rewriting its own code. Or it might emerge in a sufficiently complex algorithm that is given the ability to adapt and learn over time. It will be important that we can recognise artificial sentience if/when it arises so that we can avoid undetected (and possibly extreme and large scale) suffering.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;This is a very neglected field of research and the impacts of failing to recognise future artificial sentience could be enormous.&lt;/p&gt;
+
+&lt;p&gt;One of the biggest challenges is that we do not understand our own sentience, and we are still struggling to recognise sentience in non-human animals. I would have to spend a lot longer reading up about it before I could pick a research question in this field. The &lt;a href=&quot;https://www.sentienceinstitute.org/blog/the-importance-of-artificial-sentience&quot;&gt;Sentience Institute&lt;/a&gt; has a lot of material for learning more and has ongoing work on the topic.&lt;/p&gt;</content><author><name>Gemma Danks</name></author><category term="notes" /><category term="planning" /><category term="ai" /><category term="decisions" /><category term="sentience" /><summary type="html">Right now the most advanced artificial intelligence is unaware of its existence and has no capacity to feel anything. It is based purely on a series of matrix multiplications with weights that are tuned to perform a task that we design. These tasks, however, are getting more and more complex and more and more generalised and eventually the complexity of the algorithm might allow it to become sentient. While we can treat existing computer programs without concern for their well-being (since they have no such thing), it would be immoral and perhaps even dangerous to ignore the well-being of a sentient program.</summary></entry><entry><title type="html">Technosignatures</title><link href="https://open-research.gemmadanks.com//pages/gemmadanks/notes/technosignatures/" rel="alternate" type="text/html" title="Technosignatures" /><published>2022-10-04T11:00:00+01:00</published><updated>2022-10-04T11:00:00+01:00</updated><id>https://open-research.gemmadanks.com//pages/gemmadanks/notes/technosignatures</id><content type="html" xml:base="https://open-research.gemmadanks.com//pages/gemmadanks/notes/technosignatures/">&lt;p&gt;Technosignatures are signals that indicate the existence of technology (i.e. artifacts created from the practical application of scientific knowledge) – either intentional signals or by-products. Humanity generates several technosignatures – both on Earth and in orbit or on other planets in the solar system. Detecting technosignatures from non-human sources would be evidence of an extant or extinct intelligent civilisation elsewhere in the Universe. The impact of this could extend millenia into the future as humanity (or its biological or technological descendants) negotiates leaving Earth and embarking on interstellar travel.&lt;/p&gt;
+
+&lt;p&gt;So far no technosignatures have been detected but this is a growing field of research, particularly given the increasing resolution of ground-based and space telescopes, improvements in compute power and the emergence of new methods, including machine learning, to parse and process the enormous datasets coming out of these missions.&lt;/p&gt;
+
+&lt;p&gt;This topic came out second in &lt;a href=&quot;https://open-research.gemmadanks.com/planning/choosing-research-topic/&quot;&gt;my decision matrix&lt;/a&gt; for deciding what to work on next based on impact and how well it matches my skills and interests. I am spending one day on each of my top 5 topics to learn a bit more before choosing which to focus on:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/ai-for-decoding-non-human-languages/&quot;&gt;AI for translating unseen languages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Extraterrestrial technosignatures&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/recognising-ai-sentience/&quot;&gt;Recognising AI sentience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/exoplanet-biosignatures/&quot;&gt;Biosignatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/ai-misuse-pathogenic-dna/&quot;&gt;AI misuse: pathogenic DNA&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Here are my notes resulting from a day spent learning about the current status of the technosignatures and search for extaterrestrial intelligence (SETI) field.&lt;/p&gt;
+
+&lt;h2 id=&quot;types-of-technosignatures&quot;&gt;Types of technosignatures&lt;/h2&gt;
+
+&lt;h3 id=&quot;em-signals&quot;&gt;EM signals&lt;/h3&gt;
+&lt;p&gt;Most efforts so far to find technosignatures have focussed on picking up radio broadcasts with the assumption that these are sent intentionally with the purpose of communication. Work is ongoing at the &lt;a href=&quot;https://www.seti.org/&quot;&gt;SETI institute&lt;/a&gt;, &lt;a href=&quot;http://seti.berkeley.edu/&quot;&gt;Berkley SETI&lt;/a&gt;, &lt;a href=&quot;https://www.pseti.psu.edu/about/&quot;&gt;Penn State Extraterrestrial Intelligence Center&lt;/a&gt; and the &lt;a href=&quot;https://breakthroughinitiatives.org/initiative/1&quot;&gt;Breakthrough Listen Initiative&lt;/a&gt; to find and analyse candidate signals.&lt;/p&gt;
+
+&lt;p&gt;A large citizen science project called &lt;a href=&quot;https://setiathome.berkeley.edu/&quot;&gt;SETI@home&lt;/a&gt; based at UC Berkley began in 1999. This sent chunks of radio data to internet-connected home computers for processing when these computers would otherwise be idle. As of 2020 this project is now in ‘hibernation’.&lt;/p&gt;
+
+&lt;p&gt;The first SETI facility in the U.K., &lt;a href=&quot;http://www.eaaro.org.uk/projects.php&quot;&gt;EAAROCIBO&lt;/a&gt;, is currently in the planning stages. The international &lt;a href=&quot;https://www.skatelescope.org/the-ska-project/&quot;&gt;Square Kilometer Array&lt;/a&gt; project also has SETI as one of its science goals.&lt;/p&gt;
+
+&lt;p&gt;There has also been efforts towards detecting optical beacons, such as the &lt;a href=&quot;http://laserseti.net/&quot;&gt;LaserSETI&lt;/a&gt; project.&lt;/p&gt;
+
+&lt;h3 id=&quot;atmospheric-signatures&quot;&gt;Atmospheric signatures&lt;/h3&gt;
+&lt;p&gt;Several atmospheric gases are produced as a by-product of an industrialised civilisation burning fossil fuels or other biomass. The activity of humananity since the industrial revolution has  produced pollutants including NO&lt;sub&gt;2&lt;/sub&gt;, CFCs, hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulphur hexafluoride (SF&lt;sub&gt;6&lt;/sub&gt;) and nitrogen trifluoride (NF&lt;sub&gt;3&lt;/sub&gt;).&lt;/p&gt;
+
+&lt;p&gt;Advanced civilisations may also intentionally modify the atmosphere of a planet to make it habitable (terraforming) or reverse catastrophic climate change (geo-engineering).&lt;/p&gt;
+
+&lt;p&gt;The detection of these gases from space depends on their absorption features (if they can be distinguished in a spectra from other molecules), abundance, type of host star and size of planet. The &lt;a href=&quot;https://webb.nasa.gov/index.html&quot;&gt;James Webb Space telescope&lt;/a&gt; (JWST) may be able to detect these signatures in the atmospheres of exoplanets.&lt;/p&gt;
+
+&lt;h3 id=&quot;surface-signatures&quot;&gt;Surface signatures&lt;/h3&gt;
+&lt;p&gt;As well as pollution in the atmosphere, large structures on the surface of a planet indicates the presence of a technological civilisation. Reflections of large structures may be detected via the inversions of light curves if there is enough contrast in the surrounding environment.&lt;/p&gt;
+
+&lt;p&gt;Urban regions that generate heat, ‘heat islands’, if they are large enough and can be distinguished from geological activity (e.g. volcanoes) may be detectable on extrasolar planets. These may also generate light that can be seen on the night side of the planet.&lt;/p&gt;
+
+&lt;p&gt;Observations of Earth from space may be used to test how detectable technosignatures from humanity are from a distance.&lt;/p&gt;
+
+&lt;h3 id=&quot;megastructures&quot;&gt;Megastructures&lt;/h3&gt;
+&lt;p&gt;Once a civilisation is advanced enough that it has harnessed all the energy reaching their own planet, it may build gigantic off-world structures that encircle their star and capture even more energy and/or provide more habitable space. These are known as &lt;a href=&quot;https://en.wikipedia.org/wiki/Dyson_sphere&quot;&gt;Dyson spheres&lt;/a&gt; or swarms. They could be detected as anomalous transits and/or anomalous infrared (from waste heat) and light (dimmed by the structure) signals coming from a star.&lt;/p&gt;
+
+&lt;p&gt;Structures could also be engineered around exoplanets.&lt;/p&gt;
+
+&lt;h3 id=&quot;interstellar-travel&quot;&gt;Interstellar travel&lt;/h3&gt;
+&lt;p&gt;Civilisations that travel between the stars will likely produce exhaust emissions from their space craft that could also be detected by our telescopes. There may also be relics left over from their explorations.&lt;/p&gt;
+
+&lt;h2 id=&quot;challenges-for-detecting-technosignatures&quot;&gt;Challenges for detecting technosignatures&lt;/h2&gt;
+&lt;p&gt;There are major challenges facing the search for technosignatures. These come from limitations in the data we collect, our ability to verify candidate signals and in the funding this area receives.&lt;/p&gt;
+
+&lt;h3 id=&quot;data-limitations&quot;&gt;Data limitations&lt;/h3&gt;
+&lt;p&gt;There are major limitations in data quality and data collection due to the distances and sheer number of targets that must be searched.&lt;/p&gt;
+
+&lt;p&gt;Some of the proposed technosignatures do not have known detectability limits and may require many hundreds of hours of telescope time to collect. Furthermore, most existing telescopes do not have the resolution for detecting surface features on extrasolar planets, although there are missions that aim to analyse planetary atmospheres and future missions will improve in resolution.&lt;/p&gt;
+
+&lt;p&gt;The total number of stars surveyed is also small so far, athough the Breakthrough Listen Initiative aims to survey a million stars. Identifying more planets in habitable zones will also help to narrow the search space.&lt;/p&gt;
+
+&lt;h3 id=&quot;verifying-candidate-signals&quot;&gt;Verifying candidate signals&lt;/h3&gt;
+&lt;p&gt;We cannot yet visit, or send a probe to, a planet that looks like it might have intelligent life. The planets are just too far away for our current technology. Verification has to be done from afar.&lt;/p&gt;
+
+&lt;p&gt;Candidate signals have to go through many checks to determine whether or not they are extraterrestrial in origin. Breakthrough Listen has a detailed &lt;a href=&quot;http://seti.berkeley.edu/blc1/flowchart.html&quot;&gt;verification procedure for radio signals&lt;/a&gt; that rules out false positives from human activity or instrument malfunction. Once a signal has passed these checks they need to be verified by other telescopes.&lt;/p&gt;
+
+&lt;p&gt;Other technosignatures will require more than one type of signal (e.g. a polluted atmosphere and evidence of heat islands).&lt;/p&gt;
+
+&lt;p&gt;An exchange of communication with Earth would validate a signal but whether or not we should contact other intelligent life if we find it is a hotly debated question and, depending on the distances involved, could take hundreds of years.&lt;/p&gt;
+
+&lt;h3 id=&quot;lack-of-funding&quot;&gt;Lack of funding&lt;/h3&gt;
+&lt;p&gt;While astrobiology as a field is growing rapidly following the discovery of the abundance of extrasolar planets, and the search for life is now a priority area for space agencies, the search for &lt;em&gt;intelligent&lt;/em&gt; life is still underfunded and, since the 1990s, is almost exclusively done with the help of private donations rather than funding agencies.&lt;/p&gt;
+
+&lt;p&gt;Despite the profound implications of finding signs of extraterrestrial intelligence, the search for them has not been mainstream. As yet we have no evidence for life existing elsewhere but the maths supports the idea: there are billions of planets in our galaxy and if even a tiny fraction of these are suitable for life that is still a lot of habitable planets. And while most scientists support the search, they nevertheless tend to avoid high-risk research themselves (particularly early in their careers) since a lack of progress harms their chances of moving up the academic career ladder. This means we haven’t looked for long or far enough yet to find any evidence.&lt;/p&gt;
+
+&lt;p&gt;There is also the public perception of SETI being something restricted to science fiction that influences the attitudes of funding agencies. Humanity is ready for the discovery of microbial life on other planets but we still scoff at the idea that we are not the only intelligent civilisation in the Universe.&lt;/p&gt;
+
+&lt;p&gt;This will change.&lt;/p&gt;
+
+&lt;p&gt;Our own technology is improving rapidly and today’s searches are far more powerful than ever before. The sheer volume of data we can search through has exploded with recent developments in A.I. and this will only continue with increasingly powerful computers.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Despite the challenges of finding extraterrestrial technosignatures, it seems like an opportune time to put greater efforts into this research area.  As it is so neglected and a great problem for the application of machine learning, I am moving this topic up to my number 1 slot for &lt;a href=&quot;https://open-research.gemmadanks.com/planning/choosing-research-topic/&quot;&gt;what to work on next&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://technosearch.seti.org/&quot;&gt;Technosearch&lt;/a&gt;: an archive of technosignature science papers&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breakthroughinitiatives.org/opendatasearch&quot;&gt;Breakthrough Listen open data&lt;/a&gt;, &lt;a href=&quot;https://github.com/UCBerkeleySETI/breakthrough&quot;&gt;GitHub repository&lt;/a&gt; and &lt;a href=&quot;https://www.kaggle.com/c/seti-breakthrough-listen&quot;&gt;kaggle competition&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.seti.org/protocols-eti-signal-detection&quot;&gt;Protocol for post-detection&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uksetiresearchnetwork.wordpress.com/&quot;&gt;UK SETI Research Network (UKSRN)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Gemma Danks</name></author><category term="notes" /><category term="planning" /><category term="decisions" /><category term="astrobiology" /><category term="technosignatures" /><category term="exoplanets" /><summary type="html">Technosignatures are signals that indicate the existence of technology (i.e. artifacts created from the practical application of scientific knowledge) – either intentional signals or by-products. Humanity generates several technosignatures – both on Earth and in orbit or on other planets in the solar system. Detecting technosignatures from non-human sources would be evidence of an extant or extinct intelligent civilisation elsewhere in the Universe. The impact of this could extend millenia into the future as humanity (or its biological or technological descendants) negotiates leaving Earth and embarking on interstellar travel.</summary></entry><entry><title type="html">AI for decoding non-human languages</title><link href="https://open-research.gemmadanks.com//pages/gemmadanks/notes/ai-for-decoding-non-human-languages/" rel="alternate" type="text/html" title="AI for decoding non-human languages" /><published>2022-09-27T14:00:00+01:00</published><updated>2022-09-27T14:00:00+01:00</updated><id>https://open-research.gemmadanks.com//pages/gemmadanks/notes/ai-for-decoding-non-human-languages</id><content type="html" xml:base="https://open-research.gemmadanks.com//pages/gemmadanks/notes/ai-for-decoding-non-human-languages/">&lt;p&gt;A.I. has become incredibly powerful for translating human languages. Could it be used to glean information from non-human languages? The impact of understanding non-human animal communication would be enormous. We would have the knowledge and the additional motivation to reduce their suffering on a global scale and improve conservation efforts. We would also be better prepared for any extraterrestrial messages that we find.&lt;/p&gt;
+
+&lt;p&gt;This topic came out top of &lt;a href=&quot;https://open-research.gemmadanks.com/planning/choosing-research-topic/&quot;&gt;my decision matrix&lt;/a&gt; for deciding what to work on next based on impact and how well it matches my skills and interests. I am spending one day on each of my top 5 topics to learn a bit more before choosing which to focus on:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;AI for translating unseen languages&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/technosignatures/&quot;&gt;Extraterrestrial technosignatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/recognising-ai-sentience/&quot;&gt;Recognising AI sentience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/exoplanet-biosignatures/&quot;&gt;Biosignatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/ai-misuse-pathogenic-dna/&quot;&gt;AI misuse: pathogenic DNA&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Here are my notes resulting from a day spent learning about the current status of using A.I. to decode non-human languages.&lt;/p&gt;
+
+&lt;h2 id=&quot;existing-work&quot;&gt;Existing work&lt;/h2&gt;
+&lt;p&gt;Interest in this topic is high and several projects are already underway.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://www.earthspecies.org/&quot;&gt;Earth Species Project&lt;/a&gt; is a species-agnostic open-source collaborative project that aims to decode non-human animal communication.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.projectceti.org/&quot;&gt;Project CETI&lt;/a&gt; aims to translate communication betweeen sperm whales. The roadmap for this includes data collection using robotics, data processing and machine learning to extract meaning from sounds collected.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.elephantvoices.org/&quot;&gt;Elephant voices&lt;/a&gt; and &lt;a href=&quot;https://elephantlisteningproject.org/&quot;&gt;Elephant listening project&lt;/a&gt; collects behavioural and sound data from elephants.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;neural-machine-translation&quot;&gt;Neural machine translation&lt;/h2&gt;
+&lt;p&gt;There is an increasing number of neural networks that are able to translate from one human language to another with high accuracy. These seqence-to-sequence (seq2seq) models have two parts that together do the translation: an encoder extracts meaning from the input language and a decoder outputs this meaning in the target language. A mechanism is also included for teaching the network what words to pay the most attention to. The best results at the moment come from &lt;a href=&quot;https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html&quot;&gt;transformer models&lt;/a&gt;, largely because the attention mechanims work better in transformers than on the earlier models that used recurrent neural networks (RNNs). This is because the transformer models do not take the words sequentially but instead look at them in parallel.&lt;/p&gt;
+
+&lt;p&gt;Training a neural machine translation model is usually supervised and requires a lot of labelled data. The network has to ‘see’ a lot of examples to learn the important features of both languages and the patterns that allow mapping between them.&lt;/p&gt;
+
+&lt;p&gt;Self-supervised and unsupervised machine learning methods are also used. Language models are often pre-trained on a related task that does not require manual labelling (e.g. filling in artificially created gaps) as this helps the model learn the structure of a language before it has to translate it. Human languages can also be translated by mapping their word embedding matrices (where words with similar meanings cluster together) as these tend to have similar shapes.&lt;/p&gt;
+
+&lt;h2 id=&quot;cetacean-communication&quot;&gt;Cetacean communication&lt;/h2&gt;
+&lt;p&gt;Whales and dolphins have complex social behaviours and produce complex sounds that they seem to use for communication. This makes them a good candidate for decoding.&lt;/p&gt;
+
+&lt;p&gt;Humpback whales sing songs that can be heard over large distances (tens of kilometers). Each population of whales has a different song and this song changes over time - sometimes gradually and sometimes suddenly. A change in the song is propagated between individuals and between populations. Their songs have a hierarchical structure with themes and units of sounds.&lt;/p&gt;
+
+&lt;p&gt;Sperm whales produce clicks that form recognisable patterns. They seem to use some of these to identify themselves when they meet other whales. Calves take one to two years to learn these patterns and in the meantime they appear to ‘babbel’ like human infants do before they have acquired a language.&lt;/p&gt;
+
+&lt;h2 id=&quot;challenges-of-translating-non-human-languages-with-ai&quot;&gt;Challenges of translating non-human languages with A.I.&lt;/h2&gt;
+&lt;p&gt;There are several major challenges in working with non-human animal communication.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-data-sets-are-small&quot;&gt;The data sets are small&lt;/h3&gt;
+&lt;p&gt;This is the biggest bottleneck. The latest human language models are trained on billions of words and there is nowhere near this amount of data in from the rest of the animal kingdom.&lt;/p&gt;
+
+&lt;h3 id=&quot;audio-is-harder-for-machines-to-parse&quot;&gt;Audio is harder for machines to parse&lt;/h3&gt;
+&lt;p&gt;Another challenge is that unlike human languages, non-human animal communication does not have a written form and is therefore harder for a machine to parse since there are many more dimensions in feature space (text can be ‘tokenized’ into a sequence of words or letters whereas sounds have a continuous range of frequency and amplitude).&lt;/p&gt;
+
+&lt;h3 id=&quot;non-humans-may-not-rely-primarily-on-sound&quot;&gt;Non-humans may not rely primarily on sound&lt;/h3&gt;
+&lt;p&gt;Humans primarily communicate through spoken, written or sign languages but non-human animals may use other methods of communication that we are either unaware of or do not record. Examples include ear movements, dancing, scents, pheromones and facial expressions.&lt;/p&gt;
+
+&lt;h3 id=&quot;labelling-non-human-animal-communication-requires-behavioural-and-physiological-data&quot;&gt;Labelling non-human animal communication requires behavioural and physiological data&lt;/h3&gt;
+&lt;p&gt;Meaning can be extracted from human languages as we have people who can translate them into other languages. This gives us a labelled data set which makes it possible to train neural networks using supervised learning (the network is given the answer to learn from). This is not the case for animal communication. In order to extract meaning from non-human animal sounds we have to observe and measure their behaviours and link these to their sounds. This means labour intensive work for experts and/or a lot more data collection.&lt;/p&gt;
+
+&lt;h2 id=&quot;available-resources&quot;&gt;Available resources&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hugging Face has an open &lt;a href=&quot;https://huggingface.co/docs/transformers/index&quot;&gt;library of transformer models&lt;/a&gt; and many of these have been pre-trained.&lt;/li&gt;
+  &lt;li&gt;TensorFlow has a &lt;a href=&quot;https://www.tensorflow.org/text/tutorials/transformer&quot;&gt;tutorial on creating transformer models&lt;/a&gt; for language translation.&lt;/li&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://github.com/earthspecies/project&quot;&gt;GitHub pages of Earth Species Project&lt;/a&gt; incudes datasets on whales, dogs, bats, birds and macaques as well as open discussions and tutorials.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;csl-entry&quot;&gt;Andreas, J., Beguš, G., Bronstein, M. M., Diamant, R., Delaney, D., Gero, S., Goldwasser, S., Gruber, D. F., de Haas, S., Malkin, P., Payne, R., Petri, G., Rus, D., Sharma, P., Tchernov, D., Tønnesen, P., Torralba, A., Vogt, D., &amp;#38; Wood, R. J. (2021). &lt;i&gt;Cetacean Translation Initiative: a roadmap to deciphering the communication of sperm whales&lt;/i&gt;. http://arxiv.org/abs/2104.08614&lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;csl-entry&quot;&gt;Artetxe, M., Labaka, G., Agirre, E., &amp;#38; Cho, K. (2017). Unsupervised Neural Machine Translation. &lt;i&gt;6th International Conference on Learning Representations, ICLR 2018 - Conference Track Proceedings&lt;/i&gt;. https://doi.org/10.48550/arxiv.1710.11041&lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;csl-entry&quot;&gt;Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., &amp;#38; Polosukhin, I. (2017). Attention Is All You Need. &lt;i&gt;Advances in Neural Information Processing Systems&lt;/i&gt;, &lt;i&gt;2017-December&lt;/i&gt;, 5999–6009. https://doi.org/10.48550/arxiv.1706.03762&lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Gemma Danks</name></author><category term="notes" /><category term="planning" /><category term="ai" /><category term="decisions" /><category term="language" /><category term="non-human" /><summary type="html">A.I. has become incredibly powerful for translating human languages. Could it be used to glean information from non-human languages? The impact of understanding non-human animal communication would be enormous. We would have the knowledge and the additional motivation to reduce their suffering on a global scale and improve conservation efforts. We would also be better prepared for any extraterrestrial messages that we find.</summary></entry><entry><title type="html">How to choose a research topic</title><link href="https://open-research.gemmadanks.com//pages/gemmadanks/planning/choosing-research-topic/" rel="alternate" type="text/html" title="How to choose a research topic" /><published>2022-09-23T13:10:00+01:00</published><updated>2022-09-23T13:10:00+01:00</updated><id>https://open-research.gemmadanks.com//pages/gemmadanks/planning/choosing-research-topic</id><content type="html" xml:base="https://open-research.gemmadanks.com//pages/gemmadanks/planning/choosing-research-topic/">&lt;p&gt;For most of my academic career, my choice of research topic was driven by curiosity, some sort of “gut feeling”, and a desire to make a difference, discover something new and make a contribution towards human knowledge. In practice though, it was also heavily influenced by chance, availability of jobs and the research interests of my supervisors and collaborators.&lt;/p&gt;
+
+&lt;p&gt;My perspective has changed since spending time in industry and has been reshaped by the work of effective altruism organisations, in particular &lt;a href=&quot;https://80000hours.org&quot;&gt;80,000 hours&lt;/a&gt;, which aims to help people maximise the good they do with their career.&lt;/p&gt;
+
+&lt;p&gt;I have decided to base my criteria for choosing a new research topic on the &lt;a href=&quot;https://80000hours.org/articles/problem-framework/&quot;&gt;framework used by 80,000 hours to compare global problems&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I will be taking two sets of criteria into consideration. The first is focussed on the topic itself: the scale of its impact; how many other people are already working on it; and how feasible it is given the time and resources I have. The second is focussed on personal criteria: my skills and expertise; my lifestyle; and my interests.&lt;/p&gt;
+
+&lt;p&gt;In order to rank my shortlist of topics, I will use a decision matrix. This is a fantastic tool that I recommend using for any big decision where you have to weigh up multiple factors.&lt;/p&gt;
+
+&lt;p&gt;At the end I will share my shortlist and which topic(s) I am going to pursue in the next step of &lt;a href=&quot;https://open-research.gemmadanks.com/planning/my-research-process/&quot;&gt;my research process&lt;/a&gt;. I will also share a spreadsheet you can use to make your own decision matrix.&lt;/p&gt;
+
+&lt;h2 id=&quot;contents-&quot;&gt;Contents &lt;!-- omit in toc --&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#topic-centred-criteria&quot;&gt;Topic-centred criteria&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#prioritise-research-topics-with-high-impact&quot;&gt;Prioritise research topics with high impact&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#find-a-niche&quot;&gt;Find a niche&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#work-on-something-feasible&quot;&gt;Work on something feasible&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#personal-criteria&quot;&gt;Personal criteria&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#make-use-of-your-skills-and-expertise&quot;&gt;Make use of your skills and expertise&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#fit-your-work-to-your-lifestyle&quot;&gt;Fit your work to your lifestyle&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#work-on-something-that-sparks-your-curiosity&quot;&gt;Work on something that sparks your curiosity&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ranking-research-topics&quot;&gt;Ranking research topics&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#how-to-use-a-decision-matrix&quot;&gt;How to use a decision matrix&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#where-to-start&quot;&gt;Where to start&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#get-an-overview-of-your-options&quot;&gt;Get an overview of your options&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#decide-what-criteria-are-important-to-you-and-how-you-will-measure-them&quot;&gt;Decide what criteria are important to you and how you will measure them&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#download-my-decision-matrix-template&quot;&gt;Download my decision matrix template&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#my-shortlist-of-research-topics&quot;&gt;My shortlist of research topics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#my-top-5&quot;&gt;My top 5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;topic-centred-criteria&quot;&gt;Topic-centred criteria&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/choosing-research-topic/impersonal.jpg&quot; alt=&quot;Topic-centred criteria&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;prioritise-research-topics-with-high-impact&quot;&gt;Prioritise research topics with high impact&lt;/h3&gt;
+&lt;p&gt;Having an impact means having an effect or influence on someone or something. The higher the impact the greater this effect or the larger the number affected.&lt;/p&gt;
+
+&lt;p&gt;In data science, the impact (business value) of a project is calculated before it starts and is continuously re-evaluated using a well-defined metric. Companies are pretty ruthless about this. Some exploration is usually acceptable but if a project is not paying for itself, making a profit or drawing in more customers after a pre-determined period of time it will be terminated. This is especially true for machine learning projects where the outcome is often uncertain and the quality of the data is frequently unknown but the potential for future impact is enormous. Having an estimate of its value ahead of time is a requirement.&lt;/p&gt;
+
+&lt;p&gt;Measuring the impact of research can be tricky though. Working on something with immediate practical applications may be easier to evaluate but basic research can have far-reaching and unforeseen impacts in the future with no formula or well-defined metric to compute for how it changes the world.&lt;/p&gt;
+
+&lt;p&gt;In academia, impact is usually measured by the number of citations and where you publish but this does not necessarily reflect the actual value of the work and it is not known in advance.&lt;/p&gt;
+
+&lt;p&gt;It should, however, be possible to get a rough estimate of the value of a research project, by considering the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Who (people/non-human animals/plants/etc.) will be affected?&lt;/li&gt;
+  &lt;li&gt;How many (local populations/global etc.) will be affected?&lt;/li&gt;
+  &lt;li&gt;Over what timescale (the next year or the next thousand years)?&lt;/li&gt;
+  &lt;li&gt;In what way will the impact be felt (reduction of suffering, number of lives saved, quality of life, reduction in CO&lt;sub&gt;2&lt;/sub&gt; emissions etc.)?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;find-a-niche&quot;&gt;Find a niche&lt;/h3&gt;
+&lt;p&gt;Choosing a topic that is not already saturated with other researchers – a topic that is currently neglected – makes it easier to make a significant contribution and less likely that someone else would do the work if you didn’t.&lt;/p&gt;
+
+&lt;p&gt;Working on a topic that not many others are working on will give you a niche and allow you to focus your learning, networking and skill development to become an expert.&lt;/p&gt;
+
+&lt;p&gt;80,000 hours has a lot more on &lt;a href=&quot;https://80000hours.org/career-guide/most-pressing-problems/&quot;&gt;neglectedness&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;work-on-something-feasible&quot;&gt;Work on something feasible&lt;/h3&gt;
+&lt;p&gt;It is tempting to work on a huge problem that no one has solved for decades but think carefully before jumping in. I spent my PhD working on the protein folding problem and it was hugely frustrating at times. With the help of my supervisors, I learnt how to limit the scope to something much more feasible that still made a contribution.&lt;/p&gt;
+
+&lt;p&gt;How feasible a research topic is will depend on how much time and resources you have. Ideally, you want to work on something with an ambitious goal that also gives you milestones along the way that each have a positive impact in their own right.&lt;/p&gt;
+
+&lt;p&gt;To start with, I indend to choose topics where I can make a contribution within a year using only my laptop (plus cloud computing).&lt;/p&gt;
+
+&lt;h2 id=&quot;personal-criteria&quot;&gt;Personal criteria&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/choosing-research-topic/personal.jpg&quot; alt=&quot;Personal criteria&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;make-use-of-your-skills-and-expertise&quot;&gt;Make use of your skills and expertise&lt;/h3&gt;
+&lt;p&gt;Use your skills and existing expertise to narrow down what topic you choose. List all the skills/expertise you have and the ones you can, or want to, master in a reasonable time. Rank these by how competant you are, or expect to be, in each. Then focus your search on topics that make the most of the top three.&lt;/p&gt;
+
+&lt;p&gt;This will mean you make progress quickly and will likely find the work more satisfying on a day-to-day basis.&lt;/p&gt;
+
+&lt;p&gt;My top three skills/expertise are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Machine learning&lt;/li&gt;
+  &lt;li&gt;Programming&lt;/li&gt;
+  &lt;li&gt;Biology&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I will try to find a topic that uses all three of these and I will exclude any topics that use none of them.&lt;/p&gt;
+
+&lt;h3 id=&quot;fit-your-work-to-your-lifestyle&quot;&gt;Fit your work to your lifestyle&lt;/h3&gt;
+&lt;p&gt;For me, lifestyle has become a more important factor as I’ve got older. Earlier in my career I was happy to move around and live in different countries. This was also necessary since staying in one place is actively discouraged in academia. I also didn’t mind travelling to conferences and working in the lab at weekends or (less enjoyable) preparing seminars during the holidays. But this kind of lifestyle can become more difficult, and less desirable, when you have a partner, children (and pets!)&lt;/p&gt;
+
+&lt;p&gt;You may also have hobbies that are important for your well-being and require time or have their own geographical constraints.&lt;/p&gt;
+
+&lt;p&gt;You will be less productive if you are unhappy with how your work fits into other areas of your life, so I recommend taking lifestyle into account. There is a big difference between working on something that can only be done at night in a molecular biology lab and working on something that can be done on a computer at home.&lt;/p&gt;
+
+&lt;p&gt;I will be working on topics that can fit around my consulting work, the school run and the schedule of our new puppy!&lt;/p&gt;
+
+&lt;h3 id=&quot;work-on-something-that-sparks-your-curiosity&quot;&gt;Work on something that sparks your curiosity&lt;/h3&gt;
+&lt;p&gt;Finally, curiosity and wonder are key for maintaining focus and perseverance, both of which are required to succeed in research. Things often don’t work as well as you’d hoped and you will probably find yourself at a deadend on multiple occasions. It is important that you are interested enough in your topic to overcome obstacles, start again, spend time learning something new and push through the more tedious tasks (of which there will be many).&lt;/p&gt;
+
+&lt;p&gt;Interest can also develop from work that you enjoy doing and that gives you purpose, if you don’t already have a burning desire to work on a particular topic.&lt;/p&gt;
+
+&lt;p&gt;I knew from an early age that I wanted to be a scientist. The only trouble I had getting there was choosing between biology and astrophysics. My dream job, I decided, was finding life on other planets and/or figuring out what planets life could live on. This feeling has stayed with me throughout my career but I never found a path to get there. Until now! So I will be including some astrobiology topics in my list of candidates.&lt;/p&gt;
+
+&lt;h2 id=&quot;ranking-research-topics&quot;&gt;Ranking research topics&lt;/h2&gt;
+&lt;p&gt;I am using a weighted decision matrix to prioritise what I work on. A decision matrix is a fantastic tool for ranking different options (rows) according to multiple criteria (columns). It is also a great learning process trying to determine the scores - you find out where the gaps in your knowledge are about a particular option. I used it when my husband and I were trying to decide where to live for the next 10 years. It led us from Norway to the U.K. I wish I had discovered it earlier - it would have saved me making many a list of pros and cons.&lt;/p&gt;
+
+&lt;p&gt;A decision matrix looks like this:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Options&lt;/th&gt;
+      &lt;th&gt;Criterion #1&lt;/th&gt;
+      &lt;th&gt;Criterion #2&lt;/th&gt;
+      &lt;th&gt;Criterion #3&lt;/th&gt;
+      &lt;th&gt;….&lt;/th&gt;
+      &lt;th&gt;Criterion #n&lt;/th&gt;
+      &lt;th&gt;Score&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Weight –&amp;gt;&lt;/td&gt;
+      &lt;td&gt;w&lt;sub&gt;1&lt;/sub&gt;&lt;/td&gt;
+      &lt;td&gt;w&lt;sub&gt;2&lt;/sub&gt;&lt;/td&gt;
+      &lt;td&gt;w&lt;sub&gt;3&lt;/sub&gt;&lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt;w&lt;sub&gt;n&lt;/sub&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Option #1&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Option #2&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Option #3&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Option #m&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;how-to-use-a-decision-matrix&quot;&gt;How to use a decision matrix&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;List all your options in the options column (in any order)&lt;/li&gt;
+  &lt;li&gt;List all your criteria as additional columns (in any order)&lt;/li&gt;
+  &lt;li&gt;Decide on a weight for each criterion, according to how important it is relative to the others
+    &lt;ul&gt;
+      &lt;li&gt;If the criteria are all of equal importance then the weights are all 1&lt;/li&gt;
+      &lt;li&gt;If one criterion is twice as important as the others it will have a weight of 2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For each criterion, go through each option and give it a score. Depending on the criterion, you may have an accurate number or you may need to guestimate. Some of the scores will be highly subjective and dependant on your world view.&lt;/p&gt;
+
+    &lt;p&gt;In any case, to keep the formula for computing the overall score simple, it is important to use the same scale for all criteria (I like using a scale from 0-10) and for higher to always mean better.&lt;/p&gt;
+
+    &lt;p&gt;You can convert any set of scores to any other scale by subtracting the minimum value of the original range of values, dividing by the original range then multiplying by the new range and adding the minimum value of the new range (e.g. 91% would become 9.1 on a scale from 0-10):&lt;/p&gt;
+
+\[x' = {a} + {(x - min(x))(b - a) \over max(x) - min(x)}\]
+  &lt;/li&gt;
+  &lt;li&gt;Compute the final score for each option by multiplying each criterion score by its weight and adding them all together (using the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;SUMPRODUCT&lt;/code&gt; function in a spreadsheet)&lt;/li&gt;
+  &lt;li&gt;Sort all the options by their overall score.&lt;/li&gt;
+  &lt;li&gt;Consider adding some filters if you want to ensure certain criteria are met at a certain threshold&lt;/li&gt;
+  &lt;li&gt;Your best option according to your scoring is now at the top!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;where-to-start&quot;&gt;Where to start&lt;/h3&gt;
+&lt;p&gt;A decision matrix is a great tool for deciding between different options, but first you need to figure out what your options are (and also what criteria are important to you).&lt;/p&gt;
+
+&lt;h4 id=&quot;get-an-overview-of-your-options&quot;&gt;Get an overview of your options&lt;/h4&gt;
+&lt;p&gt;There are several organisations that have published lists of priority areas or open research questions online. These are a good place to start if you want to maximise impact:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://80000hours.org/articles/research-questions-by-discipline/&quot;&gt;80,000 hours list of research project ideas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forum.effectivealtruism.org/posts/MsNpJBzv5YhdfNHc9/a-central-directory-for-open-research-questions&quot;&gt;Effective Altruism Forum directory of open research questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can also get some inspiration by browsing &lt;a href=&quot;https://www.nature.com/nature/research-articles&quot;&gt;Nature&lt;/a&gt;, &lt;a href=&quot;https://www.science.org/toc/science/current&quot;&gt;Science&lt;/a&gt;, &lt;a href=&quot;https://www.cell.com/&quot;&gt;Cell&lt;/a&gt;, or the top journal in your field. These are the articles that editors and reviewers decided were high impact.&lt;/p&gt;
+
+&lt;p&gt;To get an overview of a more unfamiliar field (or to give yourself a refresher), look at the contents pages of some undergraduate textbooks.&lt;/p&gt;
+
+&lt;p&gt;If you have multiple interests, try combining them to give additional ideas.&lt;/p&gt;
+
+&lt;p&gt;Try brainstorming or mind-mapping.&lt;/p&gt;
+
+&lt;p&gt;No idea is a bad idea at this stage – let the decision matrix filter these out for you.&lt;/p&gt;
+
+&lt;h4 id=&quot;decide-what-criteria-are-important-to-you-and-how-you-will-measure-them&quot;&gt;Decide what criteria are important to you and how you will measure them&lt;/h4&gt;
+&lt;p&gt;I broke impact, neglectedness and feasibility down into the following columns:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Impact
+    &lt;ul&gt;
+      &lt;li&gt;Number of people affected (scale 0-10)&lt;/li&gt;
+      &lt;li&gt;Number of non-human animals affected (scale 0-10)&lt;/li&gt;
+      &lt;li&gt;Increase in well-being/health/reduction in suffering (scale 0-10)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Neglectedness
+    &lt;ul&gt;
+      &lt;li&gt;Lack of existing researchers (scale 0-10)&lt;/li&gt;
+      &lt;li&gt;Lack of existing funding (scale 0-10)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Feasibility
+    &lt;ul&gt;
+      &lt;li&gt;Availability of existing resources (scale 0-10)&lt;/li&gt;
+      &lt;li&gt;10 - years to complete work&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For the personal criteria, I used the following:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fit to lifestyle (scale 0-10)&lt;/li&gt;
+  &lt;li&gt;Use of AI skills (scale 0-10) (I gave this a higher weighting than my other skills)&lt;/li&gt;
+  &lt;li&gt;Use of programming skills (scale 0-10)&lt;/li&gt;
+  &lt;li&gt;Use of biology expertise (scale 0-10)&lt;/li&gt;
+  &lt;li&gt;Interest (scale 0-10)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;download-my-decision-matrix-template&quot;&gt;Download my decision matrix template&lt;/h4&gt;
+&lt;p&gt;I have created a template that you can download and fill in with your own data using Excel or Google sheets:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/gemmadanks/gemmadanks.github.io/blob/main/assets/docs/research-topic-decision-matrix-template.xlsx&quot;&gt;Decision matrix template (Excel version)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1WH4RWyx4piWw38eiiRmEjXOeyoMy5lbwzzuMOSip1Zg/edit?usp=sharing&quot;&gt;Decision matrix template (Google sheet)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can see my version below.&lt;/p&gt;
+
+&lt;h2 id=&quot;my-shortlist-of-research-topics&quot;&gt;My shortlist of research topics&lt;/h2&gt;
+&lt;p&gt;The table below is the end result of my decision matrix (here is the &lt;a href=&quot;https://github.com/gemmadanks/gemmadanks.github.io/blob/main/assets/docs/research-topic-decision-matrix.xlsx&quot;&gt;spreadsheet version&lt;/a&gt;).&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Impact&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Neglectedness&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Feasibility&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Personal criteria&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Score&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Topic&lt;/td&gt;
+      &lt;td&gt;People affected (scale 0-10)&lt;/td&gt;
+      &lt;td&gt;Non-human animals affected (scale 0-10)&lt;/td&gt;
+      &lt;td&gt;Increase in well-being/health/reduction in suffering (scale 0-10)&lt;/td&gt;
+      &lt;td&gt;Lack of existing researchers (scale 0-10)&lt;/td&gt;
+      &lt;td&gt;Lack of existing funding (scale 1-10)&lt;/td&gt;
+      &lt;td&gt;Availability of existing resources (scale 0-10)&lt;/td&gt;
+      &lt;td&gt;10 - years to complete work&lt;/td&gt;
+      &lt;td&gt;Fit to lifestyle (scale 0-10)&lt;/td&gt;
+      &lt;td&gt;Use of AI skills (scale 0-10)&lt;/td&gt;
+      &lt;td&gt;Use of programming skills (scale 0-10)&lt;/td&gt;
+      &lt;td&gt;Use of biology expertise (scale 0-10)&lt;/td&gt;
+      &lt;td&gt;Interest (scale 0-10)&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Rank&lt;/td&gt;
+      &lt;td&gt;Weight&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0.5&lt;/td&gt;
+      &lt;td&gt;0.5&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;AI for translating unseen languages&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;139&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;Extraterrestrial technosignatures&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;137.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;Recognising AI sentience&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;136.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;Biosignatures&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;135.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;AI misuse: pathogenic DNA&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;134&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;Encoding human values into AI&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;129&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;Measuring sentience&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;128&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;Monitoring AI values&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;127.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Existential risks of deforestation and ocean pollution&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;126&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;Interstellar travel&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;125&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;Measuring suffering of non-human animals&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;125&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;Habitable planets&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;120.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;AI misuse: adversarial attacks on critical AI systems&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;120.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;Protecting biodiversity in the far future&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;120&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;Evolution and biological mechanisms of stress responses across the tree of life&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;108.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;16&lt;/td&gt;
+      &lt;td&gt;Spatiotemporal landscape of human values&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;101.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;17&lt;/td&gt;
+      &lt;td&gt;Emergent behaviour of human populations and existential risk&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;97.5&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;my-top-5&quot;&gt;My top 5&lt;/h2&gt;
+&lt;p&gt;Since I am somewhat uncertain about my scoring (there was a lot of guessing), my next step is to spend a day learning more about each of my top 5 topics before deciding which of these to make a start on:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/ai-for-decoding-non-human-languages/&quot;&gt;AI for translating unseen languages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/technosignatures/&quot;&gt;Extraterrestrial technosignatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/recognising-ai-sentience/&quot;&gt;Recognising AI sentience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/exoplanet-biosignatures/&quot;&gt;Biosignatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-research.gemmadanks.com/notes/ai-misuse-pathogenic-dna/&quot;&gt;AI misuse: pathogenic DNA&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I am excited about all of these!&lt;/p&gt;
+
+&lt;h3 id=&quot;share-your-thoughts-&quot;&gt;Share your thoughts &lt;!-- omit in toc --&gt;&lt;/h3&gt;
+&lt;p&gt;How do you decide what to work on? Do you have a favourite tool for making decisions? Do you have a better way of estimating impact? Any suggestions for research topics? Let me know in the comments below.&lt;/p&gt;
+
+&lt;script src=&quot;https://polyfill.io/v3/polyfill.min.js?features=es6&quot;&gt;&lt;/script&gt;
+
+&lt;script id=&quot;MathJax-script&quot; async=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&quot;&gt;&lt;/script&gt;</content><author><name>Gemma Danks</name></author><category term="planning" /><category term="planning" /><category term="research" /><category term="tools" /><category term="decisions" /><summary type="html">For most of my academic career, my choice of research topic was driven by curiosity, some sort of “gut feeling”, and a desire to make a difference, discover something new and make a contribution towards human knowledge. In practice though, it was also heavily influenced by chance, availability of jobs and the research interests of my supervisors and collaborators.</summary></entry><entry><title type="html">How to set up a Bluehost subdomain for a GitHub pages site</title><link href="https://open-research.gemmadanks.com//pages/gemmadanks/tutorials/how-to-set-up-a-bluehost-subdomain-for-github-pages/" rel="alternate" type="text/html" title="How to set up a Bluehost subdomain for a GitHub pages site" /><published>2022-09-12T12:27:30+01:00</published><updated>2022-09-12T12:27:30+01:00</updated><id>https://open-research.gemmadanks.com//pages/gemmadanks/tutorials/how-to-set-up-a-bluehost-subdomain-for-github-pages</id><content type="html" xml:base="https://open-research.gemmadanks.com//pages/gemmadanks/tutorials/how-to-set-up-a-bluehost-subdomain-for-github-pages/">&lt;p&gt;I already have a &lt;a href=&quot;https://gemmadanks.com&quot;&gt;personal website&lt;/a&gt; with a page about my &lt;a href=&quot;https://gemmadanks.com/research&quot;&gt;previous research&lt;/a&gt;, so I decided to point my open research &lt;a href=&quot;https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages&quot;&gt;GitHub pages to a subdomain&lt;/a&gt; there rather than use the default GitHub pages url &lt;a href=&quot;https://gemmadanks.github.io&quot;&gt;gemmadanks.github.io&lt;/a&gt;. This also means it will be easier to move my site if I ever need to since I own the subdomain.&lt;/p&gt;
+
+&lt;p&gt;My website is hosted at &lt;a href=&quot;https://www.bluehost.com/&quot;&gt;Bluehost&lt;/a&gt;. A lot of people online recommend Bluehost and seem to like it (a lot of these people also use affiliate links for Bluehost so they make money from this recommendation). I found it to be very slow, especially for new sites, but I haven’t found a better solution yet and it is cheap and fairly straightforward to manage domains there so that is what I am working with for now.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bluehost.com/help/article/subdomains&quot;&gt;Adding a subdomain in the Bluehost portal&lt;/a&gt; was easy but getting it to point to another url was not well documented so I list the steps I took below for future reference and in case others also struggle to figure it out!&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-set-up-a-custom-subdomain-for-a-github-pages-site&quot;&gt;How to set up a custom subdomain for a GitHub pages site&lt;/h2&gt;
+
+&lt;h3 id=&quot;requirements&quot;&gt;Requirements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;A Bluehost account with a primary domain already set up&lt;/li&gt;
+  &lt;li&gt;A GitHub pages site already set up (read how I set mine up &lt;a href=&quot;https://open-research.gemmadanks.com/tutorials/how-to-set-up-github-pages-website/&quot;&gt;here&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;24-48 hours to wait for the subdomain to propagate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;1-create-a-bluehost-subdomain&quot;&gt;1. Create a Bluehost subdomain&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Log in to &lt;a href=&quot;https://www.bluehost.com/&quot;&gt;Bluehost&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Navigate to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Domains&lt;/code&gt; then &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Subdomains&lt;/code&gt; in the menu (to the left in my Bluehost portal page)&lt;/li&gt;
+  &lt;li&gt;Click on the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Add subdomain&lt;/code&gt; button to the top right&lt;/li&gt;
+  &lt;li&gt;Fill in the boxes with the name of your subdomain and select your existing domain in the dropdown menu. This is how mine looked:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/bluehost-subdomain.png&quot; alt=&quot;Creating a subdomain on Bluehost&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Click add subdomain&lt;/li&gt;
+  &lt;li&gt;Wait 24-48 hours for this to propagate&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;2-point-a-bluehost-subdomain-to-your-github-pages-site&quot;&gt;2. Point a Bluehost subdomain to your GitHub pages site&lt;/h3&gt;
+
+&lt;p&gt;This was the poorly documented part. You will need to &lt;a href=&quot;https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages&quot;&gt;add a CNAME record that points your subdomain to your GitHub pages site&lt;/a&gt;. How to &lt;a href=&quot;https://www.bluehost.com/hosting/help/cname&quot;&gt;add a CNAME record in Bluehost&lt;/a&gt; is well documented but what it does not mention is that first you have to remove the A records and TXT records Bluehost already added for your subdomain since it won’t allow you to create a CNAME record with the same name (and you will get the error message &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;There was an issue adding the zone records. New Record was not inserted.&lt;/code&gt;)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Log in to &lt;a href=&quot;https://www.bluehost.com/&quot;&gt;Bluehost&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Navigate to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Domains&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Find your primary domain in the list and click on &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Manage&lt;/code&gt;. This should take you to the DNS manager.&lt;/li&gt;
+  &lt;li&gt;Scroll to the list of A records and find the one associated with your new subdomain (for me this was called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;open-research&lt;/code&gt;: you may need to click &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Show all&lt;/code&gt;). Remove it by clicking on the three dots to the right and selecting &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;remove&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Scroll to the list of TXT records and find the one associated with your new subdomain (for me this was called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;open-research&lt;/code&gt;: you may need to click &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Show all&lt;/code&gt;). Remove it by clicking on the three dots to the right and selecting &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;remove&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Scroll to the list of CNAME records. Click &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Add record&lt;/code&gt; and fill in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Host record&lt;/code&gt; field with your subdomain name and the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Points to&lt;/code&gt; field with your GitHub Pages url. Select the minimum TTL (4 hours) from the drop down menu. Click &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Save&lt;/code&gt;. Mine looked like this:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/bluehost-cname.png&quot; alt=&quot;Creating a CNAME record on Bluehost&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-configure-github-pages-to-use-your-custom-subdomain&quot;&gt;3. Configure GitHub pages to use your custom subdomain&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Navigate to your GitHub pages repo&lt;/li&gt;
+  &lt;li&gt;Select the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Settings&lt;/code&gt; tab&lt;/li&gt;
+  &lt;li&gt;Click on &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Pages&lt;/code&gt; in the menu to the left under &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Code and automation&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Scroll down to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Custom Domain&lt;/code&gt; section and add your custom domain name (mine is now &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;open-research.gemmadanks.com&lt;/code&gt;)&lt;/li&gt;
+  &lt;li&gt;Wait for the DNS check - if this is unsuccessful it could be that you need to wait longer for your subdomain to propagate.&lt;/li&gt;
+  &lt;li&gt;To make your site more secure, make sure the box &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Enforce HTTPS&lt;/code&gt; is checked&lt;/li&gt;
+  &lt;li&gt;Wait for the GitHub action to redeploy your site&lt;/li&gt;
+  &lt;li&gt;Scroll back to the top of the page and check that your site now points to your custom domain (visit the site to verify)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Your GitHub pages site should now be live at your custom subdomain! Make sure you pull the changes that were made by GitHub (adding a CNAME file) to your local machine.&lt;/p&gt;
+
+&lt;h4 id=&quot;troubleshooting&quot;&gt;Troubleshooting&lt;/h4&gt;
+&lt;p&gt;I found the following command helpful when troubleshooting. It will tell you what your subdomain is pointing to and what type of record it is using. You should see the CNAME pointing to GitHub pages listed. Open a Terminal window and paste in the following:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dig your-subdomain +nostats +nocomments +nocmd
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Gemma Danks</name></author><category term="tutorials" /><category term="setup" /><category term="github" /><category term="website" /><category term="bluehost" /><summary type="html">I already have a personal website with a page about my previous research, so I decided to point my open research GitHub pages to a subdomain there rather than use the default GitHub pages url gemmadanks.github.io. This also means it will be easier to move my site if I ever need to since I own the subdomain. My website is hosted at Bluehost. A lot of people online recommend Bluehost and seem to like it (a lot of these people also use affiliate links for Bluehost so they make money from this recommendation). I found it to be very slow, especially for new sites, but I haven’t found a better solution yet and it is cheap and fairly straightforward to manage domains there so that is what I am working with for now. Adding a subdomain in the Bluehost portal was easy but getting it to point to another url was not well documented so I list the steps I took below for future reference and in case others also struggle to figure it out! How to set up a custom subdomain for a GitHub pages site Requirements A Bluehost account with a primary domain already set up A GitHub pages site already set up (read how I set mine up here) 24-48 hours to wait for the subdomain to propagate 1. Create a Bluehost subdomain Log in to Bluehost Navigate to Domains then Subdomains in the menu (to the left in my Bluehost portal page) Click on the Add subdomain button to the top right Fill in the boxes with the name of your subdomain and select your existing domain in the dropdown menu. This is how mine looked: Click add subdomain Wait 24-48 hours for this to propagate 2. Point a Bluehost subdomain to your GitHub pages site This was the poorly documented part. You will need to add a CNAME record that points your subdomain to your GitHub pages site. How to add a CNAME record in Bluehost is well documented but what it does not mention is that first you have to remove the A records and TXT records Bluehost already added for your subdomain since it won’t allow you to create a CNAME record with the same name (and you will get the error message There was an issue adding the zone records. New Record was not inserted.) Log in to Bluehost Navigate to Domains Find your primary domain in the list and click on Manage. This should take you to the DNS manager. Scroll to the list of A records and find the one associated with your new subdomain (for me this was called open-research: you may need to click Show all). Remove it by clicking on the three dots to the right and selecting remove. Scroll to the list of TXT records and find the one associated with your new subdomain (for me this was called open-research: you may need to click Show all). Remove it by clicking on the three dots to the right and selecting remove. Scroll to the list of CNAME records. Click Add record and fill in the Host record field with your subdomain name and the Points to field with your GitHub Pages url. Select the minimum TTL (4 hours) from the drop down menu. Click Save. Mine looked like this: 3. Configure GitHub pages to use your custom subdomain Navigate to your GitHub pages repo Select the Settings tab Click on Pages in the menu to the left under Code and automation Scroll down to the Custom Domain section and add your custom domain name (mine is now open-research.gemmadanks.com) Wait for the DNS check - if this is unsuccessful it could be that you need to wait longer for your subdomain to propagate. To make your site more secure, make sure the box Enforce HTTPS is checked Wait for the GitHub action to redeploy your site Scroll back to the top of the page and check that your site now points to your custom domain (visit the site to verify) Your GitHub pages site should now be live at your custom subdomain! Make sure you pull the changes that were made by GitHub (adding a CNAME file) to your local machine. Troubleshooting I found the following command helpful when troubleshooting. It will tell you what your subdomain is pointing to and what type of record it is using. You should see the CNAME pointing to GitHub pages listed. Open a Terminal window and paste in the following: dig your-subdomain +nostats +nocomments +nocmd</summary></entry><entry><title type="html">The benefits of process mapping and my research process</title><link href="https://open-research.gemmadanks.com//pages/gemmadanks/planning/my-research-process/" rel="alternate" type="text/html" title="The benefits of process mapping and my research process" /><published>2022-09-08T14:25:00+01:00</published><updated>2022-09-08T14:25:00+01:00</updated><id>https://open-research.gemmadanks.com//pages/gemmadanks/planning/my-research-process</id><content type="html" xml:base="https://open-research.gemmadanks.com//pages/gemmadanks/planning/my-research-process/">&lt;p&gt;For several years I worked as a consultant in a large engineering firm, building advanced machine learning models for predictive maintenance of their equipment. During this time I was often asked to formally document (or map) the processes I was following when developing and deploying models.&lt;/p&gt;
+
+&lt;p&gt;A process map is simply &lt;strong&gt;a visual overview (flow chart) of a set of activities&lt;/strong&gt; - in this case, how to go from raw data to a model fit for real-world use.&lt;/p&gt;
+
+&lt;p&gt;Creating these maps was time-consuming to start with but it had enormous benefits in the long run (more on that below) and I found it so valuable in the end that I also took this approach in other projects outside of engineering and I am now using it to map and optimise my research process. I recommend using it for any set of activities that is repeated and where efficiency or clarity is important.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-map-a-process&quot;&gt;How to map a process&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Identify all events, activities, tasks, decision points, inputs, outputs, resources and people involved&lt;/li&gt;
+  &lt;li&gt;Order and connect activities and decision points into a sequence&lt;/li&gt;
+  &lt;li&gt;Group tasks into sub-processes where appropriate&lt;/li&gt;
+  &lt;li&gt;Draw up and annotate a flow chart (or several if sub-processess are involved) - use standardised symbols for ease of sharing with others (I am using the &lt;a href=&quot;https://www.bpmnquickguide.com/view-bpmn-quick-guide/&quot;&gt;Business Process Model and Notation (BPMN)&lt;/a&gt;):
+    &lt;ul&gt;
+      &lt;li&gt;Circles = events&lt;/li&gt;
+      &lt;li&gt;Rectangles = activity (dashed outline if this is a subprocess)&lt;/li&gt;
+      &lt;li&gt;Diamonds = decision points&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Identify any gaps or unclear tasks and fill these in&lt;/li&gt;
+  &lt;li&gt;Share with stakeholders and respond to feedback&lt;/li&gt;
+  &lt;li&gt;Regularly review, improve and update the process&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;benefits-of-process-mapping&quot;&gt;Benefits of process mapping&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Complex processes can be communicated to stakeholders in a format that is easy to understand (e.g. how do you go from raw data to a model that alerts engineers of a problem) - this was critical in my engineering projects&lt;/li&gt;
+  &lt;li&gt;Important decision points are documented and easily referenced (e.g. is this model good enough to deploy?)&lt;/li&gt;
+  &lt;li&gt;A process map provides a framework for discussion with domain experts (e.g. what model outputs are the most useful for an engineer)&lt;/li&gt;
+  &lt;li&gt;New team members can be onboarded quickly (the map puts the project as well as the source code in context)&lt;/li&gt;
+  &lt;li&gt;It is easier to spot bottlenecks, activities that don’t add value and areas with room for improvement or simplification (e.g. this step takes time because it requires detailed validation by a domain expert)&lt;/li&gt;
+  &lt;li&gt;The order of activities is standardised, which improves efficiency (e.g. do not optimise the model architecture until you have agreed on the outputs with the engineers)&lt;/li&gt;
+  &lt;li&gt;All team members gain a clear understanding of the entire process even if they are only working on one task&lt;/li&gt;
+  &lt;li&gt;Rabbit holes and time spent on unnecessary incremental improvements are avoided (e.g. if the error is below this threshold it is good enough to deploy now, since this provides more value than waiting for a better model) - this was the biggest difference in mindset I experienced working in industry vs. academia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;my-research-process&quot;&gt;My research process&lt;/h2&gt;
+
+&lt;p&gt;Here is the result of a morning spent mapping my research process - a flow diagram that starts with the event ‘field of research chosen’ and ends with the event ‘publication accepted’ and iterates for endless opportunites for discovery!&lt;/p&gt;
+
+&lt;p&gt;I have coloured the arrows to show the shortest path (green), the paths involving additional learning or growth (blue) and the paths that lead to delays and should be avoided if possible (red).&lt;/p&gt;
+
+&lt;p&gt;Over time, I will return to this diagram and revise it. I will also create maps for the sub-processes (activities with dashed outlines) as I go along.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/process-research.jpg&quot; alt=&quot;My research process&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is essentially the process I settled into when I was a senior postdoc, managing my own projects. It is based on my own experience in molecular biology and bioinformatics. Overall, it is a fairly standard way of conducting academic research but my process has evolved somewhat over the course of my career leading to two main tweaks compared to how I started.&lt;/p&gt;
+
+&lt;h3 id=&quot;hypothesis-driven-research-only&quot;&gt;Hypothesis-driven research only&lt;/h3&gt;
+
+&lt;p&gt;At the beginning of my research career (PhD and first postdoc) I did a lot of exploratory research and only later focussed on formulating and testing specific hypotheses (which emerged from the exploratory work). I much prefer the hypothesis-driven appproach - diving into data looking for patterns quickly becomes (for me at least) overwhelming and frustrating without a specific question to answer and it can lead to a lot of wasted effort.&lt;/p&gt;
+
+&lt;p&gt;From now on, I will only move forward if I have a specific question in mind.&lt;/p&gt;
+
+&lt;h3 id=&quot;start-at-the-end&quot;&gt;Start at the end&lt;/h3&gt;
+&lt;p&gt;The biggest shift in how I worked happened during my second postdoc when I also had my second child. Juggling a baby, a toddler and my research meant I needed to be much more efficient. I decided to eliminate all activities that would not lead to the end goal, which in academia is always publications - as many as possible in journals with as high an impact as possible. This is how researchers are judged - ‘publish or perish’ is the reality.&lt;/p&gt;
+
+&lt;p&gt;So I started at the end goal - outlining the paper. I already had a hypothesis I wanted to test so I started with what results (figures and statistics) would allow me (and the scientific community) to accept or reject my hypothesis. Then I worked backwards:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;What data would I need to obtain these results?&lt;/li&gt;
+  &lt;li&gt;What experiments would give me this data?&lt;/li&gt;
+  &lt;li&gt;What resources (people, time, skills, equipment, reagents) would I need for these experiments?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I then sketched the figures and wrote an outline for the methods and results sections. I listed the important background topics in the introduction.&lt;/p&gt;
+
+&lt;p&gt;The gaps in this paper outline, and only the gaps, formed the tasks for me to complete. This included literature reviews and designing and conducting experiments and analyses (both wet and dry lab).&lt;/p&gt;
+
+&lt;p&gt;This saved a lot of time and made my work much more efficient and focussed. It turned out that the final step - getting the paper published - was the main bottleneck, which is not uncommon in the research process! You can see the final result (open access) &lt;a href=&quot;https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6277-x&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For my open research I will use the same paper-driven approach since I do think a paper is a good tool for focussing my efforts as well as providing a good summary of the research (with the benefit of hindsight), giving others the shortest path to my results. The main difference will be that I also publish my output at each step along the way towards publication.&lt;/p&gt;
+
+&lt;h2 id=&quot;share-your-thoughts&quot;&gt;Share your thoughts&lt;/h2&gt;
+&lt;p&gt;Do you have any thoughts on mapping processes or the research process? Let me know in the comments below!&lt;/p&gt;</content><author><name>Gemma Danks</name></author><category term="planning" /><category term="about" /><category term="process" /><category term="planning" /><summary type="html">For several years I worked as a consultant in a large engineering firm, building advanced machine learning models for predictive maintenance of their equipment. During this time I was often asked to formally document (or map) the processes I was following when developing and deploying models. A process map is simply a visual overview (flow chart) of a set of activities - in this case, how to go from raw data to a model fit for real-world use. Creating these maps was time-consuming to start with but it had enormous benefits in the long run (more on that below) and I found it so valuable in the end that I also took this approach in other projects outside of engineering and I am now using it to map and optimise my research process. I recommend using it for any set of activities that is repeated and where efficiency or clarity is important. How to map a process Identify all events, activities, tasks, decision points, inputs, outputs, resources and people involved Order and connect activities and decision points into a sequence Group tasks into sub-processes where appropriate Draw up and annotate a flow chart (or several if sub-processess are involved) - use standardised symbols for ease of sharing with others (I am using the Business Process Model and Notation (BPMN)): Circles = events Rectangles = activity (dashed outline if this is a subprocess) Diamonds = decision points Identify any gaps or unclear tasks and fill these in Share with stakeholders and respond to feedback Regularly review, improve and update the process Benefits of process mapping Complex processes can be communicated to stakeholders in a format that is easy to understand (e.g. how do you go from raw data to a model that alerts engineers of a problem) - this was critical in my engineering projects Important decision points are documented and easily referenced (e.g. is this model good enough to deploy?) A process map provides a framework for discussion with domain experts (e.g. what model outputs are the most useful for an engineer) New team members can be onboarded quickly (the map puts the project as well as the source code in context) It is easier to spot bottlenecks, activities that don’t add value and areas with room for improvement or simplification (e.g. this step takes time because it requires detailed validation by a domain expert) The order of activities is standardised, which improves efficiency (e.g. do not optimise the model architecture until you have agreed on the outputs with the engineers) All team members gain a clear understanding of the entire process even if they are only working on one task Rabbit holes and time spent on unnecessary incremental improvements are avoided (e.g. if the error is below this threshold it is good enough to deploy now, since this provides more value than waiting for a better model) - this was the biggest difference in mindset I experienced working in industry vs. academia My research process Here is the result of a morning spent mapping my research process - a flow diagram that starts with the event ‘field of research chosen’ and ends with the event ‘publication accepted’ and iterates for endless opportunites for discovery! I have coloured the arrows to show the shortest path (green), the paths involving additional learning or growth (blue) and the paths that lead to delays and should be avoided if possible (red). Over time, I will return to this diagram and revise it. I will also create maps for the sub-processes (activities with dashed outlines) as I go along. This is essentially the process I settled into when I was a senior postdoc, managing my own projects. It is based on my own experience in molecular biology and bioinformatics. Overall, it is a fairly standard way of conducting academic research but my process has evolved somewhat over the course of my career leading to two main tweaks compared to how I started. Hypothesis-driven research only At the beginning of my research career (PhD and first postdoc) I did a lot of exploratory research and only later focussed on formulating and testing specific hypotheses (which emerged from the exploratory work). I much prefer the hypothesis-driven appproach - diving into data looking for patterns quickly becomes (for me at least) overwhelming and frustrating without a specific question to answer and it can lead to a lot of wasted effort. From now on, I will only move forward if I have a specific question in mind. Start at the end The biggest shift in how I worked happened during my second postdoc when I also had my second child. Juggling a baby, a toddler and my research meant I needed to be much more efficient. I decided to eliminate all activities that would not lead to the end goal, which in academia is always publications - as many as possible in journals with as high an impact as possible. This is how researchers are judged - ‘publish or perish’ is the reality. So I started at the end goal - outlining the paper. I already had a hypothesis I wanted to test so I started with what results (figures and statistics) would allow me (and the scientific community) to accept or reject my hypothesis. Then I worked backwards: What data would I need to obtain these results? What experiments would give me this data? What resources (people, time, skills, equipment, reagents) would I need for these experiments? I then sketched the figures and wrote an outline for the methods and results sections. I listed the important background topics in the introduction. The gaps in this paper outline, and only the gaps, formed the tasks for me to complete. This included literature reviews and designing and conducting experiments and analyses (both wet and dry lab). This saved a lot of time and made my work much more efficient and focussed. It turned out that the final step - getting the paper published - was the main bottleneck, which is not uncommon in the research process! You can see the final result (open access) here. For my open research I will use the same paper-driven approach since I do think a paper is a good tool for focussing my efforts as well as providing a good summary of the research (with the benefit of hindsight), giving others the shortest path to my results. The main difference will be that I also publish my output at each step along the way towards publication. Share your thoughts Do you have any thoughts on mapping processes or the research process? Let me know in the comments below!</summary></entry></feed>
