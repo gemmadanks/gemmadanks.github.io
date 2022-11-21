@@ -36,7 +36,6 @@ timezone: 	Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_tim
 breadcrumbs: true
 include:
   - _pages
-  - _layouts
   - CNAME
 
 # Exclude from processing.
