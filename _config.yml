@@ -58,6 +58,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-scholar
 
 author:
   name   : "Gemma Danks"
@@ -127,3 +128,8 @@ comments:
   provider: "disqus"
   disqus:
     shortname: "gemmadanks-github-io"
+
+scholar:
+  style: current-opinion
+  #bibliography_list_tag: 'div'
+  #bibliography_item_tag: 'p'
