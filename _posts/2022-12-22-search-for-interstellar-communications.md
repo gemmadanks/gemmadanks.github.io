@@ -11,9 +11,11 @@ tags:
   - summary
   - seti
 ---
-Reviewing the literature is an important part of the [research process][my-research-process]. It gives you a deeper knowledge of the field and prevents you reinventing the wheel. As part of my open research project (currently [focussed on exoplanet technosignatures][why-technosignatures]) I am documenting my review of the literature by writing summaries of important concepts and interesting papers I come across.
+Reviewing the literature is an important part of the [research process][my-research-process]. It gives you a deeper knowledge of the field and prevents you re-inventing the wheel. As part of my open research project (currently [focussed on exoplanet technosignatures][why-technosignatures]) I am documenting my review of the literature by writing summaries of important concepts and interesting papers I come across.
  
 One of the first papers on the search for exoplanet technosignatures was published in [Nature][nature] in 1959 by Cocconi and Morrison {% cite Cocconi1959 %}. The authors assume that there is another intelligence somewhere in our stellar neighbourhood that has observed the Sun, inferred that intelligent life might exist in its system and has sent a message to us. The paper examines how we should look for this message. This began humanity's search for extraterrestrial intelligence (SETI). Here are my notes from reading this paper. 
+
+I also created a [Jupyter notebook][jupyter-cocconi-morrison] to reproduce their results to help me understand the paper and explore some questions I had. 
 
 # How would another civilisation contact us?
 Cocconi and Morrison review different possible channels of communication across interstellar distances and propose radio waves as the most likely method another civilisation would use to send us a message.
@@ -57,7 +59,7 @@ The final few sentences of the paper nicely summarise the importance of searchin
 
 [hertz]: https://en.wikipedia.org/wiki/Heinrich_Hertz
 [hydrogen-line]: https://en.wikipedia.org/wiki/Hydrogen_line
-[jupyter-cocconi-morrison]: https://github.com/gemmadanks/technosignatures/radio-seti/interstellar-communications/interstellar-communications.ipynb
+[jupyter-cocconi-morrison]: https://github.com/gemmadanks/technosignatures/blob/main/radio-seti/interstellar-communications/interstellar-communications.ipynb
 [marconi]: https://en.wikipedia.org/wiki/Guglielmo_Marconi
 [my-research-process]: https://open-research.gemmadanks.com/planning/my-research-process/
 [nature]: https://www.nature.com/
