@@ -12,9 +12,10 @@ tags:
   - summary
   - seti
 ---
-Reviewing the literature is an important part of the [research process][my-research-process]. It gives you a deeper knowledge of the field and prevents you reinventing the wheel. As part of my open research project (currently [focussed on exoplanet technosignatures][why-technosignatures]) I am documenting my review of the literature by writing summaries of important concepts and interesting papers I come across.
 
 A recent paper in [Nature][nature] {% cite kalteneggerPresentFutureStars2021a %} caught my attention because it reversed my perspective on the topic. Rather than focussing on whether we can see life elsewhere, it asks whether life elsewhere can see us. Here are my notes from reading this paper. 
+
+I am tracking all of the papers I've read and want to read on this topic in this [roundup of the technosignatures literature][technosignatures-literature].
 
 # How do we find exoplanets?
 Our search for exoplanets has largely relied on detection via the [transit method][transit-method]. This is where we measure a dip in the brightness of a star over time due to a planet passing in front of it. The resulting light curve can tell us the size of the planet and its orbit. This is how astronomers found thousands of exoplanets with NASA's [Kepler Space Telescope][kepler] and how they are discovering thousands more with the [Transiting Exoplanet Survey Satellite][tess]. 
@@ -61,6 +62,7 @@ This paper answers an important question in the search for intelligent life else
 [nature]: https://www.nature.com/
 [suppl]: https://github.com/jfaherty17/ETZ
 [technosignatures]: https://open-research.gemmadanks.com/notes/technosignatures/
+[technosignatures-literature]: https://open-research.gemmadanks.com/literature/technosignatures-literature-roundup/
 [tess]: https://tess.mit.edu/
 [transit-method]: https://exoplanets.nasa.gov/faq/31/whats-a-transit/
 [why-technosignatures]: https://open-research.gemmadanks.com/planning/my-next-research-topic-technosignatures/

@@ -11,16 +11,12 @@ tags:
   - summary
   - seti
 ---
-Reviewing the literature is an important part of the [research process][my-research-process]. It gives you a deeper knowledge of the field and prevents you re-inventing the wheel. As part of my open research project (currently [focussed on exoplanet technosignatures][why-technosignatures]) I am documenting my review of the literature by writing summaries of important concepts and interesting papers I come across.
-
-## Early SETI papers
-It is a good idea to read some historical papers when getting to know a new field. Early papers put more recent studies into context and ensure that you are not relying on citations that may or may not accurately represent previous research. There are always key references that are cited over and over again. It is also interesting to see how attitudes to different ideas change over time.
-
-While working my way through the talks available online from a [technosignature seminar series][technosignatures-seminars] hosted by the [Sellers Exoplanet Environments Collaboration (SEEC)][seec] at [NASA’s Goddard Space Flight Center][gsfc]. A talk by [Jason Wright][jason-wright] from [Pennsylvania State University][penn-state] gives a nice overview of SETI research and points towards the [Penn State graduate course in SETI][penn-seti-course] for further resources. There is a very nice [list of core SETI papers][penn-seti-papers] and some perspectives on these by previous students. I am planning to read as many of these as possible.
 
 I recently read one of the first papers on the search for exoplanet technosignatures published in [Nature][nature] in 1959 by Cocconi and Morrison {% cite Cocconi1959 %}. You can see [my notes from reading this paper][cocconi-morrison] and an accompanying [Jupyter notebook][jupyter-cocconi-morrison] I created to understand the maths within it. 
 
 Next on my list of historical papers is another Nature paper by Bracewell published in 1960 {% cite  bracewellCommunicationsSuperiorGalactic1960  %}. This paper gives a different perspective on the search for communications from an extraterrestrial civilisation. Bracewell challenges the strategy proposed by Cocconi and Morrison {% cite Cocconi1959 %} of searching nearby stars for radio signals, with the view that if there were another civilisation that close to us then advanced societies would have to be extremely abundant, which is unlikely. Instead, Bracewell proposes that we should be looking for radio signals from probes sent by an advanced society to thousands of their nearest stars (including the Sun). Here are my notes from reading this paper. 
+
+I am tracking all of the papers I've read and want to read on this topic in this [roundup of the technosignatures literature][technosignatures-literature].
 
 ## Alien artifacts in our solar system
 Bracewell proposes that societies advanced enough to find us are likely already in communication with one another and will work together to find additional civilisations, such as ours. The nearest society to us in this galactic network is therefore going to be the one to send a probe to our solar system. 
@@ -60,6 +56,7 @@ This paper was the first to propose the existence of autonomous alien probes lur
 [penn-state]: https://www.psu.edu/
 [seec]: https://seec.gsfc.nasa.gov/about.html
 [technosignatures]: https://open-research.gemmadanks.com/notes/technosignatures/
+[technosignatures-literature]: https://open-research.gemmadanks.com/literature/technosignatures-literature-roundup/
 [technosignatures-seminars]: https://seec.gsfc.nasa.gov/Events/technosignatureSeminars.html
 [why-technosignatures]: https://open-research.gemmadanks.com/planning/my-next-research-topic-technosignatures/
 

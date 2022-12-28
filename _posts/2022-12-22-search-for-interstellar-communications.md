@@ -11,11 +11,11 @@ tags:
   - summary
   - seti
 ---
-Reviewing the literature is an important part of the [research process][my-research-process]. It gives you a deeper knowledge of the field and prevents you re-inventing the wheel. As part of my open research project (currently [focussed on exoplanet technosignatures][why-technosignatures]) I am documenting my review of the literature by writing summaries of important concepts and interesting papers I come across.
- 
 One of the first papers on the search for exoplanet technosignatures was published in [Nature][nature] in 1959 by Cocconi and Morrison {% cite Cocconi1959 %}. The authors assume that there is another intelligence somewhere in our stellar neighbourhood that has observed the Sun, inferred that intelligent life might exist in its system and has sent a message to us. The paper examines how we should look for this message. This began humanity's search for extraterrestrial intelligence (SETI). Here are my notes from reading this paper. 
 
 I also created a [Jupyter notebook][jupyter-cocconi-morrison] to reproduce their results to help me understand the paper and explore some questions I had. 
+
+I am tracking all of the papers I've read and want to read on this topic in this [roundup of the technosignatures literature][technosignatures-literature].
 
 # How would another civilisation contact us?
 Cocconi and Morrison review different possible channels of communication across interstellar distances and propose radio waves as the most likely method another civilisation would use to send us a message.
@@ -64,6 +64,7 @@ The final few sentences of the paper nicely summarise the importance of searchin
 [my-research-process]: https://open-research.gemmadanks.com/planning/my-research-process/
 [nature]: https://www.nature.com/
 [technosignatures]: https://open-research.gemmadanks.com/notes/technosignatures/
+[technosignatures-literature]: https://open-research.gemmadanks.com/literature/technosignatures-literature-roundup/
 [why-technosignatures]: https://open-research.gemmadanks.com/planning/my-next-research-topic-technosignatures/
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
