@@ -2,7 +2,7 @@
 title: "What exoplanets can see technosignatures from Earth?"
 date: 2022-12-03 T16:19:00
 categories:
-  - research
+  - literature
 tags:
   - research
   - astrobiology

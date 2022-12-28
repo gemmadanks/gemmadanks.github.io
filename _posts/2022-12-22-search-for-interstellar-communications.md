@@ -2,7 +2,7 @@
 title: "The search for interstellar communications"
 date: 2022-12-22 T20:11:00
 categories:
-  - research
+  - literature
 tags:
   - research
   - astrobiology

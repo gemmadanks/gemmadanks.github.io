@@ -2,7 +2,7 @@
 title: "Communications from superior galactic communities"
 date: 2022-12-27 T14:25:00
 categories:
-  - research
+  - literature
 tags:
   - research
   - astrobiology
@@ -49,7 +49,7 @@ This paper was the first to propose the existence of autonomous alien probes lur
 {% bibliography --cited %}
 
 [bracewell]: https://www.nature.com/articles/186670a0
-[cocconi-morrison]: https://open-research.gemmadanks.com/research/search-for-interstellar-communications/
+[cocconi-morrison]: https://open-research.gemmadanks.com/literature/search-for-interstellar-communications/
 [gsfc]: https://www.nasa.gov/goddard
 [jason-wright]: https://sites.psu.edu/astrowright/jason-t-wright-assistant-professor-of-astronomy-and-astrophysics/
 [jupyter-cocconi-morrison]: https://github.com/gemmadanks/technosignatures/blob/main/radio-seti/interstellar-communications/interstellar-communications.ipynb
