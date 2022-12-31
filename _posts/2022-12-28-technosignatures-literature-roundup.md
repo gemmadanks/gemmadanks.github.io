@@ -34,6 +34,9 @@ For each paper I've read I include links to the publication followed by links to
   - [Project Ozma][drake-1961-notes]
 - Dyson FJ: [Search for Artificial Stellar Sources of Infrared Radiation.][dyson-1960-paper] Science 1960, 131:1667–1668.
   - [Dyson spheres][dyson-1960-notes]
+- Schwartz RN, Townes CH: [Interstellar and Interplanetary Communication by Optical Masers.][schwartz-townes-1961-paper] Nature 1961, 190:205–208.
+  - [Interstellar communications by optical masers][schwartz-townes-1961-notes]
+
 
 # Technosignature papers to-read
 
@@ -85,6 +88,10 @@ For each paper I've read I include links to the publication followed by links to
 [penn-seti-course]: https://sites.psu.edu/seticourse/ 
 [penn-seti-papers]: https://sites.psu.edu/seticourse/the-papers/
 [seec]: https://seec.gsfc.nasa.gov/about.html
+
+[schwartz-townes-1961-paper]: https://www.nature.com/articles/190205a0
+[schwartz-townes-1961-notes]: https://open-research.gemmadanks.com/literature/origins-of-optical-seti/
+
 
 [technosearch]: https://technosearch.seti.org/
 
