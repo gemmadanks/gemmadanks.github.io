@@ -36,11 +36,11 @@ For each paper I've read I include links to the publication followed by links to
   - [Dyson spheres][dyson-1960-notes]
 - Schwartz RN, Townes CH: [Interstellar and Interplanetary Communication by Optical Masers.][schwartz-townes-1961-paper] Nature 1961, 190:205–208.
   - [Interstellar communications by optical masers][schwartz-townes-1961-notes]
+-	Kardashev NS: [Transmission of Information by Extraterrestrial Civilizations.][kardashev-1964-paper] Soviet Astronomy 1964, 8:217.
+  - [Kardashev classification scheme for extraterrestrial civilisations][kardashev-1964-notes] 
 
 
 # Technosignature papers to-read
-
-1. 	Kardashev NS: Transmission of Information by Extraterrestrial Civilizations. Soviet Astronomy 1964, 8:217.
 2. 	Drake FD: THE RADIO SEARCH FOR INTELLIGENT EXTRATERRESTRIAL LIFE. In Current Aspects of Exobiology. . Elsevier; 1965:323–345.
 3. 	Dixon RS: A search strategy for finding extraterrestrial radio beacons. Icarus 1973, 20:187–199.
 4. 	The Staff at the National Astronomy: The Arecibo message of November, 1974. Icarus 1975, 26:462–466.
@@ -79,8 +79,11 @@ For each paper I've read I include links to the publication followed by links to
 [gsfc]: https://www.nasa.gov/goddard
 [jason-wright]: https://sites.psu.edu/astrowright/jason-t-wright-assistant-professor-of-astronomy-and-astrophysics/
 
-[kaltenegger-2021-notes]: https://open-research.gemmadanks.com/research/what-exoplanets-can-see-earth/
+[kaltenegger-2021-notes]: https://open-research.gemmadanks.com/literature/what-exoplanets-can-see-earth/
 [kaltenegger-2021-paper]: https://www.nature.com/articles/s41586-021-03596-y
+
+[kardashev-1964-paper]: https://adsabs.harvard.edu/full/1964SvA.....8..217K
+[kardashev-1964-notes]: https://open-research.gemmadanks.com/literature/kardashev-civilisations/
 
 [my-research-process]: https://open-research.gemmadanks.com/planning/my-research-process/
 [nature]: https://www.nature.com/
