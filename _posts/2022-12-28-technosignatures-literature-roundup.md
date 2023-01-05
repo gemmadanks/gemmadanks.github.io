@@ -38,10 +38,10 @@ For each paper I've read I include links to the publication followed by links to
   - [Interstellar communications by optical masers][schwartz-townes-1961-notes]
 -	Kardashev NS: [Transmission of Information by Extraterrestrial Civilizations.][kardashev-1964-paper] Soviet Astronomy 1964, 8:217.
   - [Kardashev classification scheme for extraterrestrial civilisations][kardashev-1964-notes] 
-
+- Drake FD: [THE RADIO SEARCH FOR INTELLIGENT EXTRATERRESTRIAL LIFE.][drake-1965-paper] In Current Aspects of Exobiology. . Elsevier; 1965:323–345.
+  - [The Drake Equation][drake-1965-notes]
 
 # Technosignature papers to-read
-2. 	Drake FD: THE RADIO SEARCH FOR INTELLIGENT EXTRATERRESTRIAL LIFE. In Current Aspects of Exobiology. . Elsevier; 1965:323–345.
 3. 	Dixon RS: A search strategy for finding extraterrestrial radio beacons. Icarus 1973, 20:187–199.
 4. 	The Staff at the National Astronomy: The Arecibo message of November, 1974. Icarus 1975, 26:462–466.
 5. 	Oliver B M: Rationale for the water hole. Acta Astronautica 1979, 6:71–79.
@@ -72,6 +72,9 @@ For each paper I've read I include links to the publication followed by links to
 
 [drake-1961-paper]: https://physicstoday.scitation.org/doi/10.1063/1.3057500
 [drake-1961-notes]: https://open-research.gemmadanks.com/literature/project-ozma/
+
+[drake-1965-paper]: https://www.elsevier.com/books/current-aspects-of-exobiology/mamikunian/978-1-4832-0047-7
+[drake-1965-notes]: https://open-research.gemmadanks.com/literature/drake-equation/
 
 [dyson-1960-paper]: https://www.science.org/doi/10.1126/science.131.3414.1667
 [dyson-1960-notes]: https://open-research.gemmadanks.com/literature/dyson-spheres/
