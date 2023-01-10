@@ -1,6 +1,6 @@
 ---
 title: "Technosignatures literature roundup"
-date: 2022-01-10 T10:55:00
+date: 2023-01-10 T10:55:00
 categories:
   - literature
 tags:
