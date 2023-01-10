@@ -1,6 +1,6 @@
 ---
 title: "Technosignatures literature roundup"
-date: 2022-12-28 T11:58:00
+date: 2022-01-10 T10:55:00
 categories:
   - literature
 tags:
@@ -40,6 +40,8 @@ For each paper I've read I include links to the publication followed by links to
   - [Kardashev classification scheme for extraterrestrial civilisations][kardashev-1964-notes] 
 - Drake FD: [THE RADIO SEARCH FOR INTELLIGENT EXTRATERRESTRIAL LIFE.][drake-1965-paper] In Current Aspects of Exobiology. . Elsevier; 1965:323–345.
   - [The Drake Equation][drake-1965-notes]
+- Hoerner SV: [The Search for Signals from Other Civilizations.][hoerner-1961-paper] Science, New Series 1961, 134:1839–1843.
+  - [Waiting times and longevity][hoerner-1961-notes]
 
 # Technosignature papers to-read
 3. 	Dixon RS: A search strategy for finding extraterrestrial radio beacons. Icarus 1973, 20:187–199.
@@ -80,6 +82,10 @@ For each paper I've read I include links to the publication followed by links to
 [dyson-1960-notes]: https://open-research.gemmadanks.com/literature/dyson-spheres/
 
 [gsfc]: https://www.nasa.gov/goddard
+
+[hoerner-1961-paper]: http://www.jstor.org/stable/1707703
+[hoerner-1961-notes]: https://open-research.gemmadanks.com/literature/waiting-times-and-longevity/
+
 [jason-wright]: https://sites.psu.edu/astrowright/jason-t-wright-assistant-professor-of-astronomy-and-astrophysics/
 
 [kaltenegger-2021-notes]: https://open-research.gemmadanks.com/literature/what-exoplanets-can-see-earth/
