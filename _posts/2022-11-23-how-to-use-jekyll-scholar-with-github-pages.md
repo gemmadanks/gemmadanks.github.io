@@ -85,7 +85,7 @@ Now I can get on with my literature review and make notes with citations as I go
 [github-actions]: https://docs.github.com/en/actions
 [github-actions-github-pages]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow
 [github-pages]: https://pages.github.com/
-[github-pages-dependencies]: https://pages.github.com/versions/https://pages.github.com/versions/
+[github-pages-dependencies]: https://pages.github.com/versions
 [github-pages-gems]: https://rubygems.org/gems/github-pages/versions/227
 [github-workflow]: https://github.com/gemmadanks/gemmadanks.github.io/blob/main/.github/workflows/jekyll.yml
 [html-list-style]: https://developer.mozilla.org/en-US/docs/Web/CSS/list-style
