@@ -23,7 +23,9 @@ The conclusions of the Cyclops study, together with introductory material on the
 
 While the authors of the report declared the study as "extremely preliminary" and "a rough set of estimates", it became known as "The Bible of SETI" and influenced SETI research for decades, in particular by reaffirming that radio wavelengths should be prioritised.
 
-Since this report is so long, I am summarising it in several posts as I go along. Here are my notes from reading the first part of the original report, which contains introductory material on the origin, evolution and survival of life in the universe, reasons for searching for and methods of contact with extraterrestrial intelligence. The rest of the report presents details of the Cyclops system.
+Since this report is so long, I have split my notes into two posts. Here are my notes from reading the first part of the original report, which contains introductory material on the origin, evolution and survival of life in the universe, reasons for searching for and methods of contact with extraterrestrial intelligence. The second part of the report presents details of the Cyclops system and you can read my notes on this here:
+
+[Project Cyclops - Part II][project-cyclops-1972-notes-ii]
 
 You can find my notes on other classic SETI papers in my [roundup of the technosignatures literature][technosignatures-literature].
 
@@ -100,7 +102,7 @@ The report reduced this number to a range of 1 day to 4 months with reference to
 **Project Cyclops was intended to show that humanity has the technological capability to join an interstellar network of communication.**
 
 ## Reasons for the search
-Chapter 3 of the Cyclops report lays out the rationale for searching for extraterrestrial intelligence. It proposes that it is worth doing in parallel to solving the world's ecological problems (we have made shockingly little progress on this in the half century since this report was written) and that the two are related since the longevity of a civilisation depends on it not destroying itself and so it may help us to discover whether or not others have succeeded. 
+Chapter 3 of the Cyclops report lays out the rationale for searching for extraterrestrial intelligence. The authors proposed that it is worth doing in parallel to solving the world's ecological problems (we have made shockingly little progress on this in the half century since this report was written) and that the two are related since the longevity of a civilisation depends on it not destroying itself and so it may help us to discover whether or not others have succeeded. 
 
 The report lists some of the many open questions that might only be answered by discovering life elsewhere in the universe. These include:
 
@@ -116,8 +118,7 @@ The chapter also summarises a few ideas for how contact with another civilisatio
 - Invasion is unlikely since interstellar travel is so expensive
 - Subversion can be avoided with appropriate caution
 - Cultural shock is possible:
-  > "historically contact between two terrestrial cultures has usually, if not always, resulted in the domination of the weaker by the stronger")
-  
+  > "historically contact between two terrestrial cultures has usually, if not always, resulted in the domination of the weaker by the stronger"
   but the authors argued that this is unlikely to happen via radio only, which will take so long that we will have time to adapt
 
 The chapter concludes with the opinion that the benefits greatly outweigh the risks and that the risks are only present if we choose to respond to a signal (although we are already detectable to about 100 light years away).
@@ -160,7 +161,7 @@ They also went into detail on the expected noise levels and concluded that a sig
 - Once the limit of the transmitter's power is reached the only way to increase the energy received is to increase the signal duration, which narrows the bandwidth (the signal duration is inversely proportional to the bandwidth of a signal) and the authors expected this to result in the use of highly monochromatic (narrow band) signals for interstellar communication.
 
 ### Microwave window
-There is a window in the electromagnetic spectrum that is subject to the least noise from the galactic and universal background radiationo as well as the least quantum noise and the least absorption by Earth's atmosphere. This window lies between 1 and 100 GHz i.e. in the microwave region of the spectrum.
+There is a window in the electromagnetic spectrum that is subject to the least noise from the galactic and universal background radiation as well as the least quantum noise and the least absorption by Earth's atmosphere. This window lies between 1 and 100 GHz i.e. in the microwave region of the spectrum.
 
 The authors noted that the noise from the host star does not pose a serious problem for detecting microwaves with antennas up to 10 km in diameter and for stars beyond 10 light years. The report gives temperature values (table 5.2) for the quiet and active sun, which were missing from the [Cocconi and Morrison paper][cocconi-morrison-1959-notes] {% cite  Cocconi1959  %}, which used similar equations to calculate a similar optimum frequency of interstellar communication. 
 
@@ -191,7 +192,7 @@ If the probability that a signal is radiating from a planet around a star is 1 i
 
 If the probability is lower (e.g. 1 in a million: a civilisation that has been radiating beacons for 10,000 years) then we have to search a million stars, which would require searching up to 1000 light years away from the Sun.
 
-Given the uncertainty in how many stars, and therefore what distance we need to search, the authors of the report recommended starting with a modest search system that can be expanded over time, working our way up from 100 to 1000 light year range. They also point out that searching several stars simultaneously "does not appear too feasible" since the number of directions an antenna must be pointed to cover the whole sky is high and increases with the diameter of the antenna and the frequency of the signal.
+Given the uncertainty in how many stars, and therefore what distance we need to search, the authors of the report recommended starting with a modest search system that can be expanded over time, working our way up from 100 to 1000 light year range. They also pointed out that searching several stars simultaneously "does not appear too feasible" since the number of directions an antenna must be pointed to cover the whole sky is high and increases with the diameter of the antenna and the frequency of the signal.
 
 ### How far can we search?
 The range for our search is limited by noise - once the signal to noise ratio equals one we cannot distinguish between signal and noise. This gives us the maximum distance we can search, which is proportional to the diameter of the receiving antenna and the square root of the effective power of the transmitter and inversely proportional to the square root of the bandwidth and the temperature of the source (higher temperature leads to more noise).
@@ -201,15 +202,16 @@ Even if we know what frequency to look for we have to broaden the band to accoun
 - The relative velocity of the star to the Sun (maximum of 60 km/s for relevant stars, according to the report) which would result in a fixed offset of maximum $$\pm 2\times 10^{-4}$$ (0.02%).
 - Planetary motion around a star (max $$\pm10^{-4}$$ (0.01%) for Earth) varying sinusoidally with time
 - Planetary rotation about its axis (max $$\pm1.5 \times 10^{-6}$$ (0.00015%) for Earth) varying sinusoidally with time
+
 As the frequency of the signal increases so does the band that must be searched to account for these drifts (Table 6-1 in the report gives estimates ranging from 1.14 MHz for the 21 cm hydrogren line to 230 GHz for optical which would result in drift rates of 1.4 Hz/s and 280 kHz/s respectively), which adds further reason to use the microwave region of the spectrum rather than the optical. Furthermore, as drift rates increase, the maximum range (signal to noise ratio of 1) decreases. 
 
 Other reasons given in the report for favouring the microwave region of the spectrum include:
 - Greater collecting area for the narrowest beam, with a lower cost per unit area
-- Less stringent frequency stability rdequirements
+- Less stringent frequency stability requirements
 - More freedom from O$$_2$$ and H$$_2$$O absorption
 
 #### The water hole
-The authors proposed focussing the search on the region between 1000 MHz and 3 GHz. They discussed the hydrogen line (this would require about 3 MHz of bandwidth) but argued that choosing a single frequency would lead to jamming ourselves if it is used for both transmission and reception simultaneously. They suggested a broader band that does not contain spectral lines (since they interfere with radio astronomy and create noise) and is not below the hydrogen line (since this would interfere with observations of red-shifted galaxies and has more background noise) and landed upon the band from the hydrogen line to the hydroxyl line (1420 - 1662 MHz), which has become known as the water hole.
+The authors proposed focussing the search on the region between 1 and 3 GHz. They discussed the hydrogen line (this would require about 3 MHz of bandwidth) but argued that choosing a single frequency would lead to jamming ourselves if it is used for both transmission and reception simultaneously. They suggested a broader band that does not contain spectral lines (since they interfere with radio astronomy and create noise) and is not below the hydrogen line (since this would interfere with observations of red-shifted galaxies and has more background noise) and landed upon the band from the hydrogen line to the hydroxyl line (1420 - 1662 MHz), which has become known as the water hole.
 
 > "The resonances of the dissociation products of water is ideally situated and an uncannily poetic place for water-based life to seek its kind. Where shall we meet? At the water hole, of course!"
 
@@ -237,7 +239,7 @@ The Cyclops Project was hugely influential on SETI research that followed it and
 
 The first part of the resulting report presents background material and calculations that lay the foundations for their proposed system for the detection of signals from extraterrestrial intelligence. It emphasised the preferrence of the microwave region of the spectrum, with detailed calculations to back this up, and proposed the water hole band to target in the first instance. Given the uncertainty in the probability of another technologically advanced civilisation emerging elsewhere, their longevity and the power of their transmitters, the report could not present any firm conclusions on the number of stars we must search but suggested starting with the nearest 1000 and then scaling up to the nearest 1 million (within 1000 light years) with a search system that can be scaled up. The report also recommends restricting the search to F to K main sequence stars.
 
-The rest of the report details the design, requirements and costs of this system and I will document this in my next post.
+The rest of the report details the design, requirements and costs of this system and I have documented this in my [next post][project-cyclops-1972-notes-ii].
 
 
 ## References
@@ -260,6 +262,8 @@ The rest of the report details the design, requirements and costs of this system
 [palebluemarbles-stars-sand]: https://www.palebluemarbles.com/count-the-stars-in-grains-of-sand/
 [poisson-distribution-wikipedia]: https://en.wikipedia.org/wiki/Poisson_distribution
 [project-cyclops-1972-report]: https://ntrs.nasa.gov/citations/19730010095
+[project-cyclops-1972-notes-ii]: https://open-research.gemmadanks.com/literature/project-cyclops-part-ii/
+
 [technosignatures-literature]: https://open-research.gemmadanks.com/literature/technosignatures-literature-roundup/
 [titus-bode]: https://en.wikipedia.org/wiki/Titius%E2%80%93Bode_law
 
