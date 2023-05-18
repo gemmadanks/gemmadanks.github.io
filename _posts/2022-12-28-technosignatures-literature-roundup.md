@@ -44,6 +44,7 @@ For each paper I've read I include links to the publication followed by links to
   - [Waiting times and longevity][hoerner-1961-notes]
 -	[Project Cyclops: a Design Study of a System for Detecting Extraterrestrial Intelligent Life.][project-cyclops-report] 1972.
   - [Project Cyclops Part I][project-cyclops-notes-part-i]
+  - [Project Cyclops Part II][project-cyclops-notes-part-ii]
 
 
 # Technosignature papers to-read
@@ -107,6 +108,7 @@ For each paper I've read I include links to the publication followed by links to
 
 [project-cyclops-report]: https://ntrs.nasa.gov/citations/19730010095
 [project-cyclops-notes-part-i]: https://open-research.gemmadanks.com/literature/project-cyclops-part-i
+[project-cyclops-notes-part-i]: https://open-research.gemmadanks.com/literature/project-cyclops-part-ii
 
 [seec]: https://seec.gsfc.nasa.gov/about.html
 
