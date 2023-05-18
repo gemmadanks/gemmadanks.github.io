@@ -1,6 +1,6 @@
 ---
 title: "Technosignatures literature roundup"
-date: 2023-02-11 T10:55:00
+date: 2023-05-18 T20:40:00
 categories:
   - literature
 tags:
@@ -36,13 +36,13 @@ For each paper I've read I include links to the publication followed by links to
   - [Dyson spheres][dyson-1960-notes]
 - Schwartz RN, Townes CH: [Interstellar and Interplanetary Communication by Optical Masers.][schwartz-townes-1961-paper] Nature 1961, 190:205–208.
   - [Interstellar communications by optical masers][schwartz-townes-1961-notes]
--	Kardashev NS: [Transmission of Information by Extraterrestrial Civilizations.][kardashev-1964-paper] Soviet Astronomy 1964, 8:217.
+- Kardashev NS: [Transmission of Information by Extraterrestrial Civilizations.][kardashev-1964-paper] Soviet Astronomy 1964, 8:217.
   - [Kardashev classification scheme for extraterrestrial civilisations][kardashev-1964-notes] 
-- Drake FD: [THE RADIO SEARCH FOR INTELLIGENT EXTRATERRESTRIAL LIFE.][drake-1965-paper] In Current Aspects of Exobiology. . Elsevier; 1965:323–345.
+- Drake FD: [THE RADIO SEARCH FOR INTELLIGENT EXTRATERRESTRIAL LIFE.][drake-1965-paper] In Current Aspects of Exobiology. Elsevier; 1965:323–345.
   - [The Drake Equation][drake-1965-notes]
 - Hoerner SV: [The Search for Signals from Other Civilizations.][hoerner-1961-paper] Science, New Series 1961, 134:1839–1843.
   - [Waiting times and longevity][hoerner-1961-notes]
--	[Project Cyclops: a Design Study of a System for Detecting Extraterrestrial Intelligent Life.][project-cyclops-report] 1972.
+- [Project Cyclops: a Design Study of a System for Detecting Extraterrestrial Intelligent Life.][project-cyclops-report] 1972.
   - [Project Cyclops Part I][project-cyclops-notes-part-i]
   - [Project Cyclops Part II][project-cyclops-notes-part-ii]
 
@@ -108,7 +108,7 @@ For each paper I've read I include links to the publication followed by links to
 
 [project-cyclops-report]: https://ntrs.nasa.gov/citations/19730010095
 [project-cyclops-notes-part-i]: https://open-research.gemmadanks.com/literature/project-cyclops-part-i
-[project-cyclops-notes-part-i]: https://open-research.gemmadanks.com/literature/project-cyclops-part-ii
+[project-cyclops-notes-part-ii]: https://open-research.gemmadanks.com/literature/project-cyclops-part-ii
 
 [seec]: https://seec.gsfc.nasa.gov/about.html
 
