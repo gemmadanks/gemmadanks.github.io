@@ -1,6 +1,6 @@
 ---
 title: "Technosignatures literature roundup"
-date: 2023-05-18 T20:40:00
+date: 2023-05-22 T14:26:00
 categories:
   - literature
 tags:
@@ -45,24 +45,25 @@ For each paper I've read I include links to the publication followed by links to
 - [Project Cyclops: a Design Study of a System for Detecting Extraterrestrial Intelligent Life.][project-cyclops-report] 1972.
   - [Project Cyclops Part I][project-cyclops-notes-part-i]
   - [Project Cyclops Part II][project-cyclops-notes-part-ii]
+- Dixon RS: [A search strategy for finding extraterrestrial radio beacons.][dixon-1973-paper] Icarus 1973, 20:187–199.
+  - [A search strategy for finding extraterrestrial radio beacons][dixon-1973-notes]
 
 
 # Technosignature papers to-read
 
-1. 	Dixon RS: A search strategy for finding extraterrestrial radio beacons. Icarus 1973, 20:187–199.
-2. 	The Staff at the National Astronomy: The Arecibo message of November, 1974. Icarus 1975, 26:462–466.
-3. 	Oliver B M: Rationale for the water hole. Acta Astronautica 1979, 6:71–79.
-4. 	Horowitz P, Sagan C, Horowitz P, Sagan C: Five Years of Project META: an All-Sky Narrow-Band Radio Search for Extraterrestrial Signals. ApJ 1993, 415:218.
-5. 	Tarter J: THE SEARCH FOR EXTRATERRESTRIAL INTELLIGENCE (SETI). 2001.
-6. 	Tarter JC, Agrawal A, Ackermann R, Backus P, Blair SK, Bradford MT, Harp GR, Jordan J, Kilsdonk T, Smolek KE, et al.: SETI turns 50: five decades of progress in the search for extraterrestrial intelligence. 2010, 7819:781902.
-7. 	Isaacson H, Siemion APV, Marcy GW, Lebofsky M, Price DC, MacMahon D, Croft S, DeBoer D, Hickish J, Werthimer D, et al.: The Breakthrough Listen Search for Intelligent Life: Target Selection of Nearby Stars and Galaxies. PASP 2017, 129:054501.
-8. 	Worden SP, Drew J, Siemion A, Werthimer D, DeBoer D, Croft S, MacMahon D, Lebofsky M, Isaacson H, Hickish J, et al.: Breakthrough Listen – A new search for life in the universe. Acta Astronautica 2017, 139:98–101.
-9.  	Wright JT, Kanodia S, Lubar E: How Much SETI Has Been Done? Finding Needles in the n-dimensional Cosmic Haystack. AJ 2018, 156:260.
-10. 	Lebofsky M, Croft S, Siemion APV, Price DC, Enriquez JE, Isaacson H, MacMahon DHE, Anderson D, Brzycki B, Cobb J, et al.: The Breakthrough Listen Search for Intelligent Life: Public Data, Formats, Reduction and Archiving. PASP 2019, 131:124505.
-11. 	Price DC, Enriquez JE, Brzycki B, Croft S, Czech D, DeBoer D, DeMarines J, Foster G, Gajjar V, Gizani N, et al.: The Breakthrough Listen Search for Intelligent Life: Observations of 1327 Nearby Stars Over 1.10–3.45 GHz. The Astronomical Journal 2020, 159:86.
-12. 	Sheikh SZ, Siemion A, Enriquez JE, Price DC, Isaacson H, Lebofsky M, Gajjar V, Kalas P: The Breakthrough Listen Search for Intelligent Life: A 3.95-8.00 GHz Search for Radio Technosignatures in the Restricted Earth Transit Zone. AJ 2020, 160:29.
-13. 	Wright J: Dyson spheres. Serb Astron J 2020, doi:10.2298/SAJ2000001W.
-14. 	Traas R, Croft S, Gajjar V, Isaacson H, Lebofsky M, MacMahon DHE, Perez K, Price DC, Sheikh S, Siemion APV, et al.: The Breakthrough Listen Search for Intelligent Life: Searching for Technosignatures in Observations of TESS Targets of Interest. AJ 2021, 161:286.
+1. 	The Staff at the National Astronomy: The Arecibo message of November, 1974. Icarus 1975, 26:462–466.
+2. 	Oliver B M: Rationale for the water hole. Acta Astronautica 1979, 6:71–79.
+3. 	Horowitz P, Sagan C, Horowitz P, Sagan C: Five Years of Project META: an All-Sky Narrow-Band Radio Search for Extraterrestrial Signals. ApJ 1993, 415:218.
+4. 	Tarter J: THE SEARCH FOR EXTRATERRESTRIAL INTELLIGENCE (SETI). 2001.
+5. 	Tarter JC, Agrawal A, Ackermann R, Backus P, Blair SK, Bradford MT, Harp GR, Jordan J, Kilsdonk T, Smolek KE, et al.: SETI turns 50: five decades of progress in the search for extraterrestrial intelligence. 2010, 7819:781902.
+6. 	Isaacson H, Siemion APV, Marcy GW, Lebofsky M, Price DC, MacMahon D, Croft S, DeBoer D, Hickish J, Werthimer D, et al.: The Breakthrough Listen Search for Intelligent Life: Target Selection of Nearby Stars and Galaxies. PASP 2017, 129:054501.
+7. 	Worden SP, Drew J, Siemion A, Werthimer D, DeBoer D, Croft S, MacMahon D, Lebofsky M, Isaacson H, Hickish J, et al.: Breakthrough Listen – A new search for life in the universe. Acta Astronautica 2017, 139:98–101.
+8.  	Wright JT, Kanodia S, Lubar E: How Much SETI Has Been Done? Finding Needles in the n-dimensional Cosmic Haystack. AJ 2018, 156:260.
+9.  	Lebofsky M, Croft S, Siemion APV, Price DC, Enriquez JE, Isaacson H, MacMahon DHE, Anderson D, Brzycki B, Cobb J, et al.: The Breakthrough Listen Search for Intelligent Life: Public Data, Formats, Reduction and Archiving. PASP 2019, 131:124505.
+10. 	Price DC, Enriquez JE, Brzycki B, Croft S, Czech D, DeBoer D, DeMarines J, Foster G, Gajjar V, Gizani N, et al.: The Breakthrough Listen Search for Intelligent Life: Observations of 1327 Nearby Stars Over 1.10–3.45 GHz. The Astronomical Journal 2020, 159:86.
+11. 	Sheikh SZ, Siemion A, Enriquez JE, Price DC, Isaacson H, Lebofsky M, Gajjar V, Kalas P: The Breakthrough Listen Search for Intelligent Life: A 3.95-8.00 GHz Search for Radio Technosignatures in the Restricted Earth Transit Zone. AJ 2020, 160:29.
+12. 	Wright J: Dyson spheres. Serb Astron J 2020, doi:10.2298/SAJ2000001W.
+13. 	Traas R, Croft S, Gajjar V, Isaacson H, Lebofsky M, MacMahon DHE, Perez K, Price DC, Sheikh S, Siemion APV, et al.: The Breakthrough Listen Search for Intelligent Life: Searching for Technosignatures in Observations of TESS Targets of Interest. AJ 2021, 161:286.
 
 ## Online lists of technosignature papers
 - [Technosearch][technosearch] is an online tool tracking SETI papers since 1960.
@@ -77,6 +78,9 @@ For each paper I've read I include links to the publication followed by links to
 [cocconi-morrison-1959-jupyter]: https://github.com/gemmadanks/technosignatures/blob/main/radio-seti/interstellar-communications/interstellar-communications.ipynb
 [cocconi-morrison-1959-notes]: https://open-research.gemmadanks.com/literature/search-for-interstellar-communications/
 [cocconi-morrison-1959-paper]: https://www.nature.com/articles/184844a0
+
+[dixon-1973-paper]: https://www.sciencedirect.com/science/article/abs/pii/001910357390050X
+[dixon-1973-notes]: https://open-research.gemmadanks.com/literature/radio-seti-search-strategy/
 
 [drake-1961-paper]: https://physicstoday.scitation.org/doi/10.1063/1.3057500
 [drake-1961-notes]: https://open-research.gemmadanks.com/literature/project-ozma/
