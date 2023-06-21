@@ -18,6 +18,8 @@ This paper was reportedly the first formal examination of the now famous [Fermi 
 
 Here are my notes on Hart's 1975 paper. You can find my notes on other classic SETI papers in my [roundup of the technosignatures literature][technosignatures-literature].
 
+I also created a [Jupyter notebook][jupyter-hart] to explore these ideas further.
+
 ## Fact A
 Extraterrestrials are not present on Earth (Hart called this 'fact A'). This piece of empirical data requires an explanation. Many had been put forward at the time the paper was written but Hart argued that they were all insufficient to explain why no alien civilisation anywhere in the galaxy, at any time in its history, had travelled to our Solar system and settled here. He proposed that the best explanation is that extraterrestrial civlisations don't exist, making the search for them a waste of time and money. 
 
@@ -73,6 +75,7 @@ It was interesting to read a paper that had a pessimistic perspective compared t
 
 [apollo-11]: https://www.nasa.gov/mission_pages/apollo/missions/apollo11.html
 [fermi-paradox]: https://en.wikipedia.org/wiki/Fermi_paradox
+[jupyter-hart]: https://github.com/gemmadanks/technosignatures/tree/main/fermi-paradox
 [skylab]: https://www.nasa.gov/mission_pages/skylab
 [technosignatures-literature]: https://open-research.gemmadanks.com/literature/technosignatures-literature-roundup/
 
