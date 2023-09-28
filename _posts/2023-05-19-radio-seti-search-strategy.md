@@ -75,7 +75,7 @@ He went on to argue that the hydrogen line, as proposed by [Cocconi and Morisson
   - The Doppler correction method Dixon proposed would remove most hydrogen absorption effects
 - Transmissions at hydrogen line frequency may cause interfere for astronomers studying hydrogen emissions (transmissions at this frequency are not allowed on Earth for this reason)
   - Transmission could be done by satellite
-  - Communication with other civilisations may be valued higher than hydrogen lline observations
+  - Communication with other civilisations may be valued higher than hydrogen line observations
   - Doppler correction would mean transmitting a slightly different frequency
 
 Dixon noted that a frequency search would still be required with his proposed Doppler-shift correction method since (at the time of writing) we have a 10% error margin in our knowledge of our own galactic rotation velocity. This corresponds to a frequency uncertainty up to $$\pm $$125 kHz.

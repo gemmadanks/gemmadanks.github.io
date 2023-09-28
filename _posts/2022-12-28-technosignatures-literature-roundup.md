@@ -1,6 +1,6 @@
 ---
 title: "Technosignatures literature roundup"
-date: 2023-05-23 T14:20:00
+date: 2023-09-28 T20:44:00
 categories:
   - literature
 tags:
@@ -51,27 +51,28 @@ For each paper I've read I include links to the publication followed by links to
   - [Why are extraterrestrials not on Earth?][hart-1975-notes]
 - The Staff at the National Astronomy: [The Arecibo message of November, 1974.][arecibo-1974-paper] Icarus 1975, 26:462–466.
   - [The Arecibo message of 1974][arecibo-1974-notes]
+- Oliver B M: [Rationale for the water hole.][oliver-1979-paper] Acta Astronautica 1979, 6:71–79.
+  - [Rationale for the water hole][oliver-1979-notes]
   
 # Technosignature papers to-read
 
-1.  Oliver B M: Rationale for the water hole. Acta Astronautica 1979, 6:71–79.
-2.  Tipler FJ: Extraterrestrial intelligent beings do not exist. Quarterly Journal of the Royal Astronomical Society 1980, 21:267–281.
-3.  Lord S, Dixon R, Healy T: Project OASIS: The Design of a Signal Detector for the Search for Extraterrestrial Intelligence. 1981.
-4.  Sagan C: Extraterrestrial Intelligence: An International Petition. Science 1982, 218:426–426.
-5.  Sagan C, Newman WI: The Solipsist Approach to Extraterrestrial Intelligence. Quarterly Journal of the Royal Astronomical Society 1983, 24:113.
-6.  Townes CH: At what wavelengths should we search for signals from extraterrestrial intelligence? 1983, doi:https://doi.org/10.1073/pnas.80.4.1147.
-7.   Horowitz P, Sagan C, Horowitz P, Sagan C: Five Years of Project META: an All-Sky Narrow-Band Radio Search for Extraterrestrial Signals. ApJ 1993, 415:218.
-8.   Tarter J: THE SEARCH FOR EXTRATERRESTRIAL INTELLIGENCE (SETI). 2001.
-9.   Tarter JC, Agrawal A, Ackermann R, Backus P, Blair SK, Bradford MT, Harp GR, Jordan J, Kilsdonk T, Smolek KE, et al.: SETI turns 50: five decades of progress in the search for extraterrestrial intelligence. 2010, 7819:781902.
-10.  Shuch HP: Searching for Extraterrestrial Intelligence: SETI Past, Present, and Future. Springer Berlin Heidelberg; 2011.
-11.  Isaacson H, Siemion APV, Marcy GW, Lebofsky M, Price DC, MacMahon D, Croft S, DeBoer D, Hickish J, Werthimer D, et al.: The Breakthrough Listen Search for Intelligent Life: Target Selection of Nearby Stars and Galaxies. PASP 2017, 129:054501.
-12.  Worden SP, Drew J, Siemion A, Werthimer D, DeBoer D, Croft S, MacMahon D, Lebofsky M, Isaacson H, Hickish J, et al.: Breakthrough Listen – A new search for life in the universe. Acta Astronautica 2017, 139:98–101.
-13.  Wright JT, Kanodia S, Lubar E: How Much SETI Has Been Done? Finding Needles in the n-dimensional Cosmic Haystack. AJ 2018, 156:260.
-14.  Lebofsky M, Croft S, Siemion APV, Price DC, Enriquez JE, Isaacson H, MacMahon DHE, Anderson D, Brzycki B, Cobb J, et al.: The Breakthrough Listen Search for Intelligent Life: Public Data, Formats, Reduction and Archiving. PASP 2019, 131:124505.
-15.  Price DC, Enriquez JE, Brzycki B, Croft S, Czech D, DeBoer D, DeMarines J, Foster G, Gajjar V, Gizani N, et al.: The Breakthrough Listen Search for Intelligent Life: Observations of 1327 Nearby Stars Over 1.10–3.45 GHz. The Astronomical Journal 2020, 159:86.
-16.  Sheikh SZ, Siemion A, Enriquez JE, Price DC, Isaacson H, Lebofsky M, Gajjar V, Kalas P: The Breakthrough Listen Search for Intelligent Life: A 3.95-8.00 GHz Search for Radio Technosignatures in the Restricted Earth Transit Zone. AJ 2020, 160:29.
-17.  Wright J: Dyson spheres. Serb Astron J 2020, doi:10.2298/SAJ2000001W.
-18.  Traas R, Croft S, Gajjar V, Isaacson H, Lebofsky M, MacMahon DHE, Perez K, Price DC, Sheikh S, Siemion APV, et al.: The Breakthrough Listen Search for Intelligent Life: Searching for Technosignatures in Observations of TESS Targets of Interest. AJ 2021, 161:286.
+1.  Tipler FJ: Extraterrestrial intelligent beings do not exist. Quarterly Journal of the Royal Astronomical Society 1980, 21:267–281.
+2.  Lord S, Dixon R, Healy T: Project OASIS: The Design of a Signal Detector for the Search for Extraterrestrial Intelligence. 1981.
+3.  Sagan C: Extraterrestrial Intelligence: An International Petition. Science 1982, 218:426–426.
+4.  Sagan C, Newman WI: The Solipsist Approach to Extraterrestrial Intelligence. Quarterly Journal of the Royal Astronomical Society 1983, 24:113.
+5.  Townes CH: At what wavelengths should we search for signals from extraterrestrial intelligence? 1983, doi:https://doi.org/10.1073/pnas.80.4.1147.
+6.   Horowitz P, Sagan C, Horowitz P, Sagan C: Five Years of Project META: an All-Sky Narrow-Band Radio Search for Extraterrestrial Signals. ApJ 1993, 415:218.
+7.   Tarter J: THE SEARCH FOR EXTRATERRESTRIAL INTELLIGENCE (SETI). 2001.
+8.   Tarter JC, Agrawal A, Ackermann R, Backus P, Blair SK, Bradford MT, Harp GR, Jordan J, Kilsdonk T, Smolek KE, et al.: SETI turns 50: five decades of progress in the search for extraterrestrial intelligence. 2010, 7819:781902.
+9.   Shuch HP: Searching for Extraterrestrial Intelligence: SETI Past, Present, and Future. Springer Berlin Heidelberg; 2011.
+10.  Isaacson H, Siemion APV, Marcy GW, Lebofsky M, Price DC, MacMahon D, Croft S, DeBoer D, Hickish J, Werthimer D, et al.: The Breakthrough Listen Search for Intelligent Life: Target Selection of Nearby Stars and Galaxies. PASP 2017, 129:054501.
+11.  Worden SP, Drew J, Siemion A, Werthimer D, DeBoer D, Croft S, MacMahon D, Lebofsky M, Isaacson H, Hickish J, et al.: Breakthrough Listen – A new search for life in the universe. Acta Astronautica 2017, 139:98–101.
+12.  Wright JT, Kanodia S, Lubar E: How Much SETI Has Been Done? Finding Needles in the n-dimensional Cosmic Haystack. AJ 2018, 156:260.
+13.  Lebofsky M, Croft S, Siemion APV, Price DC, Enriquez JE, Isaacson H, MacMahon DHE, Anderson D, Brzycki B, Cobb J, et al.: The Breakthrough Listen Search for Intelligent Life: Public Data, Formats, Reduction and Archiving. PASP 2019, 131:124505.
+14.  Price DC, Enriquez JE, Brzycki B, Croft S, Czech D, DeBoer D, DeMarines J, Foster G, Gajjar V, Gizani N, et al.: The Breakthrough Listen Search for Intelligent Life: Observations of 1327 Nearby Stars Over 1.10–3.45 GHz. The Astronomical Journal 2020, 159:86.
+15.  Sheikh SZ, Siemion A, Enriquez JE, Price DC, Isaacson H, Lebofsky M, Gajjar V, Kalas P: The Breakthrough Listen Search for Intelligent Life: A 3.95-8.00 GHz Search for Radio Technosignatures in the Restricted Earth Transit Zone. AJ 2020, 160:29.
+16.  Wright J: Dyson spheres. Serb Astron J 2020, doi:10.2298/SAJ2000001W.
+17.  Traas R, Croft S, Gajjar V, Isaacson H, Lebofsky M, MacMahon DHE, Perez K, Price DC, Sheikh S, Siemion APV, et al.: The Breakthrough Listen Search for Intelligent Life: Searching for Technosignatures in Observations of TESS Targets of Interest. AJ 2021, 161:286.
 
 ## Online lists of technosignature papers
 - [Technosearch][technosearch] is an online tool tracking SETI papers since 1960.
@@ -120,6 +121,10 @@ For each paper I've read I include links to the publication followed by links to
 
 [my-research-process]: https://open-research.gemmadanks.com/planning/my-research-process/
 [nature]: https://www.nature.com/
+
+[oliver-1979-notes]: https://open-research.gemmadanks.com/literature/water-hole-rationale/
+[oliver-1979-paper]: https://www.sciencedirect.com/science/article/abs/pii/0094576579901486?via%3Dihub
+
 [penn-state]: https://www.psu.edu/
 [penn-seti-course]: https://sites.psu.edu/seticourse/ 
 [penn-seti-papers]: https://sites.psu.edu/seticourse/the-papers/
