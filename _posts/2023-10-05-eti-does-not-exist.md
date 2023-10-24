@@ -110,6 +110,8 @@ Tipler considered the possibility that probes from extraterrestrial intelligence
 
 Tipler equated a belief in the existence of extraterrestrial intelligence anywhere in the galaxy with the belief that UFOs are extraterrestrial spaceships.
 
+## The Anthropic Principle
+
 He ended his paper by referring to the [Anthropic Principle][anthropic-principle]. Original reasoning based on this principle went that because we are here, the Universe must be compatible with the existence of (intelligent) life. Tipler defined it as:
 
 > Many aspects of the Universe are determined by the requirement that intelligent life exists in it.
