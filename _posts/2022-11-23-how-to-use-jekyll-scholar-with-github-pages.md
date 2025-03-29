@@ -54,6 +54,15 @@ After a lot of googling I landed on the most likely source of the problem being 
 1. Add a ```.ruby-version``` file to the root of your repo and specify ruby version ```2.7.2```
 2. Remove the ruby version line from the ```jekyll.yml``` workflow
 
+#### Edit in 2024-06
+I recently had to repeat this process on a new machine and ran into another issue with openssl versions. The following fixed this (from [here](https://github.com/postmodern/ruby-install/issues/409#issuecomment-1681133425)):
+
+```
+export CFLAGS="-DUSE_FFI_CLOSURE_ALLOC"
+export PKG_CONFIG_PATH="$(brew --prefix openssl@1.1)/lib/pkgconfig"
+ruby-install 2.7.2 -- --with-openssl-dir=$(brew --prefix openssl@1.1)
+```
+
 ### 4. Add a BibTex file with a list of references
 Export a list of references in BibTex format from your reference manager, name it ```references.bib``` and place this file into a new folder called ```_bibliography```.
 

@@ -1,22 +1,31 @@
 ---
-title: "Welcome to my open research site!"
+title: "About"
+description: "Welcome to my open research site!"
 date: 2022-05-26 T19:12:30
+showDate: false
 categories:
   - about
 tags:
   - about
+author_profile: true
+layout: single
+permalink: /about/
+header:
+  overlay_image: /assets/images/header.jpeg
 excerpt_separator: <!--more-->
 ---
 
 Welcome to my open research site!
 
-My name is Gemma Danks and I have a background in academic research (13 yrs) and tech consulting (5 yrs and counting).
+My name is Gemma Danks and I have a background in academic research (13 yrs) and tech consulting (7 yrs). I currently work at the SKAO as a data processing software engineer, helping to lay the groundwork for the future of radio astronomy.
 
-This is the place where I organise, document and share my open research projects, how I work on them and what I learn in the process. It combines an open science lab book with a knowledge base of tutorials, tips and advice that I hope will be useful to others.
+This site is where I organise, document and share my open research projects, how I work on them and what I learn in the process. It combines an open science lab book with a knowledge base of tutorials, tips and advice that I hope will be useful to others.
 
-You can expect posts involving Python, PySpark, machine learning, data science, astronomy and biology as well as research methodologies, software engineering and project management.
+You can expect posts involving Python, machine learning, data science, astronomy and biology as well as research methodologies, software engineering and project management.
 
 <!--more-->
+
+You can read more about my previous research and my other projects on [my personal website](https://gemmadanks.com).
 
 ## Why open research?
 The main value of research comes from sharing it with others.
