@@ -1,6 +1,6 @@
 ---
 title: "Technosignatures literature roundup"
-date: 2023-09-28 T20:44:00
+date: 2023-10-27 T19:44:00
 categories:
   - literature
 tags:
@@ -56,9 +56,12 @@ For each paper I've read I include links to the publication followed by links to
 - Tipler FJ: [Extraterrestrial intelligent beings do not exist.][tipler-1980-paper] Quarterly Journal of the Royal Astronomical Society 1980, 21:267–281.
   - [ETI does not exist][tipler-1980-notes]
   
-# Technosignature papers to-read
+# Technosignature papers currently reading
+- Lord S, Dixon R, Healy T: [Project OASIS: The Design of a Signal Detector for the Search for Extraterrestrial Intelligence][project-oasis-1981-report]. 1981.
+  - [Project Oasis - part I][project-oasis-notes-part-i]
 
-1.  Lord S, Dixon R, Healy T: Project OASIS: The Design of a Signal Detector for the Search for Extraterrestrial Intelligence. 1981.
+
+# Technosignature papers to-read
 2.  Sagan C: Extraterrestrial Intelligence: An International Petition. Science 1982, 218:426–426.
 3.  Sagan C, Newman WI: The Solipsist Approach to Extraterrestrial Intelligence. Quarterly Journal of the Royal Astronomical Society 1983, 24:113.
 4.  Townes CH: At what wavelengths should we search for signals from extraterrestrial intelligence? 1983, doi:https://doi.org/10.1073/pnas.80.4.1147.
@@ -133,6 +136,10 @@ For each paper I've read I include links to the publication followed by links to
 [project-cyclops-report]: https://ntrs.nasa.gov/citations/19730010095
 [project-cyclops-notes-part-i]: https://open-research.gemmadanks.com/literature/project-cyclops-part-i
 [project-cyclops-notes-part-ii]: https://open-research.gemmadanks.com/literature/project-cyclops-part-ii
+
+[project-oasis-notes-part-i]: https://open-research.gemmadanks.com/literature/project-oasis-part-i/
+[project-oasis-1981-report]: https://ntrs.nasa.gov/citations/19820016111
+
 
 [seec]: https://seec.gsfc.nasa.gov/about.html
 
