@@ -64,12 +64,18 @@ Luckily [Better BibTex has a way to customise the format for in-text citations][
 
 There are several ready-made formatters but none for [jekyll-scholar][jekyll-scholar] so I used the ```playground``` formatter with custom ```citeprefix```, ```citepostfix``` and ```separator``` to create a string that generates citations in the correct format.
 
+**Edit in 2025-04: There is now a `jekyll` format (and `playground` is no longer recognised) so I have switched to that and have updated the URL below.**
+
 1. In VS Code, navigate to the settings of the ['Citation Picker for Zotero'][zotero-citation-picker] plugin
 2. Replace the URL for the port picker with the following:
 
-```http://127.0.0.1:23119/better-bibtex/cayw?format=playground&citeprefix=%7B%25%20cite%20&citepostfix=%20%25%7D&separator=%20``` 
+```http://127.0.0.1:23119/better-bibtex/cayw?format=jekyll```
 
-The ```citeprefix``` is the part of the citaton string before the citation key (```{% raw %}{% cite {% endraw %}``` using [hexadecimal][hexadecimal-converter] for special characters) and the ```citepostfix``` is the part of the citation string after the citation key (```{% raw %} %}{% endraw %}```). The ```separator``` parameter puts spaces between multiple citation keys (the default is ```,```).
+> Before the jekyll format was available I had to use the following:
+>
+> ```http://127.0.0.1:23119/better-bibtex/cayw?format=playground&citeprefix=%7B%25%20cite%20&citepostfix=%20%25%7D&separator=%20```
+>
+> The ```citeprefix``` is the part of the citaton string before the citation key (```{% raw %}{% cite {% endraw %}``` using [hexadecimal][hexadecimal-converter] for special characters) and the ```citepostfix``` is the part of the citation string after the citation key (```{% raw %} %}{% endraw %}```). The ```separator``` parameter puts spaces between multiple citation keys (the default is ```,```).
 
 {:start="3"}
 3. Restart VS Code and make sure you have Zotero running
@@ -79,21 +85,24 @@ The ```citeprefix``` is the part of the citaton string before the citation key (
 7. Search for your citation and add it
 8. When you run jekyll serve it will render the citation in the style you have chosen for jekyll-scholar 
 
-
 ### How to get Zotero to insert citations in jekyll-scholar format using drag and drop and Better BibTex
 I also wanted to be able to drag and drop citations from the Zotero desktop app. To do this I had to edit the ```Quick-Copy``` settings in Zotero and create a [custom Eta template][better-bibtex-eta].
 
-1. In Zotero navigate to ```Preferences --> Better BibTex --> Export --> Quick-Copy```
-2. Under ```Quick-Copy format``` select ```Eta template```
-3. Paste the following into the box:
+**Edit in 2025-04: Updated to use new `Jekyll cite` format.**
 
-```{% raw %}{% cite <% for (const item of it.items) {%> <%= item.citationKey %> <% } %> %}{% endraw %}```
- 
- This outputs the prefix string, iterates through and outputs the citation keys with spaces in between and then adds the postfix string.
+1. In Zotero navigate to ```Preferences --> Better BibTex --> Export --> Quick-Copy```. Select `Jekyll cite` from the `Quick copy format` drop down menu.
+2. Navigate back to ```Preferences --> Export``` and in the `Quick Copy` section select `Better Bibtex Quick Copy: Jekyll cite` from the `Item format` drop down menu.
+
+> I previously had to select ```Eta template``` and paste the following into the box:
+>
+> ```{% raw %}{% cite <% for (const item of it.items) {%> <%= item.citationKey %> <% } %> %}{% endraw %}```
+>
+> This outputs the prefix string, iterates through and outputs the citation keys with spaces in between and then adds the postfix string.
+> This way still works as long as you have selected `Better Bibtex Quick Copy: Eta template` from the `Item format` drop down menu in the `Quick Copy` section of ```Preferences --> Export```.
+
 
 ## Share your thoughts
 What tools do you use for managing citations? Do you have any tips or tricks for academic writing on open platforms? Was this post helpful? Let me know in the comments! 
-
 
 [better-bibtex]: https://retorque.re/zotero-better-bibtex/
 [better-bibtex-cite-diy]: https://retorque.re/zotero-better-bibtex/citing/cayw/#diy
