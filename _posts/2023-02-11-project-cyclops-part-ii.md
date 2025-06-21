@@ -27,17 +27,17 @@ You can find my notes on other classic SETI papers in my [roundup of the technos
 Chapter 7 of the report summarises the following four chapters, which go into the technical details of the Cyclops system design. The system itself could be used for many different purposes. It is the signal processing that is unique to detecting extraterrestrial intelligence.
 
 ### Phased arrays
-A microwave antenna system with a collecting area of 7-20 km$$^2$$ (3-5 km aperture diameter) is required to detect extraterrestrial signals. This must be constructed as a ground-based phased array of smaller antennae due to the cost and practicalities involved in a telescope of this size and the uncertainty in the required collecting area. A phased array can be expanded over time as required. 
+A microwave antenna system with a collecting area of 7-20 km$$^2$$ (equivalent to 3-5 km aperture diameter) is required to detect extraterrestrial signals. This must be constructed as a ground-based phased array of smaller antennas due to the cost and practicalities involved in a telescope of this size and the uncertainty in the required collecting area. A phased array can be expanded over time as required. 
 
-The authors estimated that the cost of constructing these arrays scales as the square of the diameter and therefore recommended that each array is made as large as possible (i.e. 100 m in diameter). They also evaluated various mounts and recommended using a conventional mount with azimuth and elevation axes.
+The authors recommended that, given the cost of constructing array elements (dishes) scales as the square of the diameter, each element is made as large as possible (i.e. 100 m in diameter). They also evaluated various mounts and recommended using a conventional mount with azimuth and elevation axes.
 
-To avoid shadowing one another the arrays must be separated by three times their diameter. The optimal layout of antennae would be roughly circular in a regular hexagonal lattice. A control and data processing centre would be best positioned at the centre of the circle:
+To avoid shadowing one another the array elements must be separated by three times their diameter. The optimal layout of antennas would be roughly circular in a regular hexagonal lattice. A control and data processing centre would be best positioned at the centre of the circle:
 
 >From the air, the final Cyclops system would be seen as a large central headquarters building surrounded by an "orchard" of antennas 10 km to 10 miles in diameter and containing 1000 to perhaps 2500 antennas.
 
-A system of underground service tunnels would allow the transmission of power, control signals and radio signals from the antennae to and from the central building. They would also allow airflow and contain telephone cables.
+A system of underground service tunnels would allow the transmission of power, control signals and radio signals from the antennas to and from the central building. They would also allow airflow and contain telephone cables.
 
-The authors also briefly discuss the options for creating a community ("Cyclopolis") for staff and their families, either a few miles away or between the antennae:
+The authors also briefly discuss the options for creating a community ("Cyclopolis") for staff and their families, either a few miles away or between the antennas:
 
 > There would be ample room between the antenna elements for playgrounds and recreation facilities.
 
@@ -55,16 +55,16 @@ Other features of the site for the Cyclops system ideally include:
 
 - Low geological activity (no earthquakes or subsidence)
 - High dry plateaus (to avoid atmospheric turbulence from humidity and clouds)
-- Mild climate (no snow or high winds that deform the antennae)
+- Mild climate (no snow or high winds that deform the antennas)
 - A large plane area (to simplify processing and phasing)
 - Remote (to avoid radio intereference from civilisations on Earth)
   
 ### Receiver system
 A receiver system covering the frequency range from 0.5 to 3 GHz would be best for the microwave window that the study concluded is most likely to contain extraterrestrial signals. 
 
-Heterodyne receivers at each antenna would convert the radio frequency to a fixed band for transmission. 
+Heterodyne receivers (convert high frequencies to lower frequencies for easier processing) at each antenna would convert the radio frequency to a fixed band for transmission. 
 
-Low noise is essential (halving the noise is equivalent to doubling the antenna area and the authors estimate that the Cyclops system can achieve a noise as low as 20 K) and remote tunability is required with so many antennae to coordinate. 
+Low noise is essential (halving the noise is equivalent to doubling the antenna area and the authors estimate that the Cyclops system can achieve a noise as low as 20 K) and remote tunability is required with so many antennas to coordinate. 
 
 An instantaneous bandwidth of 100 GHz is possible with this system for two polarisations simultaneouosly and the authors suggest covering the entire 'water hole' may be possible if the bandwidth is increased through further study. 
 
@@ -143,7 +143,7 @@ Additional benefits of the Cyclops system would be the ability to study the coro
 The authors envisioned four phases of the search:
 
 1. Preoperational phase: planning the build and generating a list of target stars
-2. Construction years: 100 antenna per year for 10-25 years, searching the nearest target stars with the first few antennae: 15,000 stars per year; 2000 seconds per star. Half the time devoted to leakage scans and radio astronomy and the other half to searching for beacons.
+2. Construction years: 100 antenna per year for 10-25 years, searching the nearest target stars with the first few antennas: 15,000 stars per year; 2000 seconds per star. Half the time devoted to leakage scans and radio astronomy and the other half to searching for beacons.
 3. Total complete search out to 1000 light years plus transmitting beacons.
 4. Long-term effort if no signals are found and consideration of building a long-range beacon.
 
@@ -174,7 +174,7 @@ Given the premises above, the authors of the Cyclops report concluded:
 - The best frequency is 1 - 3 GHz, due to the costs, lower Doppler rates and the stability of the signal
 - The quiet frequency window between the spectral lines of hydrogen and the hydroxyl radical (the "water hole", 1420 - 1662 MHz) may be an enticing region of communication for water-based lifeforms
 - The Cyclops system could, in theory, be expanded to 100 or more square km
-- Microwave communication is possible across intergalactic distances with antenna sizes of a few km and high-speed interstellar communication would allow rapid transmission of information
+- Microwave communication is possible across intergalactic distances with an antenna array size (transmitter and receiver) equivalent to a single dish with a diameter of a few km and high-speed interstellar communication would allow rapid transmission of information
 - Both low powered directed beamed signals and high powered omnidirectional beacons are possible
 - Beacons will be circularly polarized, highly monochromatic (spectral widths of 1 Hz or less), convey information slowly and include how to respond
 - The proposed Cyclops data processing method would permit searching a 100 MHz band at 0.1 Hz resolution, which could be widened to 200 MHz to cover the water hole simultaneously
