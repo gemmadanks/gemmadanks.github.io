@@ -1,6 +1,6 @@
 ---
 title: "Technosignatures literature roundup"
-date: 2023-10-27 T19:44:00
+date: 2025-11-24 T21:20:00
 categories:
   - literature
 tags:
@@ -55,6 +55,9 @@ For each paper I've read I include links to the publication followed by links to
   - [Rationale for the water hole][oliver-1979-notes]
 - Tipler FJ: [Extraterrestrial intelligent beings do not exist.][tipler-1980-paper] Quarterly Journal of the Royal Astronomical Society 1980, 21:267–281.
   - [ETI does not exist][tipler-1980-notes]
+- Sagan C: [Extraterrestrial Intelligence: An International Petition][sagan-1982-paper]. Science 1982, 218:426–426.
+  - [Extraterrestrial Intelligence: An International Petition][sagan-1982-notes]
+
   
 # Technosignature papers currently reading
 - Lord S, Dixon R, Healy T: [Project OASIS: The Design of a Signal Detector for the Search for Extraterrestrial Intelligence][project-oasis-1981-report]. 1981.
@@ -62,7 +65,6 @@ For each paper I've read I include links to the publication followed by links to
 
 
 # Technosignature papers to-read
-2.  Sagan C: Extraterrestrial Intelligence: An International Petition. Science 1982, 218:426–426.
 3.  Sagan C, Newman WI: The Solipsist Approach to Extraterrestrial Intelligence. Quarterly Journal of the Royal Astronomical Society 1983, 24:113.
 4.  Townes CH: At what wavelengths should we search for signals from extraterrestrial intelligence? 1983, doi:https://doi.org/10.1073/pnas.80.4.1147.
 5.   Horowitz P, Sagan C, Horowitz P, Sagan C: Five Years of Project META: an All-Sky Narrow-Band Radio Search for Extraterrestrial Signals. ApJ 1993, 415:218.
@@ -140,6 +142,9 @@ For each paper I've read I include links to the publication followed by links to
 [project-oasis-notes-part-i]: https://open-research.gemmadanks.com/literature/project-oasis-part-i/
 [project-oasis-1981-report]: https://ntrs.nasa.gov/citations/19820016111
 
+
+[sagan-1982-paper]: https://www.science.org/doi/10.1126/science.218.4571.426.b
+[sagan-1982-notes]: https://open-research.gemmadanks.com/literature/eti-petition
 
 [seec]: https://seec.gsfc.nasa.gov/about.html
 
