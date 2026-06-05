@@ -48,5 +48,5 @@ This short letter petitioned for a systematic international search effort to det
 [ska-seti]: https://www.skao.int/en/explore/science-goals/145/seeking-origins-life
 [water-hole]: https://open-research.gemmadanks.com/literature/water-hole-rationale/
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+ 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>

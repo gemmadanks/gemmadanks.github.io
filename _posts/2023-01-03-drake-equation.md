@@ -120,5 +120,5 @@ Drake finished with the advice, based on experience during Project Ozma, that a 
 [why-technosignatures]: https://open-research.gemmadanks.com/planning/my-next-research-topic-technosignatures/
 [world-counts-energy-consumption]: https://www.theworldcounts.com/challenges/climate-change/energy/global-energy-consumption
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+ 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>

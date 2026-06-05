@@ -135,5 +135,5 @@ This was another paper expressing a pessimistic view of SETI and was an interest
 [o-neill-colony]: https://en.wikipedia.org/wiki/O%27Neill_cylinder
 [technosignatures-literature]: https://open-research.gemmadanks.com/literature/technosignatures-literature-roundup/
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+ 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>

@@ -59,5 +59,5 @@ Since the publication of this landmark paper there have been several attempts to
 [technosignatures-literature]: https://open-research.gemmadanks.com/literature/technosignatures-literature-roundup/
 [why-technosignatures]: https://open-research.gemmadanks.com/planning/my-next-research-topic-technosignatures/
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+ 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>

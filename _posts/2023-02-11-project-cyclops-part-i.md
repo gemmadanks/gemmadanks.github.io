@@ -268,5 +268,5 @@ The rest of the report details the design, requirements and costs of this system
 [titus-bode]: https://en.wikipedia.org/wiki/Titius%E2%80%93Bode_law
 
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+ 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
